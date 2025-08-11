@@ -9,10 +9,6 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format="{levelname}:{name}:{message}", style='{')
 logger = logging.getLogger("chat-completion")
 
-async def iterator2generator(async_iter):
-    async for chunk in async_iter:
-        yield chunk.content # Pausa, retorna o chunk.content e continua para o próximo chunk
-
 st.set_page_config(page_icon='💬')
 st.title("Not a RAG Chat")
 
@@ -35,9 +31,10 @@ if model:= st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-
 
             with st.chat_message('ai'):
                 try: 
-                    response_stream = chat.astream(prompt) # O método .asstream() retorna um objeto do tipo AsyncIterator
-                    response = st.write_stream(iterator2generator(response_stream)) # .write_stream() espera um objeto do tipo AsyncGenerator ou uma função que yielde valores
+                    response_stream = chat.stream(prompt)
+                    response = st.write_stream(response_stream)
                     st.session_state.messages.append({'role': 'assistant', 'content': response})
+                    logger.info(response)
                 except Exception as e:
                     logger.error(f'Erro na resposta da LLM: {e}')
 

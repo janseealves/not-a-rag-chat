@@ -35,8 +35,8 @@ if model:= st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-
 
             with st.chat_message('ai'):
                 try: 
-                    response = chat.astream(prompt) # O método .asstream() retorna um objeto do tipo AsyncIterator
-                    response = st.write_stream(iterator2generator(response)) # .write_stream() espera um objeto do tipo AsyncGenerator ou uma função que yielde valores
+                    response_stream = chat.astream(prompt) # O método .asstream() retorna um objeto do tipo AsyncIterator
+                    response = st.write_stream(iterator2generator(response_stream)) # .write_stream() espera um objeto do tipo AsyncGenerator ou uma função que yielde valores
                     st.session_state.messages.append({'role': 'assistant', 'content': response})
                 except Exception as e:
                     logger.error(f'Erro na resposta da LLM: {e}')

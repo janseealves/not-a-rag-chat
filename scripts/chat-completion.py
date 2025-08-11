@@ -1,21 +1,39 @@
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model #Buscar na documentação do LangChain
-from langchain_core.prompts import ChatPromptTemplate
+
+import streamlit as st
+import logging
 
 load_dotenv()
 
-chatGPT_nano = init_chat_model("openai:gpt-4.1-nano")
+logging.basicConfig(level=logging.INFO, format="{levelname}:{name}:{message}", style='{')
+logger = logging.getLogger("chat-completion")
 
-prompt_template = ChatPromptTemplate.from_messages([
-    ("system", "Translate the following English text to {language}"),
-    ("human", "{text}")
-])
+st.set_page_config(page_icon='💬')
+st.title("Not a RAG Chat (yet)")
 
-languages = ["French", "Spanish", "German", "Italian", "Portuguese"]
+if model:= st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-4.1 nano')):
+    try:
+        chat = init_chat_model(f'openai:{model.lower().replace(' ', '-')}')
+        if 'messages' not in st.session_state:
+            st.session_state.messages = []  
 
-for language in languages:
-    prompt = prompt_template.format_messages(language=language, text="Hello,  World!")
+        for message in st.session_state.messages:
+            with st.chat_message(message['role']):
+                st.markdown(message['content'])
 
-    response = chatGPT_nano.invoke(prompt)
+        if prompt:= st.chat_input('What is up?'): 
+            with st.chat_message('user'):
+                st.markdown(prompt)
 
-    print(f"{language}: {response.content}") 
+            st.session_state.messages.append({'role': 'user', 'content': prompt})
+
+            with st.chat_message('ai'):
+                try: 
+                    response = chat.invoke(prompt)
+                    st.markdown(response.content)
+                    st.session_state.messages.append({'role': 'assistant', 'content': response.content})
+                except Exception as e:
+                    logger.error(f'Erro na resposta da LLM: {e}')
+    except Exception as e: 
+        logger.error(f'Erro ao inicializar o modelo: {e}')

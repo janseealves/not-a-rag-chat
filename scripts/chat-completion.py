@@ -30,9 +30,9 @@ if model:= st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-
 
             with st.chat_message('ai'):
                 try: 
-                    response = chat.invoke(prompt)
-                    st.markdown(response.content)
-                    st.session_state.messages.append({'role': 'assistant', 'content': response.content})
+                    response = chat.astream(prompt)
+                    st.write_stream(response)
+                    st.session_state.messages.append({'role': 'assistant', 'content': response})
                 except Exception as e:
                     logger.error(f'Erro na resposta da LLM: {e}')
     except Exception as e: 

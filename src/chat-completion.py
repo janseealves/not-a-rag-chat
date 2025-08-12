@@ -12,7 +12,10 @@ logger = logging.getLogger("chat-completion")
 st.set_page_config(page_icon='💬')
 st.title("Not a RAG Chat")
 
-if model:= st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-4.1 nano')):
+with st.expander("Config ⚙️"):
+    model = st.selectbox('Select a model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-4.1 nano'))
+
+if model:
     try:
         chat = init_chat_model(f'openai:{model.lower().replace(' ', '-')}')
 

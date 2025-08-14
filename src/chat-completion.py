@@ -15,6 +15,7 @@ st.title('Not a RAG Chat')
 with st.expander('Setup ⚙️'):
     model = st.selectbox('Model:', ('GPT-4 Turbo', 'GPT-4.1 mini', 'GPT-4.1 nano'))
     temperature = st.slider('Temperature:', 0.0, 1.0, 0.3, 0.1)
+    memory_size = st.slider('Memory Size:', 0, 20, 10, 1)
 
 if model:
     try:
@@ -43,7 +44,7 @@ if model:
                     logger.error(f'Erro na resposta da LLM: {e}')
 
         # Clear messages history
-        if len(st.session_state.messages) >= 10:
+        if len(st.session_state.messages) >= memory_size:
             import time
             
             with st.status('Memory limit exceeded, resetting cache...') as status:

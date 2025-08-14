@@ -43,7 +43,7 @@ if model:
                 except Exception as e:
                     logger.error(f'Erro na resposta da LLM: {e}')
 
-        # Clear messages history
+        # Limpeza de cache
         if len(st.session_state.messages) >= memory_size:
             import time
             

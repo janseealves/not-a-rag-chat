@@ -1,0 +1,2454 @@
+[
+  {
+    "chunk_id": "509aa9a8-0d08-4059-a87d-0d081cb31b77",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\nPaciente: Maya\n\nEspécie/Raça: Canino/Chow CHow\n\nIdade: 06 anos\n\nSexo: Fêmea\n\nTutor: Renam Vermelho\n\nData: 07/11/2022\n\nVeterinário Requisitante: Dra.",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 8,
+    "chunk_position": [
+      0,
+      191
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              86.75964515750002
+            ],
+            [
+              384.48001124999996,
+              114.17379215000005
+            ],
+            [
+              542.5501627499999,
+              114.17379215000005
+            ],
+            [
+              542.5501627499999,
+              86.75964515750002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.599999249999996,
+              157.71803899999998
+            ],
+            [
+              42.599999249999996,
+              181.47849425000004
+            ],
+            [
+              87.71722109999999,
+              181.47849425000004
+            ],
+            [
+              87.71722109999999,
+              157.71803899999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Paciente: Maya",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              161.04000075,
+              157.71803899999998
+            ],
+            [
+              161.04000075,
+              181.47849425000004
+            ],
+            [
+              244.79722934999998,
+              181.47849425000004
+            ],
+            [
+              244.79722934999998,
+              157.71803899999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Espécie/Raça: Canino/Chow CHow",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              279.48001125,
+              157.71803899999998
+            ],
+            [
+              279.48001125,
+              181.47849425000004
+            ],
+            [
+              314.15721435000006,
+              181.47849425000004
+            ],
+            [
+              314.15721435000006,
+              157.71803899999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Idade: 06 anos",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              428.2799835,
+              157.71803899999998
+            ],
+            [
+              428.2799835,
+              181.47849425000004
+            ],
+            [
+              458.87720759999996,
+              181.47849425000004
+            ],
+            [
+              458.87720759999996,
+              157.71803899999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Sexo: Fêmea",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.599999249999996,
+              187.47804499999995
+            ],
+            [
+              42.599999249999996,
+              211.11848600000008
+            ],
+            [
+              114.85060164942468,
+              211.11848600000008
+            ],
+            [
+              114.85060164942468,
+              187.47804499999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Tutor: Renam Vermelho",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              428.2799835,
+              187.47804499999995
+            ],
+            [
+              428.2799835,
+              211.11848600000008
+            ],
+            [
+              475.31652696090725,
+              211.11848600000008
+            ],
+            [
+              475.31652696090725,
+              187.47804499999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "Data: 07/11/2022",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.599999249999996,
+              217.23803974999998
+            ],
+            [
+              42.599999249999996,
+              240.8784807500001
+            ],
+            [
+              153.9572211,
+              240.8784807500001
+            ],
+            [
+              153.9572211,
+              217.23803974999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Veterinário Requisitante: Dra. Rosemere Rossoni",
+        "overlap_percentage": 0.6382978723404256
+      }
+    ]
+  },
+  {
+    "chunk_id": "187a0819-4998-4e15-830b-522069a5d925",
+    "text": "Rosemere Rossoni\n\nClínica/Procedência: Life Pet\n\nULTRASSONOGRAFIA ABDOMINAL\n\nFígado: Tamanho, forma e contornos preservados.",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 4,
+    "chunk_position": [
+      192,
+      316
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.599999249999996,
+              217.23803974999998
+            ],
+            [
+              42.599999249999996,
+              240.8784807500001
+            ],
+            [
+              153.9572211,
+              240.8784807500001
+            ],
+            [
+              153.9572211,
+              217.23803974999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Veterinário Requisitante: Dra. Rosemere Rossoni",
+        "overlap_percentage": 0.3404255319148936
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              279.48001125,
+              217.23803974999998
+            ],
+            [
+              279.48001125,
+              240.8784807500001
+            ],
+            [
+              370.79722935,
+              240.8784807500001
+            ],
+            [
+              370.79722935,
+              217.23803974999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Clínica/Procedência: Life Pet",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              220.55999025,
+              270.03803525
+            ],
+            [
+              220.55999025,
+              281.0784852500001
+            ],
+            [
+              377.02485953402066,
+              281.0784852500001
+            ],
+            [
+              377.02485953402066,
+              270.03803525
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "ULTRASSONOGRAFIA ABDOMINAL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              308.55804724999996
+            ],
+            [
+              56.639997750000006,
+              319.6978613
+            ],
+            [
+              538.541434690355,
+              319.6978613
+            ],
+            [
+              538.541434690355,
+              308.55804724999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Fígado: Tamanho, forma e contornos preservados. Ecotextura homogênea e ecogenicidade difusamente diminuída Vas-",
+        "overlap_percentage": 0.42342342342342343
+      }
+    ]
+  },
+  {
+    "chunk_id": "abab9c07-fc1c-41b6-aa9c-2fa211810030",
+    "text": "Ecotextura homogênea e ecogenicidade difusamente diminuída Vas-\n\nculatura hepática normal.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      317,
+      407
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              308.55804724999996
+            ],
+            [
+              56.639997750000006,
+              319.6978613
+            ],
+            [
+              538.541434690355,
+              319.6978613
+            ],
+            [
+              538.541434690355,
+              308.55804724999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Fígado: Tamanho, forma e contornos preservados. Ecotextura homogênea e ecogenicidade difusamente diminuída Vas-",
+        "overlap_percentage": 0.5675675675675675
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              327.63804874999994
+            ],
+            [
+              56.639997750000006,
+              338.67849874999996
+            ],
+            [
+              160.40763479192103,
+              338.67849874999996
+            ],
+            [
+              160.40763479192103,
+              327.63804874999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "culatura hepática normal.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "976bbe77-af33-493c-8efa-19f780aa832e",
+    "text": "Vesícula biliar: Volume preservado.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      409,
+      444
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              347.19803900000005
+            ],
+            [
+              56.639997750000006,
+              358.33785305000004
+            ],
+            [
+              541.0846050075423,
+              358.33785305000004
+            ],
+            [
+              541.0846050075423,
+              347.19803900000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Vesícula biliar: Volume preservado. Preenchida por conteúdo anecóico e pequena quantidade de lama biliar ecogênica",
+        "overlap_percentage": 0.30701754385964913
+      }
+    ]
+  },
+  {
+    "chunk_id": "1b93ad77-7101-4e06-8ba6-5f84318a9194",
+    "text": "Preenchida por conteúdo anecóico e pequena quantidade de lama biliar ecogênica\n\ndepositada ao fundo.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      445,
+      545
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              347.19803900000005
+            ],
+            [
+              56.639997750000006,
+              358.33785305000004
+            ],
+            [
+              541.0846050075423,
+              358.33785305000004
+            ],
+            [
+              541.0846050075423,
+              347.19803900000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Vesícula biliar: Volume preservado. Preenchida por conteúdo anecóico e pequena quantidade de lama biliar ecogênica",
+        "overlap_percentage": 0.6842105263157895
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              366.15803750000003
+            ],
+            [
+              56.639997750000006,
+              377.1984875
+            ],
+            [
+              272.31596491964615,
+              377.1984875
+            ],
+            [
+              272.31596491964615,
+              366.15803750000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "depositada ao fundo. Parede fina e contorno regular.",
+        "overlap_percentage": 0.38461538461538464
+      }
+    ]
+  },
+  {
+    "chunk_id": "59c350bc-958b-427f-83eb-44a537569b09",
+    "text": "Parede fina e contorno regular.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      546,
+      577
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              366.15803750000003
+            ],
+            [
+              56.639997750000006,
+              377.1984875
+            ],
+            [
+              272.31596491964615,
+              377.1984875
+            ],
+            [
+              272.31596491964615,
+              366.15803750000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "depositada ao fundo. Parede fina e contorno regular.",
+        "overlap_percentage": 0.5961538461538461
+      }
+    ]
+  },
+  {
+    "chunk_id": "4b111f8b-7037-4e71-a3cd-e4f6855d57be",
+    "text": "Baço: Tamanho preservado, contornos irregulares em cabeça esplênica e ecogenicidade preservada.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      579,
+      674
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              385.83805325000003
+            ],
+            [
+              56.639997750000006,
+              396.9778673
+            ],
+            [
+              474.2600862621269,
+              396.9778673
+            ],
+            [
+              474.2600862621269,
+              385.83805325000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Baço: Tamanho preservado, contornos irregulares em cabeça esplênica e ecogenicidade preservada.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "49c32fdc-f51f-42ab-a69c-ec869cddf83b",
+    "text": "Rins: Tamanho, forma e contornos preservados.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      676,
+      721
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              405.51804575000006
+            ],
+            [
+              56.639997750000006,
+              416.65785980000004
+            ],
+            [
+              541.0809016023101,
+              416.65785980000004
+            ],
+            [
+              541.0809016023101,
+              405.51804575000006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Rins: Tamanho, forma e contornos preservados. Ecogenicidade cortical aumentada, ecogenicidade medular e definição",
+        "overlap_percentage": 0.39823008849557523
+      }
+    ]
+  },
+  {
+    "chunk_id": "07c51889-c624-4416-a255-4c4b7bce9df3",
+    "text": "Ecogenicidade cortical aumentada, ecogenicidade medular e definição\n\ncorticomedular normais.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      722,
+      814
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              405.51804575000006
+            ],
+            [
+              56.639997750000006,
+              416.65785980000004
+            ],
+            [
+              541.0809016023101,
+              416.65785980000004
+            ],
+            [
+              541.0809016023101,
+              405.51804575000006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Rins: Tamanho, forma e contornos preservados. Ecogenicidade cortical aumentada, ecogenicidade medular e definição",
+        "overlap_percentage": 0.5929203539823009
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              424.4780225
+            ],
+            [
+              56.639997750000006,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              424.4780225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "corticomedular normais. Pelve renal sem alterações. Diâmetro bipolar de rim esquerdo de 5,94 cm e de rim direito 5,81",
+        "overlap_percentage": 0.19658119658119658
+      }
+    ]
+  },
+  {
+    "chunk_id": "3c2fdf4c-11c2-440d-b8b2-b73d0d4887b9",
+    "text": "Pelve renal sem alterações.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      815,
+      842
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              424.4780225
+            ],
+            [
+              56.639997750000006,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              424.4780225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "corticomedular normais. Pelve renal sem alterações. Diâmetro bipolar de rim esquerdo de 5,94 cm e de rim direito 5,81",
+        "overlap_percentage": 0.23076923076923078
+      }
+    ]
+  },
+  {
+    "chunk_id": "67a3512d-bf9d-493b-bf58-be0a3922da3a",
+    "text": "Diâmetro bipolar de rim esquerdo de 5,94 cm e de rim direito 5,81\n\ncm.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      843,
+      913
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              424.4780225
+            ],
+            [
+              56.639997750000006,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              435.5184725
+            ],
+            [
+              541.040733605877,
+              424.4780225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "corticomedular normais. Pelve renal sem alterações. Diâmetro bipolar de rim esquerdo de 5,94 cm e de rim direito 5,81",
+        "overlap_percentage": 0.5555555555555556
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              443.43804425
+            ],
+            [
+              56.639997750000006,
+              454.47849425
+            ],
+            [
+              73.7323394203125,
+              454.47849425
+            ],
+            [
+              73.7323394203125,
+              443.43804425
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "cm.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "ee6c5706-b05c-41d1-a907-5affe4d51a23",
+    "text": "Bexiga: Preenchida por grande quantidade conteúdo anecóico.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      915,
+      974
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              463.11803675000004
+            ],
+            [
+              56.639997750000006,
+              474.2578508
+            ],
+            [
+              407.6427112397949,
+              474.2578508
+            ],
+            [
+              407.6427112397949,
+              463.11803675000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Bexiga: Preenchida por grande quantidade conteúdo anecóico. Parede fina e regular.",
+        "overlap_percentage": 0.7195121951219512
+      }
+    ]
+  },
+  {
+    "chunk_id": "f1591ae8-5d30-4d5c-84ff-cc69fd23d6ae",
+    "text": "Parede fina e regular.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      975,
+      997
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              463.11803675000004
+            ],
+            [
+              56.639997750000006,
+              474.2578508
+            ],
+            [
+              407.6427112397949,
+              474.2578508
+            ],
+            [
+              407.6427112397949,
+              463.11803675000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Bexiga: Preenchida por grande quantidade conteúdo anecóico. Parede fina e regular.",
+        "overlap_percentage": 0.2682926829268293
+      }
+    ]
+  },
+  {
+    "chunk_id": "24cf2f5a-2aff-4ab2-93d9-75888b298fb0",
+    "text": "Estômago: Contraído, preenchido por conteúdo líquido.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      999,
+      1052
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              482.79802925000007
+            ],
+            [
+              56.639997750000006,
+              493.93784330000005
+            ],
+            [
+              541.0784922359766,
+              493.93784330000005
+            ],
+            [
+              541.0784922359766,
+              482.79802925000007
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Estômago: Contraído, preenchido por conteúdo líquido. Parede acentuademente espessa (1,18 cm), ecogencidade e",
+        "overlap_percentage": 0.48623853211009177
+      }
+    ]
+  },
+  {
+    "chunk_id": "ebd286cb-56b9-4543-b6f7-78070f068f5b",
+    "text": "Parede acentuademente espessa (1,18 cm), ecogencidade e\n\nestratificação parietal diminuída.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1053,
+      1144
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              482.79802925000007
+            ],
+            [
+              56.639997750000006,
+              493.93784330000005
+            ],
+            [
+              541.0784922359766,
+              493.93784330000005
+            ],
+            [
+              541.0784922359766,
+              482.79802925000007
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Estômago: Contraído, preenchido por conteúdo líquido. Parede acentuademente espessa (1,18 cm), ecogencidade e",
+        "overlap_percentage": 0.5045871559633027
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              501.75805175
+            ],
+            [
+              56.639997750000006,
+              512.79850175
+            ],
+            [
+              541.0338333025463,
+              512.79850175
+            ],
+            [
+              541.0338333025463,
+              501.75805175
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "estratificação parietal diminuída. Observa-se área de erosãp de mucosa medindo 0,66 cm de diâmetro em região de corpo",
+        "overlap_percentage": 0.2905982905982906
+      }
+    ]
+  },
+  {
+    "chunk_id": "f89c1c90-3f09-4053-8fcb-b06eb49aaca5",
+    "text": "Observa-se área de erosãp de mucosa medindo 0,66 cm de diâmetro em região de corpo\n\ngástrico, em topografia de curvatura maior.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1145,
+      1272
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              501.75805175
+            ],
+            [
+              56.639997750000006,
+              512.79850175
+            ],
+            [
+              541.0338333025463,
+              512.79850175
+            ],
+            [
+              541.0338333025463,
+              501.75805175
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "estratificação parietal diminuída. Observa-se área de erosãp de mucosa medindo 0,66 cm de diâmetro em região de corpo",
+        "overlap_percentage": 0.7008547008547008
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              520.7180277500001
+            ],
+            [
+              56.639997750000006,
+              531.7584777500001
+            ],
+            [
+              500.0092893630992,
+              531.7584777500001
+            ],
+            [
+              500.0092893630992,
+              520.7180277500001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "gástrico, em topografia de curvatura maior. Observa-se intensa reatividade de gordura mesentéria adjascente.",
+        "overlap_percentage": 0.39814814814814814
+      }
+    ]
+  },
+  {
+    "chunk_id": "8b4b9477-9300-46ce-bb72-c3c34253679f",
+    "text": "Observa-se intensa reatividade de gordura mesentéria adjascente.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1273,
+      1337
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              520.7180277500001
+            ],
+            [
+              56.639997750000006,
+              531.7584777500001
+            ],
+            [
+              500.0092893630992,
+              531.7584777500001
+            ],
+            [
+              500.0092893630992,
+              520.7180277500001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "NarrativeText",
+        "content": "gástrico, em topografia de curvatura maior. Observa-se intensa reatividade de gordura mesentéria adjascente.",
+        "overlap_percentage": 0.5925925925925926
+      }
+    ]
+  },
+  {
+    "chunk_id": "9aa7f9cb-77af-4258-8ea1-d8b2cdd5ed1a",
+    "text": "Alças de intestino delgado: Preenchidas por conteúdo mucoso/gasoso.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1339,
+      1406
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              540.2780405000001
+            ],
+            [
+              56.639997750000006,
+              551.41785455
+            ],
+            [
+              541.0629437101528,
+              551.41785455
+            ],
+            [
+              541.0629437101528,
+              540.2780405000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Alças de intestino delgado: Preenchidas por conteúdo mucoso/gasoso. Parede espessa (0,57 cmduodeno; 0,50 cm",
+        "overlap_percentage": 0.6261682242990654
+      }
+    ]
+  },
+  {
+    "chunk_id": "c3b2357d-6296-43c2-8b67-9d2678159a23",
+    "text": "Parede espessa (0,57 cmduodeno; 0,50 cm\n\njejuno), contornos irregulares, com presença de corrugamento de alças em segmentos de duodeno e jejuno.",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1407,
+      1551
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              540.2780405000001
+            ],
+            [
+              56.639997750000006,
+              551.41785455
+            ],
+            [
+              541.0629437101528,
+              551.41785455
+            ],
+            [
+              541.0629437101528,
+              540.2780405000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Alças de intestino delgado: Preenchidas por conteúdo mucoso/gasoso. Parede espessa (0,57 cmduodeno; 0,50 cm",
+        "overlap_percentage": 0.3644859813084112
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              559.23806225
+            ],
+            [
+              56.639997750000006,
+              570.27851225
+            ],
+            [
+              541.0927013683622,
+              570.27851225
+            ],
+            [
+              541.0927013683622,
+              559.23806225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "jejuno), contornos irregulares, com presença de corrugamento de alças em segmentos de duodeno e jejuno. Estratificação",
+        "overlap_percentage": 0.8728813559322034
+      }
+    ]
+  },
+  {
+    "chunk_id": "78235a17-b0d8-4f81-8bd5-3ad696a3eb19",
+    "text": "Estratificação\n\nparietal preservada.",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1552,
+      1588
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              559.23806225
+            ],
+            [
+              56.639997750000006,
+              570.27851225
+            ],
+            [
+              541.0927013683622,
+              570.27851225
+            ],
+            [
+              541.0927013683622,
+              559.23806225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "jejuno), contornos irregulares, com presença de corrugamento de alças em segmentos de duodeno e jejuno. Estratificação",
+        "overlap_percentage": 0.11864406779661017
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              578.1980390000001
+            ],
+            [
+              56.639997750000006,
+              589.2384890000001
+            ],
+            [
+              412.7077934570127,
+              589.2384890000001
+            ],
+            [
+              412.7077934570127,
+              578.1980390000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "parietal preservada. Observa-se intensa reatividade de gordura mesentérica adjascente.",
+        "overlap_percentage": 0.23255813953488372
+      }
+    ]
+  },
+  {
+    "chunk_id": "88f28ed8-e998-4939-99ad-413092ed01e0",
+    "text": "Observa-se intensa reatividade de gordura mesentérica adjascente. Intestino grosso: Cólon com parede espessa (0,40 cm).",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1588,
+      1707
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              578.1980390000001
+            ],
+            [
+              56.639997750000006,
+              589.2384890000001
+            ],
+            [
+              412.7077934570127,
+              589.2384890000001
+            ],
+            [
+              412.7077934570127,
+              578.1980390000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "parietal preservada. Observa-se intensa reatividade de gordura mesentérica adjascente.",
+        "overlap_percentage": 0.7674418604651163
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              597.8780315
+            ],
+            [
+              56.639997750000006,
+              609.0178455500001
+            ],
+            [
+              431.75297803785094,
+              609.0178455500001
+            ],
+            [
+              431.75297803785094,
+              597.8780315
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Intestino grosso: Cólon com parede espessa (0,40 cm). Estratificação parietal preservada.",
+        "overlap_percentage": 0.5730337078651685
+      }
+    ]
+  },
+  {
+    "chunk_id": "342dce0f-e1d4-4178-af51-d0a60cf97cf2",
+    "text": "Estratificação parietal preservada.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1710,
+      1745
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              597.8780315
+            ],
+            [
+              56.639997750000006,
+              609.0178455500001
+            ],
+            [
+              431.75297803785094,
+              609.0178455500001
+            ],
+            [
+              431.75297803785094,
+              597.8780315
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Intestino grosso: Cólon com parede espessa (0,40 cm). Estratificação parietal preservada.",
+        "overlap_percentage": 0.39325842696629215
+      }
+    ]
+  },
+  {
+    "chunk_id": "8654a087-5c47-43c0-8b42-9ddd1b740831",
+    "text": "Linfonodos abdominais: Aumento de tamanho com diminuição de ecogenicidade de linfonodo gástrico.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1747,
+      1843
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              617.558024
+            ],
+            [
+              56.639997750000006,
+              628.6978380500001
+            ],
+            [
+              484.43204078726035,
+              628.6978380500001
+            ],
+            [
+              484.43204078726035,
+              617.558024
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Linfonodos abdominais: Aumento de tamanho com diminuição de ecogenicidade de linfonodo gástrico.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "29ac7b48-62a5-4c3c-b71f-42d0015a2c8a",
+    "text": "Pâncreas: Tamanho e forma preservada, contornos irregulares, ecogenicidade levemente diminuída.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1845,
+      1940
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              637.23806225
+            ],
+            [
+              56.639997750000006,
+              648.3778763
+            ],
+            [
+              541.0428073384685,
+              648.3778763
+            ],
+            [
+              541.0428073384685,
+              637.23806225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Pâncreas: Tamanho e forma preservada, contornos irregulares, ecogenicidade levemente diminuída. Intensa reatividade",
+        "overlap_percentage": 0.8260869565217391
+      }
+    ]
+  },
+  {
+    "chunk_id": "33deb0bb-92af-46ab-ad8f-38c4e331b0db",
+    "text": "Intensa reatividade\n\nde gordura peritoneal adjascente.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1941,
+      1995
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              637.23806225
+            ],
+            [
+              56.639997750000006,
+              648.3778763
+            ],
+            [
+              541.0428073384685,
+              648.3778763
+            ],
+            [
+              541.0428073384685,
+              637.23806225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Pâncreas: Tamanho e forma preservada, contornos irregulares, ecogenicidade levemente diminuída. Intensa reatividade",
+        "overlap_percentage": 0.16521739130434782
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              656.198039
+            ],
+            [
+              56.639997750000006,
+              667.2384890000001
+            ],
+            [
+              193.53027862225647,
+              667.2384890000001
+            ],
+            [
+              193.53027862225647,
+              656.198039
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "de gordura peritoneal adjascente.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "5987244b-94fb-4280-926d-25203fb270eb",
+    "text": "Observa-se moderada quantidade de efusão ecogênica em recessos diafragmático-hepático, hepatorenal e esplenore-\n\nnal.",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1997,
+      2114
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              675.8780315
+            ],
+            [
+              56.639997750000006,
+              687.0178455500001
+            ],
+            [
+              538.7670400330877,
+              687.0178455500001
+            ],
+            [
+              538.7670400330877,
+              675.8780315
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Observa-se moderada quantidade de efusão ecogênica em recessos diafragmático-hepático, hepatorenal e esplenore-",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              694.8380532499999
+            ],
+            [
+              56.639997750000006,
+              705.87850325
+            ],
+            [
+              73.6434983102592,
+              705.87850325
+            ],
+            [
+              73.6434983102592,
+              694.8380532499999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "nal.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "3f4a0f07-7a44-4ea5-b598-5b1a224b6e51",
+    "text": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "Footer",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      2116,
+      2190
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              763.191062
+            ],
+            [
+              372.36000824999996,
+              807.59147
+            ],
+            [
+              534.81010125,
+              807.59147
+            ],
+            [
+              534.81010125,
+              763.191062
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Footer",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "d13eb071-befa-4e35-a35c-8658b6f2e973",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\nImpressão diagnóstica:\n\nHepatopatia aguda. Pequena quantidade de lama biliar não obstrutiva.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 4,
+    "chunk_position": [
+      0,
+      135
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              86.75964515750002
+            ],
+            [
+              384.48001124999996,
+              114.17379215000005
+            ],
+            [
+              542.5501627499999,
+              114.17379215000005
+            ],
+            [
+              542.5501627499999,
+              86.75964515750002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              212.91803225
+            ],
+            [
+              56.639997750000006,
+              223.9584822500001
+            ],
+            [
+              159.9572211,
+              223.9584822500001
+            ],
+            [
+              159.9572211,
+              212.91803225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "Impressão diagnóstica:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              251.43804424999996
+            ],
+            [
+              56.639997750000006,
+              262.5778583
+            ],
+            [
+              145.46075527026707,
+              262.5778583
+            ],
+            [
+              145.46075527026707,
+              251.43804424999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Hepatopatia aguda.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              271.23803975
+            ],
+            [
+              56.639997750000006,
+              282.3778538
+            ],
+            [
+              267.81460174912786,
+              282.3778538
+            ],
+            [
+              267.81460174912786,
+              271.23803975
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Pequena quantidade de lama biliar não obstrutiva.",
+        "overlap_percentage": 0.9795918367346939
+      }
+    ]
+  },
+  {
+    "chunk_id": "bf3814cc-c88b-435a-9a16-117c401fc27c",
+    "text": "Importante gastrite com edema de parede gástrica, área de erosão em mucosa gástrica e linfadenomegalia de linfonodo\n\ngástrico.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 2,
+    "chunk_position": [
+      138,
+      264
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              290.91803225
+            ],
+            [
+              56.639997750000006,
+              302.05784630000005
+            ],
+            [
+              541.1360359471655,
+              302.05784630000005
+            ],
+            [
+              541.1360359471655,
+              290.91803225
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Importante gastrite com edema de parede gástrica, área de erosão em mucosa gástrica e linfadenomegalia de linfonodo",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              309.8780315
+            ],
+            [
+              56.639997750000006,
+              320.9184815000001
+            ],
+            [
+              93.2336124210786,
+              320.9184815000001
+            ],
+            [
+              93.2336124210786,
+              309.8780315
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "gástrico.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "f432896a-e918-4afe-aa91-0e39b797de21",
+    "text": "Importante gastroenterocolite com corrugamento de alças.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      266,
+      322
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              329.43804424999996
+            ],
+            [
+              56.639997750000006,
+              340.5778583
+            ],
+            [
+              300.47578925982907,
+              340.5778583
+            ],
+            [
+              300.47578925982907,
+              329.43804424999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Importante gastroenterocolite com corrugamento de alças.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "adb1f2d7-7e14-4d72-8596-f1e982e415c9",
+    "text": "Peritonite efusiva.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      324,
+      343
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              349.11803675000004
+            ],
+            [
+              56.639997750000006,
+              360.2578508
+            ],
+            [
+              138.4873741519743,
+              360.2578508
+            ],
+            [
+              138.4873741519743,
+              349.11803675000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Peritonite efusiva.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "ccd85eb2-22e7-4652-ae89-9bd70b414d35",
+    "text": "Moderada quantidade de efusão abdominal.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      345,
+      385
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              368.79802925
+            ],
+            [
+              56.639997750000006,
+              379.9378433
+            ],
+            [
+              513.079708059856,
+              379.9378433
+            ],
+            [
+              513.079708059856,
+              368.79802925
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Moderada quantidade de efusão abdominal. Em punção se observou conteúdo sanguinolento: Hemoabdômem.",
+        "overlap_percentage": 0.40404040404040403
+      }
+    ]
+  },
+  {
+    "chunk_id": "cfc9885a-f6e0-4536-8cbe-50b6a30e2e06",
+    "text": "Em punção se observou conteúdo sanguinolento: Hemoabdômem.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      386,
+      444
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              368.79802925
+            ],
+            [
+              56.639997750000006,
+              379.9378433
+            ],
+            [
+              513.079708059856,
+              379.9378433
+            ],
+            [
+              513.079708059856,
+              368.79802925
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Moderada quantidade de efusão abdominal. Em punção se observou conteúdo sanguinolento: Hemoabdômem.",
+        "overlap_percentage": 0.5858585858585859
+      }
+    ]
+  },
+  {
+    "chunk_id": "e817a140-faa1-4a59-ab68-e895e12dc085",
+    "text": "Sinais de pancreatopatia aguda inicial.",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      446,
+      485
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              388.598048
+            ],
+            [
+              56.639997750000006,
+              399.73786205
+            ],
+            [
+              218.71996315741276,
+              399.73786205
+            ],
+            [
+              218.71996315741276,
+              388.598048
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "ListItem",
+        "content": "Sinais de pancreatopatia aguda inicial.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "3890e366-62f2-417f-b885-915619d25e7b",
+    "text": ".",
+    "category": "UncategorizedText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      487,
+      488
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              56.639997750000006,
+              423.51804575000006
+            ],
+            [
+              56.639997750000006,
+              434.55849575
+            ],
+            [
+              61.674744840064804,
+              434.55849575
+            ],
+            [
+              61.674744840064804,
+              423.51804575000006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": ".",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "13c1dc85-4643-405c-97d0-2c08477e1820",
+    "text": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "Footer",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      490,
+      564
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              763.191062
+            ],
+            [
+              372.36000824999996,
+              807.59147
+            ],
+            [
+              534.81010125,
+              807.59147
+            ],
+            [
+              534.81010125,
+              763.191062
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Footer",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "0c263683-25fb-4ab0-960c-0296885e1a56",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\n________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "UncategorizedText",
+    "page_number": 3,
+    "source_elements_count": 2,
+    "chunk_position": [
+      0,
+      117
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              85.91963765750006
+            ],
+            [
+              384.48001124999996,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              85.91963765750006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              750.1110605
+            ],
+            [
+              372.36000824999996,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              750.1110605
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "08ea4aae-90e4-4679-b174-70ce43adf940",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\n________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "UncategorizedText",
+    "page_number": 4,
+    "source_elements_count": 2,
+    "chunk_position": [
+      0,
+      117
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              85.91963765750006
+            ],
+            [
+              384.48001124999996,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              85.91963765750006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              750.1110605
+            ],
+            [
+              372.36000824999996,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              750.1110605
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "c82003ea-cefb-4ed6-a2f4-cf7ffb7b16f2",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\n________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "UncategorizedText",
+    "page_number": 5,
+    "source_elements_count": 2,
+    "chunk_position": [
+      0,
+      117
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              85.91963765750006
+            ],
+            [
+              384.48001124999996,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              85.91963765750006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              750.1110605
+            ],
+            [
+              372.36000824999996,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              750.1110605
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "3894cc42-5ab2-487f-bbd8-6e5119624c98",
+    "text": "(27) 99644-8865 ultravet.imagem@gmail.com\n\n________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+    "category": "UncategorizedText",
+    "page_number": 6,
+    "source_elements_count": 2,
+    "chunk_position": [
+      0,
+      117
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              384.48001124999996,
+              85.91963765750006
+            ],
+            [
+              384.48001124999996,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              113.33379590000004
+            ],
+            [
+              542.5501627499999,
+              85.91963765750006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "Title",
+        "content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              372.36000824999996,
+              750.1110605
+            ],
+            [
+              372.36000824999996,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              794.63144825
+            ],
+            [
+              534.81010125,
+              750.1110605
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32001,
+          "layout_height": 841.92004
+        },
+        "category": "UncategorizedText",
+        "content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

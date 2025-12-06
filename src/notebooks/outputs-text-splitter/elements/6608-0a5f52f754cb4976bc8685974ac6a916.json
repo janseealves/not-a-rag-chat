@@ -1,0 +1,812 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        87.11999999999999,
+                        87.99568
+                    ],
+                    [
+                        87.11999999999999,
+                        167.43567999999993
+                    ],
+                    [
+                        346.56,
+                        167.43567999999993
+                    ],
+                    [
+                        346.56,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "UncategorizedText",
+            "element_id": "2e4aa251692810872c53fd1e3028f729",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Nome:FLOCK - FATIMA CHRISTINA RANGEL DIAS Idade:12 A Raça/Espécie:CANINO - SRD Local de execução: CDVET PRAIA DO CANTO- US Requisitante:ROSEMERE ROSSONI BATISTA DOMINGOS",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        404.15999999999997,
+                        87.99568
+                    ],
+                    [
+                        404.15999999999997,
+                        126.87567999999999
+                    ],
+                    [
+                        480.9782388,
+                        126.87567999999999
+                    ],
+                    [
+                        480.9782388,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "b58fa13e3211fec5d1d9f6f96ced82b1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Data:15/07/2019 Sexo:M Peso:",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        209.16,
+                        182.88400000000001
+                    ],
+                    [
+                        209.16,
+                        194.88400000000001
+                    ],
+                    [
+                        386.124,
+                        194.88400000000001
+                    ],
+                    [
+                        386.124,
+                        182.88400000000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "c94464180df1871d374c4b294c11ecc1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "LAUDO ULTRASSONOGRAFICO",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        204.63567999999998
+                    ],
+                    [
+                        85.08,
+                        215.67567999999994
+                    ],
+                    [
+                        453.09455999999994,
+                        215.67567999999994
+                    ],
+                    [
+                        453.09455999999994,
+                        204.63567999999998
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c94464180df1871d374c4b294c11ecc1",
+            "category": "NarrativeText",
+            "element_id": "3c3d761121c639a0e1c777f774546eef",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Bexiga: Repleta com conteúdo anecóico. Parede fina e regular. Ausência de litíase.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        225.27567999999997
+                    ],
+                    [
+                        85.08,
+                        250.95567999999992
+                    ],
+                    [
+                        513.0,
+                        250.95567999999992
+                    ],
+                    [
+                        513.0,
+                        225.27567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c94464180df1871d374c4b294c11ecc1",
+            "category": "NarrativeText",
+            "element_id": "b1760347fd2c18a9e51c15569ed9d94b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Rins: Dimensões normais com contornos regulares. Córtex de ecogenicidade levemente aumentada e boa definição corticomedular. Ausência de dilatação de pelve renal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        260.55568000000005
+                    ],
+                    [
+                        85.08,
+                        286.2356799999999
+                    ],
+                    [
+                        513.0,
+                        286.2356799999999
+                    ],
+                    [
+                        513.0,
+                        260.55568000000005
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c94464180df1871d374c4b294c11ecc1",
+            "category": "NarrativeText",
+            "element_id": "abc3e380a6fd03a0a6177d4650aafd3e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Baço: Dimensões normais, com ecotextura e ecogenicidade preservadas. Calibre dos vasos normais.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        295.83568
+                    ],
+                    [
+                        85.08,
+                        321.51567999999986
+                    ],
+                    [
+                        513.0,
+                        321.51567999999986
+                    ],
+                    [
+                        513.0,
+                        295.83568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c94464180df1871d374c4b294c11ecc1",
+            "category": "NarrativeText",
+            "element_id": "a7f0ba8708ee8b14a9167b80fd6e6af7",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Fígado: Dimensões normais, heterogêneo e de ecogenicidade aumentada. Calibre dos vasos normais. Espectro da veia hepática normal. Fluxo portal hepatopetal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        331.11567999999994
+                    ],
+                    [
+                        85.08,
+                        342.15567999999996
+                    ],
+                    [
+                        401.82528,
+                        342.15567999999996
+                    ],
+                    [
+                        401.82528,
+                        331.11567999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c94464180df1871d374c4b294c11ecc1",
+            "category": "NarrativeText",
+            "element_id": "cc0884c26858a894784784788d92c7fc",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Vesícula Biliar: Repleta com conteúdo anecóico. Parede fina e regular.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        351.75568
+                    ],
+                    [
+                        85.08,
+                        362.79568
+                    ],
+                    [
+                        492.90912,
+                        362.79568
+                    ],
+                    [
+                        492.90912,
+                        351.75568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "bc7b94b077ebe6ca1e0ac61b66ddf1aa",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Estômago: Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        372.39567999999997
+                    ],
+                    [
+                        85.08,
+                        398.07568
+                    ],
+                    [
+                        513.0,
+                        398.07568
+                    ],
+                    [
+                        513.0,
+                        372.39567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "bc7b94b077ebe6ca1e0ac61b66ddf1aa",
+            "category": "NarrativeText",
+            "element_id": "7a5394e8e07595f46ae07e3016daac8b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Próstata: Dimensões diminuídas, homogêneo e de ecogenicidade preservada. Aspecto bilobulado preservado e simétrico. Contornos regulares.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        407.67567999999994
+                    ],
+                    [
+                        85.08,
+                        433.35568
+                    ],
+                    [
+                        513.0,
+                        433.35568
+                    ],
+                    [
+                        513.0,
+                        407.67567999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "bc7b94b077ebe6ca1e0ac61b66ddf1aa",
+            "category": "NarrativeText",
+            "element_id": "394a21a701f674d4973df65cbd8a99d3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Alças Intestinais:Ausência de dilatação de alças. Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        442.95568
+                    ],
+                    [
+                        85.08,
+                        453.99568
+                    ],
+                    [
+                        416.33423999999997,
+                        453.99568
+                    ],
+                    [
+                        416.33423999999997,
+                        442.95568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "d91b013ab7602550d72501b290d7fe5d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Pâncreas:Dimensões normais, homogêneo e de ecogenicidade preservada.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        463.59567999999996
+                    ],
+                    [
+                        85.08,
+                        489.27567999999997
+                    ],
+                    [
+                        513.0,
+                        489.27567999999997
+                    ],
+                    [
+                        513.0,
+                        463.59567999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d91b013ab7602550d72501b290d7fe5d",
+            "category": "NarrativeText",
+            "element_id": "d9cff97e4473058d2b03111eb47ef1b4",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Adrenais:Dimensões normais Adrenal E e Adrenal D , homogênea, ecogenicidade preservada e contornos regulares e bem definidos.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        498.87568
+                    ],
+                    [
+                        85.08,
+                        509.91568
+                    ],
+                    [
+                        286.89072,
+                        509.91568
+                    ],
+                    [
+                        286.89072,
+                        498.87568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "aba667658e51b8b37e8d6a945711971c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Linfonodos: Ausência de linfoadenomegalia.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        519.51568
+                    ],
+                    [
+                        85.08,
+                        530.5556799999999
+                    ],
+                    [
+                        280.18895999999995,
+                        530.5556799999999
+                    ],
+                    [
+                        280.18895999999995,
+                        519.51568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "e99122752835373651b1b531fb0a9503",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Outros: Ausência de líquido livre cavitário.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        540.15568
+                    ],
+                    [
+                        85.08,
+                        551.19568
+                    ],
+                    [
+                        158.39999999999998,
+                        551.19568
+                    ],
+                    [
+                        158.39999999999998,
+                        540.15568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "e99122752835373651b1b531fb0a9503",
+            "category": "UncategorizedText",
+            "element_id": "ec9de7b1e3c49ae4b473c386ff0bd335",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "CONCLUSÃO:",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        560.79568
+                    ],
+                    [
+                        85.08,
+                        571.8356799999999
+                    ],
+                    [
+                        182.97072,
+                        571.8356799999999
+                    ],
+                    [
+                        182.97072,
+                        560.79568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "e99122752835373651b1b531fb0a9503",
+            "category": "ListItem",
+            "element_id": "5045572dd70b4648420f0fbe3260b272",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Hepatopatia crônica.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        581.4356799999999
+                    ],
+                    [
+                        85.08,
+                        592.4756799999999
+                    ],
+                    [
+                        165.82896,
+                        592.4756799999999
+                    ],
+                    [
+                        165.82896,
+                        581.4356799999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "e99122752835373651b1b531fb0a9503",
+            "category": "ListItem",
+            "element_id": "2f28b7d7baa01079f86735a244755162",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Senilidade renal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        122.03999999999999,
+                        731.2629999999999
+                    ],
+                    [
+                        122.03999999999999,
+                        750.5829999999999
+                    ],
+                    [
+                        466.14000000000004,
+                        750.5829999999999
+                    ],
+                    [
+                        466.14000000000004,
+                        731.2629999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a5f52f754cb4976bc8685974ac6a916.pdf",
+            "last_modified": "2019-07-16T17:39:48",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "e99122752835373651b1b531fb0a9503",
+            "category": "NarrativeText",
+            "element_id": "1553b5a98879d4d66b41e0da4e2ed2c8",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a5f52f754cb4976bc8685974ac6a916.pdf"
+        },
+        "page_content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: cdvetdiagnostico.com.br Seu usuário: 36321 e Senha: 18775",
+        "type": "Document"
+    }
+]

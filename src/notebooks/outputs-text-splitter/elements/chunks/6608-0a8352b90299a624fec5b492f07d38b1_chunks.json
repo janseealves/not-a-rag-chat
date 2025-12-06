@@ -1,0 +1,920 @@
+[
+  {
+    "chunk_id": "0f2bdc8a-09e3-427e-818a-892586500cbd",
+    "text": "(RAMAL 72102) 4004-0435\n\nNo: 0217/18\n\n(27) 99896-6339\n\nENTRADA: 21/02/18\n\nwww.codivet.com.br\n\nLIBERAÇÃO: 21/02/18\n\nAnatomia Patológica Veterinária\n\nRESPONSÁVEL TÉCNICA: LIDIANNE NARDUCCI MONTEIRO – CRMV/ES 02233\n\nRESULTADO DE EXAME CITOLÓGICO\n\nANIMAL: YUKI\n\nESPÉCIE: Canina\n\nSEXO: Fêmea\n\nIDADE: 07 anos\n\nRAÇA: Shih Tzu",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 14,
+    "chunk_position": [
+      0,
+      318
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              247.25,
+              15.951599999999985
+            ],
+            [
+              247.25,
+              53.03159999999991
+            ],
+            [
+              328.26687999999996,
+              53.03159999999991
+            ],
+            [
+              328.26687999999996,
+              15.951599999999985
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Header",
+        "content": "(RAMAL 72102) 4004-0435",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              462.34,
+              44.84999999999991
+            ],
+            [
+              462.34,
+              61.38839999999993
+            ],
+            [
+              541.00312,
+              61.38839999999993
+            ],
+            [
+              541.00312,
+              44.84999999999991
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Header",
+        "content": "No: 0217/18",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              226.37,
+              64.67160000000001
+            ],
+            [
+              226.37,
+              80.63159999999993
+            ],
+            [
+              349.14687999999995,
+              80.63159999999993
+            ],
+            [
+              349.14687999999995,
+              64.67160000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "UncategorizedText",
+        "content": "(27) 99896-6339",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              444.94,
+              70.85159999999996
+            ],
+            [
+              444.94,
+              80.81159999999988
+            ],
+            [
+              549.9488799999999,
+              80.81159999999988
+            ],
+            [
+              549.9488799999999,
+              70.85159999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "UncategorizedText",
+        "content": "ENTRADA: 21/02/18",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              217.49,
+              92.12839999999994
+            ],
+            [
+              217.49,
+              106.1683999999999
+            ],
+            [
+              357.61312,
+              106.1683999999999
+            ],
+            [
+              357.61312,
+              92.12839999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "www.codivet.com.br",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              444.94,
+              88.15160000000003
+            ],
+            [
+              444.94,
+              98.11159999999995
+            ],
+            [
+              552.22888,
+              98.11159999999995
+            ],
+            [
+              552.22888,
+              88.15160000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "LIBERAÇÃO: 21/02/18",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              208.85,
+              115.75160000000005
+            ],
+            [
+              208.85,
+              125.71159999999998
+            ],
+            [
+              364.99888000000004,
+              125.71159999999998
+            ],
+            [
+              364.99888000000004,
+              115.75160000000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "Anatomia Patológica Veterinária",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              134.54,
+              137.90840000000003
+            ],
+            [
+              134.54,
+              145.9484
+            ],
+            [
+              448.85512,
+              145.9484
+            ],
+            [
+              448.85512,
+              137.90840000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "RESPONSÁVEL TÉCNICA: LIDIANNE NARDUCCI MONTEIRO – CRMV/ES 02233",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              187.7,
+              166.33999999999992
+            ],
+            [
+              187.7,
+              178.33999999999992
+            ],
+            [
+              411.046,
+              178.33999999999992
+            ],
+            [
+              411.046,
+              166.33999999999992
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "RESULTADO DE EXAME CITOLÓGICO",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              40.8,
+              186.6716
+            ],
+            [
+              40.8,
+              196.63159999999993
+            ],
+            [
+              150.86888,
+              196.63159999999993
+            ],
+            [
+              150.86888,
+              186.6716
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "ANIMAL: YUKI",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              246.41,
+              186.6716
+            ],
+            [
+              246.41,
+              196.63159999999993
+            ],
+            [
+              344.23888000000005,
+              196.63159999999993
+            ],
+            [
+              344.23888000000005,
+              186.6716
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "ESPÉCIE: Canina",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              359.83,
+              186.6716
+            ],
+            [
+              359.83,
+              196.63159999999993
+            ],
+            [
+              435.91888,
+              196.63159999999993
+            ],
+            [
+              435.91888,
+              186.6716
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "SEXO: Fêmea",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              444.94,
+              186.6716
+            ],
+            [
+              444.94,
+              196.63159999999993
+            ],
+            [
+              520.5488799999999,
+              196.63159999999993
+            ],
+            [
+              520.5488799999999,
+              186.6716
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "IDADE: 07 anos",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              40.8,
+              209.59159999999997
+            ],
+            [
+              40.8,
+              219.5515999999999
+            ],
+            [
+              168.02888,
+              219.5515999999999
+            ],
+            [
+              168.02888,
+              209.59159999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "RAÇA: Shih Tzu",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "0bb4da87-2849-4eb4-9c6c-32b2e2bcc2ba",
+    "text": "RESPONSÁVEL: Satsuko Maria Augusta Sato\n\nSOLICITANTE: Dra. Rosemere Rossoni B. Domingos (CRMV-ES 0288), Vet Medical Center – Vitória-ES\n\nDESCRIÇÃO DO MATERIAL\n\nHistórico denota “Nódulo de pele”.\n\nColeta realizada pelo patologista no local. Coloração rápida do tipo Romanowsky.\n\nDESCRIÇÃO MICROSCÓPICA",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 6,
+    "chunk_position": [
+      320,
+      620
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              246.41,
+              209.59159999999997
+            ],
+            [
+              246.41,
+              219.5515999999999
+            ],
+            [
+              493.78888,
+              219.5515999999999
+            ],
+            [
+              493.78888,
+              209.59159999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "RESPONSÁVEL: Satsuko Maria Augusta Sato",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              40.8,
+              232.63160000000005
+            ],
+            [
+              40.8,
+              242.59159999999997
+            ],
+            [
+              522.34888,
+              242.59159999999997
+            ],
+            [
+              522.34888,
+              232.63160000000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "UncategorizedText",
+        "content": "SOLICITANTE: Dra. Rosemere Rossoni B. Domingos (CRMV-ES 0288), Vet Medical Center – Vitória-ES",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              267.38
+            ],
+            [
+              35.4,
+              276.38
+            ],
+            [
+              156.96200000000002,
+              276.38
+            ],
+            [
+              156.96200000000002,
+              267.38
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "DESCRIÇÃO DO MATERIAL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              283.2199999999999
+            ],
+            [
+              35.4,
+              292.2199999999999
+            ],
+            [
+              174.482,
+              292.2199999999999
+            ],
+            [
+              174.482,
+              283.2199999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "Histórico denota “Nódulo de pele”.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              298.5619999999999
+            ],
+            [
+              35.4,
+              307.5619999999999
+            ],
+            [
+              364.132,
+              307.5619999999999
+            ],
+            [
+              364.132,
+              298.5619999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "Coleta realizada pelo patologista no local. Coloração rápida do tipo Romanowsky.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              329.53999999999996
+            ],
+            [
+              35.4,
+              338.53999999999996
+            ],
+            [
+              165.36200000000002,
+              338.53999999999996
+            ],
+            [
+              165.36200000000002,
+              329.53999999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "DESCRIÇÃO MICROSCÓPICA",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "08296c4c-c1b1-48dd-9809-9210f9704dd0",
+    "text": "Microscopicamente observam-se amostras acentuadamente celulares compostas predominantemente por corneócitos maduros,\n\nbem como por queratinócitos nucleados em quantidade acentuada, sendo visualizados raros neutrófilos íntegros e hemácias no",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      622,
+      862
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              345.25999999999993
+            ],
+            [
+              35.4,
+              354.25999999999993
+            ],
+            [
+              562.1149999999999,
+              354.25999999999993
+            ],
+            [
+              562.1149999999999,
+              345.25999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "Microscopicamente observam-se amostras acentuadamente celulares compostas predominantemente por corneócitos maduros,",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              360.85999999999996
+            ],
+            [
+              35.4,
+              369.85999999999996
+            ],
+            [
+              562.5039999999999,
+              369.85999999999996
+            ],
+            [
+              562.5039999999999,
+              360.85999999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "bem como por queratinócitos nucleados em quantidade acentuada, sendo visualizados raros neutrófilos íntegros e hemácias no",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "7d1e1a0d-d846-44d5-919c-a78f00e40760",
+    "text": "plano de fundo das lâminas. Não foram observados outros tipos celulares ou agentes infecciosos nas amostras avaliadas.\n\nCONCLUSÃO: Achados sugestivos de CISTO FOLICULAR (Sin. Cisto epidermoide)",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      864,
+      1057
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              376.3399999999999
+            ],
+            [
+              35.4,
+              385.3399999999999
+            ],
+            [
+              525.202,
+              385.3399999999999
+            ],
+            [
+              525.202,
+              376.3399999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "plano de fundo das lâminas. Não foram observados outros tipos celulares ou agentes infecciosos nas amostras avaliadas.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              407.17999999999995
+            ],
+            [
+              35.4,
+              416.17999999999995
+            ],
+            [
+              384.652,
+              416.17999999999995
+            ],
+            [
+              384.652,
+              407.17999999999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "CONCLUSÃO: Achados sugestivos de CISTO FOLICULAR (Sin. Cisto epidermoide)",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "0355d47a-8b8a-4310-92f8-d9de520d9511",
+    "text": "Comentários: Neste caso, apesar da não visualização de células atípicas, sugere-se avaliação histopatológica para exclusão de\n\ndiferenciais, especialmente neoplasias passíveis de conter estruturas císticas foliculares no seu interior (por exemplo, neoplasias",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1059,
+      1317
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              438.25999999999993
+            ],
+            [
+              35.4,
+              447.25999999999993
+            ],
+            [
+              562.237,
+              447.25999999999993
+            ],
+            [
+              562.237,
+              438.25999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "UncategorizedText",
+        "content": "Comentários: Neste caso, apesar da não visualização de células atípicas, sugere-se avaliação histopatológica para exclusão de",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              453.99999999999994
+            ],
+            [
+              35.4,
+              462.99999999999994
+            ],
+            [
+              562.501,
+              462.99999999999994
+            ],
+            [
+              562.501,
+              453.99999999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "diferenciais, especialmente neoplasias passíveis de conter estruturas císticas foliculares no seu interior (por exemplo, neoplasias",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "691139b1-a019-47a9-bf01-a856e8281455",
+    "text": "de anexo cutâneo – tricoepitelioma, tricoblastoma, adenoma/epitelioma sebáceo com hiperqueratose ductal, etc).\n\nReferências: Raskin & Meyer. Canine and Feline Cytology. 3rd ed. Elsevier (2015).\n\nLIDIANNE NARDUCCI MONTEIRO\n\nMédica Veterinária Patologista - CRMV-ES 02233",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 4,
+    "chunk_position": [
+      1319,
+      1588
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              469.47999999999996
+            ],
+            [
+              35.4,
+              478.47999999999996
+            ],
+            [
+              489.682,
+              478.47999999999996
+            ],
+            [
+              489.682,
+              469.47999999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "de anexo cutâneo – tricoepitelioma, tricoblastoma, adenoma/epitelioma sebáceo com hiperqueratose ductal, etc).",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.4,
+              500.31999999999994
+            ],
+            [
+              35.4,
+              524.8
+            ],
+            [
+              320.452,
+              524.8
+            ],
+            [
+              320.452,
+              500.31999999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "NarrativeText",
+        "content": "Referências: Raskin & Meyer. Canine and Feline Cytology. 3rd ed. Elsevier (2015).",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              226.49,
+              547.1199999999999
+            ],
+            [
+              226.49,
+              556.1199999999999
+            ],
+            [
+              371.452,
+              556.1199999999999
+            ],
+            [
+              371.452,
+              547.1199999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "LIDIANNE NARDUCCI MONTEIRO",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              198.17,
+              562.5999999999999
+            ],
+            [
+              198.17,
+              571.5999999999999
+            ],
+            [
+              399.772,
+              571.5999999999999
+            ],
+            [
+              399.772,
+              562.5999999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 841.92
+        },
+        "category": "Title",
+        "content": "Médica Veterinária Patologista - CRMV-ES 02233",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

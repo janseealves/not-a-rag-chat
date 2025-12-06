@@ -1,0 +1,1404 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        87.11999999999999,
+                        87.99568
+                    ],
+                    [
+                        87.11999999999999,
+                        152.79567999999995
+                    ],
+                    [
+                        356.1672,
+                        152.79567999999995
+                    ],
+                    [
+                        356.1672,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "NarrativeText",
+            "element_id": "508677ec67bf1c3a709cb828176ecceb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        404.15999999999997,
+                        87.99568
+                    ],
+                    [
+                        404.15999999999997,
+                        125.91567999999995
+                    ],
+                    [
+                        480.9782388,
+                        125.91567999999995
+                    ],
+                    [
+                        480.9782388,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "UncategorizedText",
+            "element_id": "614aeb36dec8ab9714194a9674b9d2a3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Data:24/12/2021 Sexo:F Peso:11,9",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        209.16,
+                        167.284
+                    ],
+                    [
+                        209.16,
+                        179.284
+                    ],
+                    [
+                        386.124,
+                        179.284
+                    ],
+                    [
+                        386.124,
+                        167.284
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "7a2067ffd369175c349c9d887ddb0513",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "LAUDO ULTRASSONOGRÁFICO",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        188.43567999999993
+                    ],
+                    [
+                        85.08,
+                        213.51567999999997
+                    ],
+                    [
+                        513.0,
+                        213.51567999999997
+                    ],
+                    [
+                        513.0,
+                        188.43567999999993
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "54ea93af2e57bd71ad56782d2f8767d9",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Bexiga: Repleta com conteúdo anecóico. Parede espessada (0,36cm) e irregular. Presença de pequenas litíases em parede dependente, medindo até 0,2cm.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        222.51567999999997
+                    ],
+                    [
+                        85.08,
+                        247.5956799999999
+                    ],
+                    [
+                        513.0,
+                        247.5956799999999
+                    ],
+                    [
+                        513.0,
+                        222.51567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "d33072559698b078a1ee8cbdc1d995a1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Rim E: Dimensões normais com contornos irregulares. Córtex de ecogenicidade aumentada e leve perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        256.59568
+                    ],
+                    [
+                        85.08,
+                        281.67567999999994
+                    ],
+                    [
+                        513.0,
+                        281.67567999999994
+                    ],
+                    [
+                        513.0,
+                        256.59568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "0399ea458f827da505a225d13c2999c0",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Rim D: Dimensões normais com contornos regulares. Córtex de ecogenicidade aumentada e perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        290.67567999999994
+                    ],
+                    [
+                        85.08,
+                        343.83567999999997
+                    ],
+                    [
+                        513.0,
+                        343.83567999999997
+                    ],
+                    [
+                        513.0,
+                        290.67567999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "a5cc594a58ad2e996f29c2b58de83583",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Baço: Dimensões aumentadas, com ecotextura e ecogenicidade preservadas. Notam-se algumas formações esplênicas hiperecogênicas, intraparenquimatosas, sem distensão de cápsula, sendo uma delas em alvo, medindo 1,1 x 1,0cm; estas formações são vascularizadas centralmente e desviam vasos periféricos. Calibre dos vasos normais.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        352.83567999999997
+                    ],
+                    [
+                        85.08,
+                        420.03567999999996
+                    ],
+                    [
+                        513.0,
+                        420.03567999999996
+                    ],
+                    [
+                        513.0,
+                        352.83567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "0e3f0068d762f43e7e5f9d400b65885d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Fígado: Dimensões aumentadas, heterogêneo, especialmente em lobos quadrado e medial esquerdo, com uma formação que mede cerca de 5,2 x 4,3 x 2,2cm, heterogênea, mas predominantemente hiperecogênica, com algumas áreas cavitárias; notam-se outros nódulos hiperecogênicos de tamanhos variados distribuídos em demais lobos. Calibre dos vasos normais.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        429.03567999999996
+                    ],
+                    [
+                        85.08,
+                        440.07568
+                    ],
+                    [
+                        456.53808,
+                        440.07568
+                    ],
+                    [
+                        456.53808,
+                        429.03567999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "NarrativeText",
+            "element_id": "a4c61931e223a8bcead1975477670d50",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Vesícula Biliar: Repleta com conteúdo ecogênico, associado a hiperplasia mucinar.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        449.07568
+                    ],
+                    [
+                        85.08,
+                        474.15567999999996
+                    ],
+                    [
+                        513.0,
+                        474.15567999999996
+                    ],
+                    [
+                        513.0,
+                        449.07568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7a2067ffd369175c349c9d887ddb0513",
+            "category": "UncategorizedText",
+            "element_id": "a0ebf6c020bdb21921dfa6a1d5de3524",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Estômago: Parede de espessura normal com camadas bem definidas e distendido por conteúdo predominantemente gasoso.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        483.15567999999996
+                    ],
+                    [
+                        85.08,
+                        494.19568
+                    ],
+                    [
+                        200.27999999999997,
+                        494.19568
+                    ],
+                    [
+                        200.27999999999997,
+                        483.15567999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "d45bfb8e0549211013f1372345ed5f41",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Útero: Paciente castrada.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        503.19568
+                    ],
+                    [
+                        85.08,
+                        542.3156799999999
+                    ],
+                    [
+                        513.0,
+                        542.3156799999999
+                    ],
+                    [
+                        513.0,
+                        503.19568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d45bfb8e0549211013f1372345ed5f41",
+            "category": "NarrativeText",
+            "element_id": "c1bef56b140fdc54f30c768169ed60c6",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Alças Intestinais:Ausência de dilatação de alças. Parede de espessura normal (Duodeno: 0,36cm; Jejuno: 0,37cm), com camadas bem definidas e adequada motilidade. Cólon com parede fina e regular.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        551.3156799999999
+                    ],
+                    [
+                        85.08,
+                        562.3556799999999
+                    ],
+                    [
+                        423.65423999999996,
+                        562.3556799999999
+                    ],
+                    [
+                        423.65423999999996,
+                        551.3156799999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "0aad0b9a3349814810e4d80c1139b581",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Pâncreas:Dimensões limítrofes, homogêneo e de ecogenicidade preservada.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        571.35568
+                    ],
+                    [
+                        85.08,
+                        624.51568
+                    ],
+                    [
+                        513.0,
+                        624.51568
+                    ],
+                    [
+                        513.0,
+                        571.35568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "0aad0b9a3349814810e4d80c1139b581",
+            "category": "NarrativeText",
+            "element_id": "7aaa50db296950c6d13b6ab46738a49c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Adrenais:Dimensões aumentadas, medindo a Adrenal E ( 3,66cm comp. x 1,69cm Polo Caudal x 1,32cm Polo Cranial), heterogênea, irregular e com aumento da ecogenicidade tissular peri- glandular; Adrenal D (1,54cm comp. x 0,51cm Polo Caudal x 0,57cm Polo Cranial), homogênea, ecogenicidade preservada e contornos regulares e bem definidos.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        633.51568
+                    ],
+                    [
+                        85.08,
+                        644.5556799999999
+                    ],
+                    [
+                        513.0,
+                        644.5556799999999
+                    ],
+                    [
+                        513.0,
+                        633.51568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "f8a00f56e9ef903cf58d713460ffd004",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Outros: Presença de uma formação heterogênea, cranioventral ao rim esquerdo, caudal ao",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        127.44,
+                        735.223
+                    ],
+                    [
+                        127.44,
+                        753.3446799999999
+                    ],
+                    [
+                        460.71119999999996,
+                        753.3446799999999
+                    ],
+                    [
+                        460.71119999999996,
+                        735.223
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f8a00f56e9ef903cf58d713460ffd004",
+            "category": "NarrativeText",
+            "element_id": "fc6367857162a31c621350dc404effd4",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        87.11999999999999,
+                        87.99568
+                    ],
+                    [
+                        87.11999999999999,
+                        152.79567999999995
+                    ],
+                    [
+                        356.1672,
+                        152.79567999999995
+                    ],
+                    [
+                        356.1672,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f8a00f56e9ef903cf58d713460ffd004",
+            "category": "NarrativeText",
+            "element_id": "8a0c3a56c955a038312a7b6232605020",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        404.15999999999997,
+                        87.99568
+                    ],
+                    [
+                        404.15999999999997,
+                        125.91567999999995
+                    ],
+                    [
+                        480.9782388,
+                        125.91567999999995
+                    ],
+                    [
+                        480.9782388,
+                        87.99568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f8a00f56e9ef903cf58d713460ffd004",
+            "category": "UncategorizedText",
+            "element_id": "9d3acee3ca804ea6f106ce03db9b8ee3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Data:24/12/2021 Sexo:F Peso:11,9",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        167.07568000000003
+                    ],
+                    [
+                        85.08,
+                        178.11568
+                    ],
+                    [
+                        342.89088,
+                        178.11568
+                    ],
+                    [
+                        342.89088,
+                        167.07568000000003
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "4c269d3dfd09d20d5a4d9eedd05e2088",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "estômago e dorsal ao baço, medindo cerca de 3,5 x 2,8cm.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        187.11568
+                    ],
+                    [
+                        121.08,
+                        198.15567999999996
+                    ],
+                    [
+                        513.0,
+                        198.15567999999996
+                    ],
+                    [
+                        513.0,
+                        187.11568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "4c269d3dfd09d20d5a4d9eedd05e2088",
+            "category": "NarrativeText",
+            "element_id": "4db515ff8ecc5c86415753a7e125b4ce",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Visualizada formação ecogênica intraluminal em veia cava caudal, medindo cerca de",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        201.15567999999996
+                    ],
+                    [
+                        85.08,
+                        212.19567999999992
+                    ],
+                    [
+                        319.10543999999993,
+                        212.19567999999992
+                    ],
+                    [
+                        319.10543999999993,
+                        201.15567999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "2aac32d1e631c9f24ed05baf4544b3a7",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "4,0 x 1,0cm, promovendo obstrução parcial de fluxo.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        221.19567999999992
+                    ],
+                    [
+                        121.08,
+                        232.2356799999999
+                    ],
+                    [
+                        513.0,
+                        232.2356799999999
+                    ],
+                    [
+                        513.0,
+                        221.19567999999992
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "25cf3fda6e8ac84e0b27c8dc5c3fc5ee",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Formação mamária heterogênea, medindo cerca de 2,8 x 1,2cm, em mama abdominal",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        235.23568
+                    ],
+                    [
+                        85.08,
+                        246.27567999999997
+                    ],
+                    [
+                        158.63616,
+                        246.27567999999997
+                    ],
+                    [
+                        158.63616,
+                        235.23568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "45412eeb7802d8b529a08547511127d3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "caudal esquerda.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        255.27567999999997
+                    ],
+                    [
+                        85.08,
+                        266.31567999999993
+                    ],
+                    [
+                        161.99999999999997,
+                        266.31567999999993
+                    ],
+                    [
+                        161.99999999999997,
+                        255.27567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "45412eeb7802d8b529a08547511127d3",
+            "category": "UncategorizedText",
+            "element_id": "9b8c9b996fecfa76ae8fd2c9b163e7bd",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "CONCLUSÃO:",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        275.31568000000004
+                    ],
+                    [
+                        121.08,
+                        286.35568
+                    ],
+                    [
+                        288.14544,
+                        286.35568
+                    ],
+                    [
+                        288.14544,
+                        275.31568000000004
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "f9173addca3ff423c16d02208ece32ad",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Cistite com cristalúria e microlitíases.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        295.35568
+                    ],
+                    [
+                        121.08,
+                        306.39567999999997
+                    ],
+                    [
+                        288.53808,
+                        306.39567999999997
+                    ],
+                    [
+                        288.53808,
+                        295.35568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "1048cce1b9b34a160e17992f25166585",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Sugestiva nefropatia crônica bilateral.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        315.39567999999997
+                    ],
+                    [
+                        121.08,
+                        326.43567999999993
+                    ],
+                    [
+                        481.32,
+                        326.43567999999993
+                    ],
+                    [
+                        481.32,
+                        315.39567999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "17d4e3abc600c07ce3e4268acc870c88",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Formações mamária, esplênica, hepática e mesentérica de etiologia a esclarecer -",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        329.43567999999993
+                    ],
+                    [
+                        85.08,
+                        354.51568
+                    ],
+                    [
+                        447.84,
+                        354.51568
+                    ],
+                    [
+                        447.84,
+                        329.43567999999993
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "17d4e3abc600c07ce3e4268acc870c88",
+            "category": "UncategorizedText",
+            "element_id": "5fecfca748f0472e3b81157c8001dc2b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "investigar a possibilidade de processo neoplásico - primário / metastático - sugiro complementação com exame cito/histopatológico para confirmação diagnóstica.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        363.51568
+                    ],
+                    [
+                        121.08,
+                        374.55568
+                    ],
+                    [
+                        458.64,
+                        374.55568
+                    ],
+                    [
+                        458.64,
+                        363.51568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "96261bd7540044cdeeead08495ba7c7b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Hepatopatia vacuolar / crônica com mucocele biliar, sugerindo secundária à",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        377.55567999999994
+                    ],
+                    [
+                        85.08,
+                        388.59567999999996
+                    ],
+                    [
+                        196.05071999999998,
+                        388.59567999999996
+                    ],
+                    [
+                        196.05071999999998,
+                        377.55567999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "be7b52522bd0ecc48be6484d2e58bfdf",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "colangiohepatite crônica.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        121.08,
+                        397.59567999999996
+                    ],
+                    [
+                        121.08,
+                        408.63568
+                    ],
+                    [
+                        493.44,
+                        408.63568
+                    ],
+                    [
+                        493.44,
+                        397.59567999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "aa4bbdcfd6ce41a7eb28b511b3d2fd76",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Hiperplasia adrenal direita e sugestiva neoplasia adrenal esquerda, com presença de",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        85.08,
+                        411.63568
+                    ],
+                    [
+                        85.08,
+                        422.67568
+                    ],
+                    [
+                        251.1744,
+                        422.67568
+                    ],
+                    [
+                        251.1744,
+                        411.63568
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "a70e021bbe24852f1c183391da6467bc",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "trombo vascular em veia cava caudal.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        127.44,
+                        735.223
+                    ],
+                    [
+                        127.44,
+                        753.3446799999999
+                    ],
+                    [
+                        460.71119999999996,
+                        753.3446799999999
+                    ],
+                    [
+                        460.71119999999996,
+                        735.223
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.56,
+                "layout_height": 842.28
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf",
+            "last_modified": "2021-12-29T14:25:16",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "a70e021bbe24852f1c183391da6467bc",
+            "category": "NarrativeText",
+            "element_id": "5649068c66f7688efa031ec848fbd180",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b2b2a3568d30e31ff80e4ab897e6711.pdf"
+        },
+        "page_content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+        "type": "Document"
+    }
+]

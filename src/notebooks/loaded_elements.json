@@ -2,2162 +2,1702 @@
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        384.48001124999996,
-                        86.75964515750002
+                        347.832,
+                        95.11199999999997
                     ],
                     [
-                        384.48001124999996,
-                        114.17379215000005
+                        347.832,
+                        103.11199999999997
                     ],
                     [
-                        542.5501627499999,
-                        114.17379215000005
+                        414.648,
+                        103.11199999999997
                     ],
                     [
-                        542.5501627499999,
-                        86.75964515750002
+                        414.648,
+                        95.11199999999997
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "17c5e07910ba24fceacd9203c0d53229"
-        },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        42.599999249999996,
-                        157.71803899999998
-                    ],
-                    [
-                        42.599999249999996,
-                        181.47849425000004
-                    ],
-                    [
-                        87.71722109999999,
-                        181.47849425000004
-                    ],
-                    [
-                        87.71722109999999,
-                        157.71803899999998
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "4041a11c818b00d6c54ddd0e59e53412"
-        },
-        "page_content": "Paciente: Maya",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        161.04000075,
-                        157.71803899999998
-                    ],
-                    [
-                        161.04000075,
-                        181.47849425000004
-                    ],
-                    [
-                        244.79722934999998,
-                        181.47849425000004
-                    ],
-                    [
-                        244.79722934999998,
-                        157.71803899999998
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "5cd63f86b774a25f092882476b346eee"
-        },
-        "page_content": "Espécie/Raça: Canino/Chow CHow",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        279.48001125,
-                        157.71803899999998
-                    ],
-                    [
-                        279.48001125,
-                        181.47849425000004
-                    ],
-                    [
-                        314.15721435000006,
-                        181.47849425000004
-                    ],
-                    [
-                        314.15721435000006,
-                        157.71803899999998
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "e1f4fde2602f384ce657b0d1385c3fbd"
-        },
-        "page_content": "Idade: 06 anos",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        428.2799835,
-                        157.71803899999998
-                    ],
-                    [
-                        428.2799835,
-                        181.47849425000004
-                    ],
-                    [
-                        458.87720759999996,
-                        181.47849425000004
-                    ],
-                    [
-                        458.87720759999996,
-                        157.71803899999998
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "8e71f33a726a7a66a98f52db47459500"
-        },
-        "page_content": "Sexo: Fêmea",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        42.599999249999996,
-                        187.47804499999995
-                    ],
-                    [
-                        42.599999249999996,
-                        211.11848600000008
-                    ],
-                    [
-                        114.85060164942468,
-                        211.11848600000008
-                    ],
-                    [
-                        114.85060164942468,
-                        187.47804499999995
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "addd2acebfff6f3a3c15f58ad9fa1856"
-        },
-        "page_content": "Tutor: Renam Vermelho",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        428.2799835,
-                        187.47804499999995
-                    ],
-                    [
-                        428.2799835,
-                        211.11848600000008
-                    ],
-                    [
-                        475.31652696090725,
-                        211.11848600000008
-                    ],
-                    [
-                        475.31652696090725,
-                        187.47804499999995
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "addd2acebfff6f3a3c15f58ad9fa1856",
             "category": "UncategorizedText",
-            "element_id": "e509bee4eb3e8b301c0f1482f9cc88e0"
+            "element_id": "c156ddbcfd85bb902292ea4e74827ba5"
         },
-        "page_content": "Data: 07/11/2022",
+        "page_content": "005-MultVet 4.22®",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        42.599999249999996,
-                        217.23803974999998
+                        70.848,
+                        129.582
                     ],
                     [
-                        42.599999249999996,
-                        240.8784807500001
+                        70.848,
+                        196.2460000000001
                     ],
                     [
-                        153.9572211,
-                        240.8784807500001
+                        185.952,
+                        196.2460000000001
                     ],
                     [
-                        153.9572211,
-                        217.23803974999998
+                        185.952,
+                        129.582
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "UncategorizedText",
+            "element_id": "796cfe66cdffade2ff8cef4b7c05517f"
+        },
+        "page_content": "Nome do Animal: Norma Espécie: Canina Raça: Não Informada Sexo: Fêmea Tutor(a): Kátia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        181.368,
+                        172.062
+                    ],
+                    [
+                        181.368,
+                        182.062
+                    ],
+                    [
+                        210.818,
+                        182.062
+                    ],
+                    [
+                        210.818,
+                        172.062
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "9c35900922f8f50488dd7c2f31bad90d"
+            "element_id": "8c505fa54f66099de75f3964693a9b96"
         },
-        "page_content": "Veterinário Requisitante: Dra. Rosemere Rossoni",
+        "page_content": "Idade:",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        279.48001125,
-                        217.23803974999998
+                        266.472,
+                        129.582
                     ],
                     [
-                        279.48001125,
-                        240.8784807500001
+                        266.472,
+                        167.87800000000004
                     ],
                     [
-                        370.79722935,
-                        240.8784807500001
+                        344.82199999999995,
+                        167.87800000000004
                     ],
                     [
-                        370.79722935,
-                        217.23803974999998
+                        344.82199999999995,
+                        129.582
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "c5e586d984e6909e1c7300f03ce140f9"
+            "element_id": "aaeaacf9f36753d7763c8293efa7a6e9"
         },
-        "page_content": "Clínica/Procedência: Life Pet",
+        "page_content": "Requisição: Data de entrada: Veterinário(a):",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        220.55999025,
-                        270.03803525
+                        334.512,
+                        129.582
                     ],
                     [
-                        220.55999025,
-                        281.0784852500001
+                        334.512,
+                        139.582
                     ],
                     [
-                        377.02485953402066,
-                        281.0784852500001
+                        362.312,
+                        139.582
                     ],
                     [
-                        377.02485953402066,
-                        270.03803525
+                        362.312,
+                        129.582
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aaeaacf9f36753d7763c8293efa7a6e9",
+            "category": "UncategorizedText",
+            "element_id": "09d2b6402b89e927f0a360541bea79fb"
+        },
+        "page_content": "21599",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        354.312,
+                        143.76600000000008
+                    ],
+                    [
+                        354.312,
+                        153.76600000000008
+                    ],
+                    [
+                        404.35200000000003,
+                        153.76600000000008
+                    ],
+                    [
+                        404.35200000000003,
+                        143.76600000000008
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aaeaacf9f36753d7763c8293efa7a6e9",
+            "category": "UncategorizedText",
+            "element_id": "4439f01547e5ef56a9db02d0197f8352"
+        },
+        "page_content": "26/01/2024",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        343.008,
+                        157.87800000000004
+                    ],
+                    [
+                        343.008,
+                        182.062
+                    ],
+                    [
+                        428.028,
+                        182.062
+                    ],
+                    [
+                        428.028,
+                        157.87800000000004
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "0be9f4980f9aa4683b5cc65e21b27449"
+            "element_id": "df9dd03fe9fa6944fe18b91e956d1175"
         },
-        "page_content": "ULTRASSONOGRAFIA ABDOMINAL",
+        "page_content": "Rosemere Rossoni CRMV:0288",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        308.55804724999996
+                        212.616,
+                        172.062
                     ],
                     [
-                        56.639997750000006,
-                        319.6978613
+                        212.616,
+                        182.062
                     ],
                     [
-                        538.541434690355,
-                        319.6978613
+                        278.196,
+                        182.062
                     ],
                     [
-                        538.541434690355,
-                        308.55804724999996
+                        278.196,
+                        172.062
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "0be9f4980f9aa4683b5cc65e21b27449",
-            "category": "ListItem",
-            "element_id": "8d66291b711f28ee746110c772eef83d"
-        },
-        "page_content": "Fígado: Tamanho, forma e contornos preservados. Ecotextura homogênea e ecogenicidade difusamente diminuída Vas-",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        327.63804874999994
-                    ],
-                    [
-                        56.639997750000006,
-                        338.67849874999996
-                    ],
-                    [
-                        160.40763479192103,
-                        338.67849874999996
-                    ],
-                    [
-                        160.40763479192103,
-                        327.63804874999994
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "1f8b5c94a232f525a0c31878cd04d18b"
+            "element_id": "24e663eb34c0738defca42749f473a43"
         },
-        "page_content": "culatura hepática normal.",
+        "page_content": "Não informada",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        347.19803900000005
+                        266.472,
+                        186.2460000000001
                     ],
                     [
-                        56.639997750000006,
-                        358.33785305000004
+                        266.472,
+                        196.2460000000001
                     ],
                     [
-                        541.0846050075423,
-                        358.33785305000004
+                        305.37199999999996,
+                        196.2460000000001
                     ],
                     [
-                        541.0846050075423,
-                        347.19803900000005
+                        305.37199999999996,
+                        186.2460000000001
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "1f8b5c94a232f525a0c31878cd04d18b",
-            "category": "ListItem",
-            "element_id": "bf1df3e7c918b6cd0946d0fca2b2368f"
+            "category": "Title",
+            "element_id": "1e5d243f4d8954bbbeac9c6dbfe5e72d"
         },
-        "page_content": "Vesícula biliar: Volume preservado. Preenchida por conteúdo anecóico e pequena quantidade de lama biliar ecogênica",
+        "page_content": "Clínica :",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        366.15803750000003
+                        311.832,
+                        186.2460000000001
                     ],
                     [
-                        56.639997750000006,
-                        377.1984875
+                        311.832,
+                        196.2460000000001
                     ],
                     [
-                        272.31596491964615,
-                        377.1984875
+                        409.63200000000006,
+                        196.2460000000001
                     ],
                     [
-                        272.31596491964615,
-                        366.15803750000003
+                        409.63200000000006,
+                        186.2460000000001
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "1f8b5c94a232f525a0c31878cd04d18b",
+            "category": "Title",
+            "element_id": "8eb14dbf2c3a52a95535f8452e652d25"
+        },
+        "page_content": "Cia dos Bichos - VMC",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        28.368,
+                        212.42700000000002
+                    ],
+                    [
+                        28.368,
+                        238.798
+                    ],
+                    [
+                        115.039,
+                        238.798
+                    ],
+                    [
+                        115.039,
+                        212.42700000000002
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "55c8c2693aff77d336ffe98c44b9c3e2"
+        },
+        "page_content": "HEMOGRAMA ERITROGRAMA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        124.776,
+                        228.798
+                    ],
+                    [
+                        124.776,
+                        238.798
+                    ],
+                    [
+                        178.676,
+                        238.798
+                    ],
+                    [
+                        178.676,
+                        228.798
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "97d9a4e6200eb899506f8a8591d17e7b"
+        },
+        "page_content": "Resultados",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        296.928,
+                        228.798
+                    ],
+                    [
+                        296.928,
+                        238.798
+                    ],
+                    [
+                        398.088,
+                        238.798
+                    ],
+                    [
+                        398.088,
+                        228.798
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "97d9a4e6200eb899506f8a8591d17e7b",
             "category": "NarrativeText",
-            "element_id": "9d2cb75fe451705b73b998f0ca73685d"
+            "element_id": "e15148578ec1201aff6078db5dcf9305"
         },
-        "page_content": "depositada ao fundo. Parede fina e contorno regular.",
+        "page_content": "Valores de referência",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        385.83805325000003
+                        28.368,
+                        245.86200000000008
                     ],
                     [
-                        56.639997750000006,
-                        396.9778673
+                        28.368,
+                        332.39799999999997
                     ],
                     [
-                        474.2600862621269,
-                        396.9778673
+                        111.168,
+                        332.39799999999997
                     ],
                     [
-                        474.2600862621269,
-                        385.83805325000003
+                        111.168,
+                        245.86200000000008
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "1f8b5c94a232f525a0c31878cd04d18b",
-            "category": "ListItem",
-            "element_id": "59db866c9521600f6d84848aab99a88a"
+            "category": "Title",
+            "element_id": "f9efd72d362e25e950758a4dbbe45d16"
         },
-        "page_content": "Baço: Tamanho preservado, contornos irregulares em cabeça esplênica e ecogenicidade preservada.",
+        "page_content": "Hemácias: Hemoglobina: Hematócrito: VCM: CHCM: Conclusão Amostra Lipêmica.",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        405.51804575000006
+                        142.272,
+                        245.86200000000008
                     ],
                     [
-                        56.639997750000006,
-                        416.65785980000004
+                        142.272,
+                        309.7180000000001
                     ],
                     [
-                        541.0809016023101,
-                        416.65785980000004
+                        161.732,
+                        309.7180000000001
                     ],
                     [
-                        541.0809016023101,
-                        405.51804575000006
+                        161.732,
+                        245.86200000000008
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "1f8b5c94a232f525a0c31878cd04d18b",
-            "category": "ListItem",
-            "element_id": "8986d6b84c45fa48a67e125c95d2b706"
+            "parent_id": "f9efd72d362e25e950758a4dbbe45d16",
+            "category": "UncategorizedText",
+            "element_id": "03c2bfec86c5127904da7279baae552b"
         },
-        "page_content": "Rins: Tamanho, forma e contornos preservados. Ecogenicidade cortical aumentada, ecogenicidade medular e definição",
+        "page_content": "6,8 16,0 49 71,3 32,9",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        424.4780225
+                        318.672,
+                        245.86200000000008
                     ],
                     [
-                        56.639997750000006,
-                        435.5184725
+                        318.672,
+                        309.7180000000001
                     ],
                     [
-                        541.040733605877,
-                        435.5184725
+                        373.142,
+                        309.7180000000001
                     ],
                     [
-                        541.040733605877,
-                        424.4780225
+                        373.142,
+                        245.86200000000008
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "1f8b5c94a232f525a0c31878cd04d18b",
+            "parent_id": "f9efd72d362e25e950758a4dbbe45d16",
+            "category": "UncategorizedText",
+            "element_id": "f75cfae74ef3a96c82d4b6013d1d8803"
+        },
+        "page_content": "(5.5 - 8.5) (12,0 - 18,0) (37 - 55) (60,0 - 77,0) (32,0 - 36,0)",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        422.352,
+                        242.361
+                    ],
+                    [
+                        422.352,
+                        249.361
+                    ],
+                    [
+                        426.24399999999997,
+                        249.361
+                    ],
+                    [
+                        426.24399999999997,
+                        242.361
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f9efd72d362e25e950758a4dbbe45d16",
+            "category": "UncategorizedText",
+            "element_id": "8598717f11c740fd09458fad9757a171"
+        },
+        "page_content": "6",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        413.856,
+                        248.39100000000008
+                    ],
+                    [
+                        413.856,
+                        280.071
+                    ],
+                    [
+                        454.365,
+                        280.071
+                    ],
+                    [
+                        454.365,
+                        248.39100000000008
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f9efd72d362e25e950758a4dbbe45d16",
+            "category": "UncategorizedText",
+            "element_id": "dec52e8b0bef59e762245adca62b7fe9"
+        },
+        "page_content": "10 /mm ³ g% %",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        413.856,
+                        285.2550000000001
+                    ],
+                    [
+                        413.856,
+                        294.2550000000001
+                    ],
+                    [
+                        418.356,
+                        294.2550000000001
+                    ],
+                    [
+                        418.356,
+                        285.2550000000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "bf1b0d4fdc6be1efdffac451cc784bea"
+        },
+        "page_content": "fl",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        413.856,
+                        299.5110000000001
+                    ],
+                    [
+                        413.856,
+                        308.5110000000001
+                    ],
+                    [
+                        431.37,
+                        308.5110000000001
+                    ],
+                    [
+                        431.37,
+                        299.5110000000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "7618e8f502f9bb83783e35988dfe88b6"
+        },
+        "page_content": "g/dL",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        28.368,
+                        345.006
+                    ],
+                    [
+                        28.368,
+                        355.006
+                    ],
+                    [
+                        101.13799999999999,
+                        355.006
+                    ],
+                    [
+                        101.13799999999999,
+                        345.006
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "cf3187fb971d673e0a6195a92c964b46"
+        },
+        "page_content": "LEUCOGRAMA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        124.776,
+                        345.006
+                    ],
+                    [
+                        124.776,
+                        355.006
+                    ],
+                    [
+                        178.676,
+                        355.006
+                    ],
+                    [
+                        178.676,
+                        345.006
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "860ca1e94cd24d18c645e782d58a8826"
+        },
+        "page_content": "Resultados",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        296.928,
+                        345.006
+                    ],
+                    [
+                        296.928,
+                        355.006
+                    ],
+                    [
+                        398.088,
+                        355.006
+                    ],
+                    [
+                        398.088,
+                        345.006
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "860ca1e94cd24d18c645e782d58a8826",
             "category": "NarrativeText",
-            "element_id": "7fff9011458781bb1f68f2d31451a397"
+            "element_id": "385befaa51b7742dbf11d60e6ba09e16"
         },
-        "page_content": "corticomedular normais. Pelve renal sem alterações. Diâmetro bipolar de rim esquerdo de 5,94 cm e de rim direito 5,81",
+        "page_content": "Valores de referência",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        443.43804425
+                        28.368,
+                        361.926
                     ],
                     [
-                        56.639997750000006,
-                        454.47849425
+                        28.368,
+                        371.926
                     ],
                     [
-                        73.7323394203125,
-                        454.47849425
+                        105.628,
+                        371.926
                     ],
                     [
-                        73.7323394203125,
-                        443.43804425
+                        105.628,
+                        361.926
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "57575767ff5229771326b535e9a3a294"
+            "element_id": "ce6fe356cfbc04d3a80b157ab27f4bbf"
         },
-        "page_content": "cm.",
+        "page_content": "Leucócitos totais:",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        463.11803675000004
+                        162.432,
+                        361.926
                     ],
                     [
-                        56.639997750000006,
-                        474.2578508
+                        162.432,
+                        371.926
                     ],
                     [
-                        407.6427112397949,
-                        474.2578508
+                        215.21200000000002,
+                        371.926
                     ],
                     [
-                        407.6427112397949,
-                        463.11803675000004
+                        215.21200000000002,
+                        361.926
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
-            "category": "ListItem",
-            "element_id": "598d427498fb4ab7ab36064def91911f"
-        },
-        "page_content": "Bexiga: Preenchida por grande quantidade conteúdo anecóico. Parede fina e regular.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        482.79802925000007
-                    ],
-                    [
-                        56.639997750000006,
-                        493.93784330000005
-                    ],
-                    [
-                        541.0784922359766,
-                        493.93784330000005
-                    ],
-                    [
-                        541.0784922359766,
-                        482.79802925000007
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
-            "category": "ListItem",
-            "element_id": "8aa807e7626c0b97cab64a34f74231cc"
-        },
-        "page_content": "Estômago: Contraído, preenchido por conteúdo líquido. Parede acentuademente espessa (1,18 cm), ecogencidade e",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        501.75805175
-                    ],
-                    [
-                        56.639997750000006,
-                        512.79850175
-                    ],
-                    [
-                        541.0338333025463,
-                        512.79850175
-                    ],
-                    [
-                        541.0338333025463,
-                        501.75805175
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
-            "category": "NarrativeText",
-            "element_id": "9b0667fc9ece81a60275ad937c328cc4"
-        },
-        "page_content": "estratificação parietal diminuída. Observa-se área de erosãp de mucosa medindo 0,66 cm de diâmetro em região de corpo",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        520.7180277500001
-                    ],
-                    [
-                        56.639997750000006,
-                        531.7584777500001
-                    ],
-                    [
-                        500.0092893630992,
-                        531.7584777500001
-                    ],
-                    [
-                        500.0092893630992,
-                        520.7180277500001
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
-            "category": "NarrativeText",
-            "element_id": "34d56373cb12b83da383074739cd282f"
-        },
-        "page_content": "gástrico, em topografia de curvatura maior. Observa-se intensa reatividade de gordura mesentéria adjascente.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        540.2780405000001
-                    ],
-                    [
-                        56.639997750000006,
-                        551.41785455
-                    ],
-                    [
-                        541.0629437101528,
-                        551.41785455
-                    ],
-                    [
-                        541.0629437101528,
-                        540.2780405000001
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
-            "category": "ListItem",
-            "element_id": "5cc9f4a3456668046568c30d24a6be53"
-        },
-        "page_content": "Alças de intestino delgado: Preenchidas por conteúdo mucoso/gasoso. Parede espessa (0,57 cmduodeno; 0,50 cm",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        559.23806225
-                    ],
-                    [
-                        56.639997750000006,
-                        570.27851225
-                    ],
-                    [
-                        541.0927013683622,
-                        570.27851225
-                    ],
-                    [
-                        541.0927013683622,
-                        559.23806225
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "57575767ff5229771326b535e9a3a294",
+            "parent_id": "ce6fe356cfbc04d3a80b157ab27f4bbf",
             "category": "UncategorizedText",
-            "element_id": "fbd3f626945490981047832313b4c000"
+            "element_id": "e689d67ec2214ef7e91fb9d5b388bec9"
         },
-        "page_content": "jejuno), contornos irregulares, com presença de corrugamento de alças em segmentos de duodeno e jejuno. Estratificação",
+        "page_content": "12.100 /µL",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        56.639997750000006,
-                        578.1980390000001
+                        311.832,
+                        361.926
                     ],
                     [
-                        56.639997750000006,
-                        589.2384890000001
+                        311.832,
+                        371.926
                     ],
                     [
-                        412.7077934570127,
-                        589.2384890000001
+                        382.982,
+                        371.926
                     ],
                     [
-                        412.7077934570127,
-                        578.1980390000001
+                        382.982,
+                        361.926
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
             "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "2f265718e7d68f1dd61cec8542141fea"
-        },
-        "page_content": "parietal preservada. Observa-se intensa reatividade de gordura mesentérica adjascente.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        597.8780315
-                    ],
-                    [
-                        56.639997750000006,
-                        609.0178455500001
-                    ],
-                    [
-                        431.75297803785094,
-                        609.0178455500001
-                    ],
-                    [
-                        431.75297803785094,
-                        597.8780315
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2f265718e7d68f1dd61cec8542141fea",
-            "category": "ListItem",
-            "element_id": "bbd910ae8cd3d53ef13237ee46734392"
-        },
-        "page_content": "Intestino grosso: Cólon com parede espessa (0,40 cm). Estratificação parietal preservada.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        617.558024
-                    ],
-                    [
-                        56.639997750000006,
-                        628.6978380500001
-                    ],
-                    [
-                        484.43204078726035,
-                        628.6978380500001
-                    ],
-                    [
-                        484.43204078726035,
-                        617.558024
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2f265718e7d68f1dd61cec8542141fea",
-            "category": "ListItem",
-            "element_id": "993a20dd6c2a66b6860bd3e3fa574410"
-        },
-        "page_content": "Linfonodos abdominais: Aumento de tamanho com diminuição de ecogenicidade de linfonodo gástrico.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        637.23806225
-                    ],
-                    [
-                        56.639997750000006,
-                        648.3778763
-                    ],
-                    [
-                        541.0428073384685,
-                        648.3778763
-                    ],
-                    [
-                        541.0428073384685,
-                        637.23806225
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2f265718e7d68f1dd61cec8542141fea",
-            "category": "ListItem",
-            "element_id": "6805b4e9f9eb6d395c6b7816aa3c3fa3"
-        },
-        "page_content": "Pâncreas: Tamanho e forma preservada, contornos irregulares, ecogenicidade levemente diminuída. Intensa reatividade",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        656.198039
-                    ],
-                    [
-                        56.639997750000006,
-                        667.2384890000001
-                    ],
-                    [
-                        193.53027862225647,
-                        667.2384890000001
-                    ],
-                    [
-                        193.53027862225647,
-                        656.198039
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "d600af82c3ae16df945b7dd0e1b1009b"
-        },
-        "page_content": "de gordura peritoneal adjascente.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        675.8780315
-                    ],
-                    [
-                        56.639997750000006,
-                        687.0178455500001
-                    ],
-                    [
-                        538.7670400330877,
-                        687.0178455500001
-                    ],
-                    [
-                        538.7670400330877,
-                        675.8780315
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "d600af82c3ae16df945b7dd0e1b1009b",
-            "category": "ListItem",
-            "element_id": "fc7567504a2b0f70d64aaecd0d925c0b"
-        },
-        "page_content": "Observa-se moderada quantidade de efusão ecogênica em recessos diafragmático-hepático, hepatorenal e esplenore-",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        694.8380532499999
-                    ],
-                    [
-                        56.639997750000006,
-                        705.87850325
-                    ],
-                    [
-                        73.6434983102592,
-                        705.87850325
-                    ],
-                    [
-                        73.6434983102592,
-                        694.8380532499999
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "a38ca1d2612545fbfc2d621de58e7b13"
-        },
-        "page_content": "nal.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        372.36000824999996,
-                        763.191062
-                    ],
-                    [
-                        372.36000824999996,
-                        807.59147
-                    ],
-                    [
-                        534.81010125,
-                        807.59147
-                    ],
-                    [
-                        534.81010125,
-                        763.191062
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 1,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Footer",
-            "element_id": "59cf09d104808cb0794f7dfd0e657d78"
-        },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        384.48001124999996,
-                        86.75964515750002
-                    ],
-                    [
-                        384.48001124999996,
-                        114.17379215000005
-                    ],
-                    [
-                        542.5501627499999,
-                        114.17379215000005
-                    ],
-                    [
-                        542.5501627499999,
-                        86.75964515750002
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "184f38cfa629f0c6bc4de62f24f54a9f"
-        },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        212.91803225
-                    ],
-                    [
-                        56.639997750000006,
-                        223.9584822500001
-                    ],
-                    [
-                        159.9572211,
-                        223.9584822500001
-                    ],
-                    [
-                        159.9572211,
-                        212.91803225
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "2c08dfb82ee18a2a909dfd0b2076a9ab"
-        },
-        "page_content": "Impressão diagnóstica:",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        251.43804424999996
-                    ],
-                    [
-                        56.639997750000006,
-                        262.5778583
-                    ],
-                    [
-                        145.46075527026707,
-                        262.5778583
-                    ],
-                    [
-                        145.46075527026707,
-                        251.43804424999996
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2c08dfb82ee18a2a909dfd0b2076a9ab",
-            "category": "ListItem",
-            "element_id": "c51c1ba77640b179e31263dbde29a83a"
-        },
-        "page_content": "Hepatopatia aguda.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        271.23803975
-                    ],
-                    [
-                        56.639997750000006,
-                        282.3778538
-                    ],
-                    [
-                        267.81460174912786,
-                        282.3778538
-                    ],
-                    [
-                        267.81460174912786,
-                        271.23803975
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2c08dfb82ee18a2a909dfd0b2076a9ab",
-            "category": "ListItem",
-            "element_id": "e2026736120d1ecc40a54ac65e36afe4"
-        },
-        "page_content": "Pequena quantidade de lama biliar não obstrutiva.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        290.91803225
-                    ],
-                    [
-                        56.639997750000006,
-                        302.05784630000005
-                    ],
-                    [
-                        541.1360359471655,
-                        302.05784630000005
-                    ],
-                    [
-                        541.1360359471655,
-                        290.91803225
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "2c08dfb82ee18a2a909dfd0b2076a9ab",
-            "category": "ListItem",
-            "element_id": "b821dcac6ade3dcff66d9cb505b397d2"
-        },
-        "page_content": "Importante gastrite com edema de parede gástrica, área de erosão em mucosa gástrica e linfadenomegalia de linfonodo",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        309.8780315
-                    ],
-                    [
-                        56.639997750000006,
-                        320.9184815000001
-                    ],
-                    [
-                        93.2336124210786,
-                        320.9184815000001
-                    ],
-                    [
-                        93.2336124210786,
-                        309.8780315
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "category": "Title",
-            "element_id": "8309d63bcc00f18b578f045203a2cd8a"
-        },
-        "page_content": "gástrico.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        329.43804424999996
-                    ],
-                    [
-                        56.639997750000006,
-                        340.5778583
-                    ],
-                    [
-                        300.47578925982907,
-                        340.5778583
-                    ],
-                    [
-                        300.47578925982907,
-                        329.43804424999996
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "8309d63bcc00f18b578f045203a2cd8a",
-            "category": "ListItem",
-            "element_id": "3481f8e93f0d94e39c0c7ca7d2c3f43d"
-        },
-        "page_content": "Importante gastroenterocolite com corrugamento de alças.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        349.11803675000004
-                    ],
-                    [
-                        56.639997750000006,
-                        360.2578508
-                    ],
-                    [
-                        138.4873741519743,
-                        360.2578508
-                    ],
-                    [
-                        138.4873741519743,
-                        349.11803675000004
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "8309d63bcc00f18b578f045203a2cd8a",
-            "category": "ListItem",
-            "element_id": "4cf51bcb3ef54bb2310c6ff9e586c6f5"
-        },
-        "page_content": "Peritonite efusiva.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        368.79802925
-                    ],
-                    [
-                        56.639997750000006,
-                        379.9378433
-                    ],
-                    [
-                        513.079708059856,
-                        379.9378433
-                    ],
-                    [
-                        513.079708059856,
-                        368.79802925
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "8309d63bcc00f18b578f045203a2cd8a",
-            "category": "ListItem",
-            "element_id": "a05c0efd4788cb1efa2cca7f521bcd4b"
-        },
-        "page_content": "Moderada quantidade de efusão abdominal. Em punção se observou conteúdo sanguinolento: Hemoabdômem.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        388.598048
-                    ],
-                    [
-                        56.639997750000006,
-                        399.73786205
-                    ],
-                    [
-                        218.71996315741276,
-                        399.73786205
-                    ],
-                    [
-                        218.71996315741276,
-                        388.598048
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "8309d63bcc00f18b578f045203a2cd8a",
-            "category": "ListItem",
-            "element_id": "89d37100b24256f79c4d7db392e34076"
-        },
-        "page_content": "Sinais de pancreatopatia aguda inicial.",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        56.639997750000006,
-                        423.51804575000006
-                    ],
-                    [
-                        56.639997750000006,
-                        434.55849575
-                    ],
-                    [
-                        61.674744840064804,
-                        434.55849575
-                    ],
-                    [
-                        61.674744840064804,
-                        423.51804575000006
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "8309d63bcc00f18b578f045203a2cd8a",
+            "parent_id": "ce6fe356cfbc04d3a80b157ab27f4bbf",
             "category": "UncategorizedText",
-            "element_id": "c59ab6c04824bfba1992ec29b4d786de"
+            "element_id": "d52638598f1150397ca0620c3484646d"
         },
-        "page_content": ".",
+        "page_content": "(6.000 - 17.000)",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        372.36000824999996,
-                        763.191062
+                        28.368,
+                        378.918
                     ],
                     [
-                        372.36000824999996,
-                        807.59147
+                        28.368,
+                        388.918
                     ],
                     [
-                        534.81010125,
-                        807.59147
+                        97.268,
+                        388.918
                     ],
                     [
-                        534.81010125,
-                        763.191062
+                        97.268,
+                        378.918
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 2,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "category": "Footer",
-            "element_id": "3193beb8da47be1aa33bf40240cdf6ca"
+            "parent_id": "ce6fe356cfbc04d3a80b157ab27f4bbf",
+            "category": "UncategorizedText",
+            "element_id": "f16abd7a30e3f61b58b4e4c86a76e822"
         },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "page_content": "DIFERENCIAL:",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        384.48001124999996,
-                        85.91963765750006
+                        134.136,
+                        381.312
                     ],
                     [
-                        384.48001124999996,
-                        113.33379590000004
+                        134.136,
+                        389.312
                     ],
                     [
-                        542.5501627499999,
-                        113.33379590000004
+                        177.69599999999997,
+                        389.312
                     ],
                     [
-                        542.5501627499999,
-                        85.91963765750006
+                        177.69599999999997,
+                        381.312
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 3,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "4ae674c406c4b8d3857a3809c63badd6"
+            "element_id": "31fafe61b129420a136e4042ac94cbf8"
         },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "page_content": "Relativo (%)",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        372.36000824999996,
-                        750.1110605
+                        193.896,
+                        381.312
                     ],
                     [
-                        372.36000824999996,
-                        794.63144825
+                        193.896,
+                        389.312
                     ],
                     [
-                        534.81010125,
-                        794.63144825
+                        250.79199999999997,
+                        389.312
                     ],
                     [
-                        534.81010125,
-                        750.1110605
+                        250.79199999999997,
+                        381.312
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 3,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "4ae674c406c4b8d3857a3809c63badd6",
-            "category": "UncategorizedText",
-            "element_id": "3c9d07ea3a61c69c357aa10656d5447d"
-        },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        384.48001124999996,
-                        85.91963765750006
-                    ],
-                    [
-                        384.48001124999996,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        85.91963765750006
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 4,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "d7e48cf918a68e4c1f41dd9c6bd61267"
+            "element_id": "8e842e4523f372ed6ca0138d824c547a"
         },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "page_content": "Absoluto(/mm ³)",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        372.36000824999996,
-                        750.1110605
+                        318.528,
+                        381.312
                     ],
                     [
-                        372.36000824999996,
-                        794.63144825
+                        318.528,
+                        389.312
                     ],
                     [
-                        534.81010125,
-                        794.63144825
+                        375.42400000000004,
+                        389.312
                     ],
                     [
-                        534.81010125,
-                        750.1110605
+                        375.42400000000004,
+                        381.312
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 4,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "d7e48cf918a68e4c1f41dd9c6bd61267",
-            "category": "UncategorizedText",
-            "element_id": "57d2c347727119d3e7f047256dffdc26"
-        },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        384.48001124999996,
-                        85.91963765750006
-                    ],
-                    [
-                        384.48001124999996,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        85.91963765750006
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 5,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "23f7fc969183f6cede311ebba7164810"
+            "element_id": "82d8364e4fae142d3622f8d7c9fbdafa"
         },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "page_content": "Absoluto(/mm ³)",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        372.36000824999996,
-                        750.1110605
+                        28.368,
+                        395.83799999999997
                     ],
                     [
-                        372.36000824999996,
-                        794.63144825
+                        28.368,
+                        485.32599999999996
                     ],
                     [
-                        534.81010125,
-                        794.63144825
+                        97.828,
+                        485.32599999999996
                     ],
                     [
-                        534.81010125,
-                        750.1110605
+                        97.828,
+                        395.83799999999997
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 5,
-            "languages": [
-                "por"
-            ],
-            "filetype": "application/pdf",
-            "parent_id": "23f7fc969183f6cede311ebba7164810",
-            "category": "UncategorizedText",
-            "element_id": "f8eef98b01f4a75ceb8abfd060579e39"
-        },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
-        "type": "Document"
-    },
-    {
-        "id": null,
-        "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "coordinates": {
-                "points": [
-                    [
-                        384.48001124999996,
-                        85.91963765750006
-                    ],
-                    [
-                        384.48001124999996,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        113.33379590000004
-                    ],
-                    [
-                        542.5501627499999,
-                        85.91963765750006
-                    ]
-                ],
-                "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
-            },
-            "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 6,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
             "category": "Title",
-            "element_id": "7e27bda6e5ffdc73235497203268188c"
+            "element_id": "309df2225ab4bfa3d4dba0c8715153d4"
         },
-        "page_content": "(27) 99644-8865 ultravet.imagem@gmail.com",
+        "page_content": "Mielócitos: Metamielócitos: Bastonetes: Segmentados: Eosinófilos: Basófilos: Linfócitos: Monócitos:",
         "type": "Document"
     },
     {
         "id": null,
         "metadata": {
-            "source": "data\\6608-06e0e21ca08fc4373941c452c916f536.pdf",
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
             "coordinates": {
                 "points": [
                     [
-                        372.36000824999996,
-                        750.1110605
+                        147.456,
+                        395.83799999999997
                     ],
                     [
-                        372.36000824999996,
-                        794.63144825
+                        147.456,
+                        485.32599999999996
                     ],
                     [
-                        534.81010125,
-                        794.63144825
+                        158.576,
+                        485.32599999999996
                     ],
                     [
-                        534.81010125,
-                        750.1110605
+                        158.576,
+                        395.83799999999997
                     ]
                 ],
                 "system": "PixelSpace",
-                "layout_width": 595.32001,
-                "layout_height": 841.92004
+                "layout_width": 598.0,
+                "layout_height": 841.0
             },
             "file_directory": "data",
-            "filename": "6608-06e0e21ca08fc4373941c452c916f536.pdf",
-            "last_modified": "2025-12-03T13:29:05",
-            "page_number": 6,
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
             "languages": [
                 "por"
             ],
             "filetype": "application/pdf",
-            "parent_id": "7e27bda6e5ffdc73235497203268188c",
+            "parent_id": "309df2225ab4bfa3d4dba0c8715153d4",
             "category": "UncategorizedText",
-            "element_id": "ae821a71f0f5ba09a96019dab4ef9f30"
+            "element_id": "7b0b08754bb9822f3797659d9e7b50b2"
         },
-        "page_content": "________________________________ Ygor Machado Médico Veterinário CRMV 2632",
+        "page_content": "0 0 0 77 7 0 10 6",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        204.048,
+                        395.83799999999997
+                    ],
+                    [
+                        204.048,
+                        485.32599999999996
+                    ],
+                    [
+                        226.288,
+                        485.32599999999996
+                    ],
+                    [
+                        226.288,
+                        395.83799999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "309df2225ab4bfa3d4dba0c8715153d4",
+            "category": "UncategorizedText",
+            "element_id": "20b2c01208e756f6e6afe59bf14ced4e"
+        },
+        "page_content": "0 0 0 9317 847 0 1210 726",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        314.928,
+                        407.286
+                    ],
+                    [
+                        314.928,
+                        485.32599999999996
+                    ],
+                    [
+                        382.748,
+                        485.32599999999996
+                    ],
+                    [
+                        382.748,
+                        407.286
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "309df2225ab4bfa3d4dba0c8715153d4",
+            "category": "UncategorizedText",
+            "element_id": "ca93f42559b5978727421bbbc6fdc1ab"
+        },
+        "page_content": "(0 - 0) (0 - 300) (3.500 - 11.500 (100 - 1.250) (0 - 0) (1.000 - 4.800) (150 - 1.350)",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        28.368,
+                        492.318
+                    ],
+                    [
+                        28.368,
+                        502.318
+                    ],
+                    [
+                        75.608,
+                        502.318
+                    ],
+                    [
+                        75.608,
+                        492.318
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "aa8e461242651f27fbb55a3accba0d2b"
+        },
+        "page_content": "Plaquetas",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        210.168,
+                        492.318
+                    ],
+                    [
+                        210.168,
+                        502.318
+                    ],
+                    [
+                        226.848,
+                        502.318
+                    ],
+                    [
+                        226.848,
+                        492.318
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "502d258b5acee0b6d97a42a949588d47"
+        },
+        "page_content": "313",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        322.848,
+                        492.318
+                    ],
+                    [
+                        322.848,
+                        502.318
+                    ],
+                    [
+                        371.758,
+                        502.318
+                    ],
+                    [
+                        371.758,
+                        492.318
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "4f3a8208a40e13c00d000e00e6bc4686"
+        },
+        "page_content": "(175 - 500)",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        413.856,
+                        492.318
+                    ],
+                    [
+                        413.856,
+                        502.318
+                    ],
+                    [
+                        453.856,
+                        502.318
+                    ],
+                    [
+                        453.856,
+                        492.318
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "563ec8bb40138336d9a68737fce44f59"
+        },
+        "page_content": "10 ³/mm³",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        28.368,
+                        509.382
+                    ],
+                    [
+                        28.368,
+                        554.175
+                    ],
+                    [
+                        531.7200000000006,
+                        554.175
+                    ],
+                    [
+                        531.7200000000006,
+                        509.382
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "04c1f1597f96028f18f3293f82446a50"
+        },
+        "page_content": "Proteína Plasmática: PESQUISA DE HEMATOZOÁRIOS * Ao exame hemocitológico não foi observado presença de estruturas morfologicamente compatíveis com hematozoários, em caso de suspeita clícica recomenda-se exames complementares.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        187.488,
+                        509.382
+                    ],
+                    [
+                        187.488,
+                        519.3820000000001
+                    ],
+                    [
+                        229.196,
+                        519.3820000000001
+                    ],
+                    [
+                        229.196,
+                        509.382
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "5c6dc55fdd7377edd58846cf242b1459"
+        },
+        "page_content": "6,80 g/dL",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "data\\6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        332.712,
+                        509.382
+                    ],
+                    [
+                        332.712,
+                        519.3820000000001
+                    ],
+                    [
+                        373.282,
+                        519.3820000000001
+                    ],
+                    [
+                        373.282,
+                        509.382
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 598.0,
+                "layout_height": 841.0
+            },
+            "file_directory": "data",
+            "filename": "6608-0a2e8a9ec5446b75ee84f3b02c5ef686.pdf",
+            "last_modified": "2024-01-30T13:23:49",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "aa8e461242651f27fbb55a3accba0d2b",
+            "category": "UncategorizedText",
+            "element_id": "e75eb0ea4d3683c288de968c6a4a8963"
+        },
+        "page_content": "(6,0 -8,0)",
         "type": "Document"
     }
 ]

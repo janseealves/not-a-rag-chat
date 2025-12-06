@@ -1,0 +1,1108 @@
+[
+  {
+    "chunk_id": "a836510b-2265-4e4f-89fe-e60adf205fb1",
+    "text": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA\n\nData:24/12/2021 Sexo:F Peso:11,9\n\nLAUDO ULTRASSONOGRÁFICO",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      0,
+      226
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              87.11999999999999,
+              87.99568
+            ],
+            [
+              87.11999999999999,
+              152.79567999999995
+            ],
+            [
+              356.1672,
+              152.79567999999995
+            ],
+            [
+              356.1672,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              404.15999999999997,
+              87.99568
+            ],
+            [
+              404.15999999999997,
+              125.91567999999995
+            ],
+            [
+              480.9782388,
+              125.91567999999995
+            ],
+            [
+              480.9782388,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "Data:24/12/2021 Sexo:F Peso:11,9",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              209.16,
+              167.284
+            ],
+            [
+              209.16,
+              179.284
+            ],
+            [
+              386.124,
+              179.284
+            ],
+            [
+              386.124,
+              167.284
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "LAUDO ULTRASSONOGRÁFICO",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "8399afff-99eb-42ba-953d-9c9421d122c6",
+    "text": "Bexiga: Repleta com conteúdo anecóico. Parede espessada (0,36cm) e irregular. Presença de pequenas litíases em parede dependente, medindo até 0,2cm.\n\nRim E: Dimensões normais com contornos irregulares. Córtex de ecogenicidade aumentada e leve perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      228,
+      543
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              188.43567999999993
+            ],
+            [
+              85.08,
+              213.51567999999997
+            ],
+            [
+              513.0,
+              213.51567999999997
+            ],
+            [
+              513.0,
+              188.43567999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Bexiga: Repleta com conteúdo anecóico. Parede espessada (0,36cm) e irregular. Presença de pequenas litíases em parede dependente, medindo até 0,2cm.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              222.51567999999997
+            ],
+            [
+              85.08,
+              247.5956799999999
+            ],
+            [
+              513.0,
+              247.5956799999999
+            ],
+            [
+              513.0,
+              222.51567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Rim E: Dimensões normais com contornos irregulares. Córtex de ecogenicidade aumentada e leve perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9309a74a-fe8f-4d8a-936a-a3db5a28e577",
+    "text": "Rim D: Dimensões normais com contornos regulares. Córtex de ecogenicidade aumentada e perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      545,
+      703
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              256.59568
+            ],
+            [
+              85.08,
+              281.67567999999994
+            ],
+            [
+              513.0,
+              281.67567999999994
+            ],
+            [
+              513.0,
+              256.59568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Rim D: Dimensões normais com contornos regulares. Córtex de ecogenicidade aumentada e perda da definição corticomedular. Ausência de dilatação de pelve renal.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "ea017c31-4d4c-47dc-8a8f-a1a5701c28ac",
+    "text": "\n\nBaço: Dimensões aumentadas, com ecotextura e ecogenicidade preservadas. Notam-se algumas formações esplênicas hiperecogênicas, intraparenquimatosas, sem distensão de cápsula, sendo uma delas em alvo, medindo 1,1 x 1,0cm; estas formações são vascularizadas centralmente e desviam vasos periféricos. Calibre dos vasos normais.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      703,
+      1029
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              290.67567999999994
+            ],
+            [
+              85.08,
+              343.83567999999997
+            ],
+            [
+              513.0,
+              343.83567999999997
+            ],
+            [
+              513.0,
+              290.67567999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Baço: Dimensões aumentadas, com ecotextura e ecogenicidade preservadas. Notam-se algumas formações esplênicas hiperecogênicas, intraparenquimatosas, sem distensão de cápsula, sendo uma delas em alvo, medindo 1,1 x 1,0cm; estas formações são vascularizadas centralmente e desviam vasos periféricos. Calibre dos vasos normais.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "3af973a4-c9c1-42bb-a787-e7f87df9bd7a",
+    "text": "\n\nFígado: Dimensões aumentadas, heterogêneo, especialmente em lobos quadrado e medial esquerdo, com uma formação que mede cerca de 5,2 x 4,3 x 2,2cm, heterogênea, mas predominantemente hiperecogênica, com algumas áreas cavitárias; notam-se outros nódulos hiperecogênicos de tamanhos variados distribuídos em demais lobos. Calibre dos vasos normais.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1029,
+      1377
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              352.83567999999997
+            ],
+            [
+              85.08,
+              420.03567999999996
+            ],
+            [
+              513.0,
+              420.03567999999996
+            ],
+            [
+              513.0,
+              352.83567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Fígado: Dimensões aumentadas, heterogêneo, especialmente em lobos quadrado e medial esquerdo, com uma formação que mede cerca de 5,2 x 4,3 x 2,2cm, heterogênea, mas predominantemente hiperecogênica, com algumas áreas cavitárias; notam-se outros nódulos hiperecogênicos de tamanhos variados distribuídos em demais lobos. Calibre dos vasos normais.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "d94b8461-7da0-4448-b962-b35022ef469b",
+    "text": "Vesícula Biliar: Repleta com conteúdo ecogênico, associado a hiperplasia mucinar.\n\nEstômago: Parede de espessura normal com camadas bem definidas e distendido por conteúdo predominantemente gasoso.\n\nÚtero: Paciente castrada.",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      1379,
+      1603
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              429.03567999999996
+            ],
+            [
+              85.08,
+              440.07568
+            ],
+            [
+              456.53808,
+              440.07568
+            ],
+            [
+              456.53808,
+              429.03567999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Vesícula Biliar: Repleta com conteúdo ecogênico, associado a hiperplasia mucinar.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              449.07568
+            ],
+            [
+              85.08,
+              474.15567999999996
+            ],
+            [
+              513.0,
+              474.15567999999996
+            ],
+            [
+              513.0,
+              449.07568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "Estômago: Parede de espessura normal com camadas bem definidas e distendido por conteúdo predominantemente gasoso.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              483.15567999999996
+            ],
+            [
+              85.08,
+              494.19568
+            ],
+            [
+              200.27999999999997,
+              494.19568
+            ],
+            [
+              200.27999999999997,
+              483.15567999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Útero: Paciente castrada.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "7961facd-3336-4059-9e5b-13a64f20e825",
+    "text": "Alças Intestinais:Ausência de dilatação de alças. Parede de espessura normal (Duodeno: 0,36cm; Jejuno: 0,37cm), com camadas bem definidas e adequada motilidade. Cólon com parede fina e regular.\n\nPâncreas:Dimensões limítrofes, homogêneo e de ecogenicidade preservada.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1605,
+      1871
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              503.19568
+            ],
+            [
+              85.08,
+              542.3156799999999
+            ],
+            [
+              513.0,
+              542.3156799999999
+            ],
+            [
+              513.0,
+              503.19568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Alças Intestinais:Ausência de dilatação de alças. Parede de espessura normal (Duodeno: 0,36cm; Jejuno: 0,37cm), com camadas bem definidas e adequada motilidade. Cólon com parede fina e regular.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              551.3156799999999
+            ],
+            [
+              85.08,
+              562.3556799999999
+            ],
+            [
+              423.65423999999996,
+              562.3556799999999
+            ],
+            [
+              423.65423999999996,
+              551.3156799999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Pâncreas:Dimensões limítrofes, homogêneo e de ecogenicidade preservada.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9d3b1348-c860-47d1-82f6-14b92e15cec9",
+    "text": "\n\nAdrenais:Dimensões aumentadas, medindo a Adrenal E ( 3,66cm comp. x 1,69cm Polo Caudal x 1,32cm Polo Cranial), heterogênea, irregular e com aumento da ecogenicidade tissular peri- glandular; Adrenal D (1,54cm comp. x 0,51cm Polo Caudal x 0,57cm Polo Cranial), homogênea, ecogenicidade preservada e contornos regulares e bem definidos.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1871,
+      2207
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              571.35568
+            ],
+            [
+              85.08,
+              624.51568
+            ],
+            [
+              513.0,
+              624.51568
+            ],
+            [
+              513.0,
+              571.35568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Adrenais:Dimensões aumentadas, medindo a Adrenal E ( 3,66cm comp. x 1,69cm Polo Caudal x 1,32cm Polo Cranial), heterogênea, irregular e com aumento da ecogenicidade tissular peri- glandular; Adrenal D (1,54cm comp. x 0,51cm Polo Caudal x 0,57cm Polo Cranial), homogênea, ecogenicidade preservada e contornos regulares e bem definidos.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "c74dc283-d5c3-4ce5-a01e-f9f14e7512c7",
+    "text": "Outros: Presença de uma formação heterogênea, cranioventral ao rim esquerdo, caudal ao\n\nEste laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      2209,
+      2449
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              633.51568
+            ],
+            [
+              85.08,
+              644.5556799999999
+            ],
+            [
+              513.0,
+              644.5556799999999
+            ],
+            [
+              513.0,
+              633.51568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Outros: Presença de uma formação heterogênea, cranioventral ao rim esquerdo, caudal ao",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              127.44,
+              735.223
+            ],
+            [
+              127.44,
+              753.3446799999999
+            ],
+            [
+              460.71119999999996,
+              753.3446799999999
+            ],
+            [
+              460.71119999999996,
+              735.223
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "6261b705-9b15-4451-8f7c-18f47c73ad4a",
+    "text": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA\n\nData:24/12/2021 Sexo:F Peso:11,9\n\nestômago e dorsal ao baço, medindo cerca de 3,5 x 2,8cm.",
+    "category": "UncategorizedText",
+    "page_number": 2,
+    "source_elements_count": 3,
+    "chunk_position": [
+      0,
+      259
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              87.11999999999999,
+              87.99568
+            ],
+            [
+              87.11999999999999,
+              152.79567999999995
+            ],
+            [
+              356.1672,
+              152.79567999999995
+            ],
+            [
+              356.1672,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Nome:ALICE - FERNANDA BIANQUINI Idade:10 A Raça/Espécie: CANINO - LHASA APSO Local de execução: CDVET PRAIA DO CANTO- US Requisitante:DRA. KATE REGINA OLIVEIRA DE LIMA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              404.15999999999997,
+              87.99568
+            ],
+            [
+              404.15999999999997,
+              125.91567999999995
+            ],
+            [
+              480.9782388,
+              125.91567999999995
+            ],
+            [
+              480.9782388,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "Data:24/12/2021 Sexo:F Peso:11,9",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              167.07568000000003
+            ],
+            [
+              85.08,
+              178.11568
+            ],
+            [
+              342.89088,
+              178.11568
+            ],
+            [
+              342.89088,
+              167.07568000000003
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "estômago e dorsal ao baço, medindo cerca de 3,5 x 2,8cm.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "0c2162b2-c9db-4cb3-922c-d18945a1dc06",
+    "text": "Visualizada formação ecogênica intraluminal em veia cava caudal, medindo cerca de\n\n4,0 x 1,0cm, promovendo obstrução parcial de fluxo.\n\nFormação mamária heterogênea, medindo cerca de 2,8 x 1,2cm, em mama abdominal\n\ncaudal esquerda.\n\nCONCLUSÃO:\n\nCistite com cristalúria e microlitíases.",
+    "category": "Title",
+    "page_number": 2,
+    "source_elements_count": 6,
+    "chunk_position": [
+      261,
+      546
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              187.11568
+            ],
+            [
+              121.08,
+              198.15567999999996
+            ],
+            [
+              513.0,
+              198.15567999999996
+            ],
+            [
+              513.0,
+              187.11568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Visualizada formação ecogênica intraluminal em veia cava caudal, medindo cerca de",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              201.15567999999996
+            ],
+            [
+              85.08,
+              212.19567999999992
+            ],
+            [
+              319.10543999999993,
+              212.19567999999992
+            ],
+            [
+              319.10543999999993,
+              201.15567999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "4,0 x 1,0cm, promovendo obstrução parcial de fluxo.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              221.19567999999992
+            ],
+            [
+              121.08,
+              232.2356799999999
+            ],
+            [
+              513.0,
+              232.2356799999999
+            ],
+            [
+              513.0,
+              221.19567999999992
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Formação mamária heterogênea, medindo cerca de 2,8 x 1,2cm, em mama abdominal",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              235.23568
+            ],
+            [
+              85.08,
+              246.27567999999997
+            ],
+            [
+              158.63616,
+              246.27567999999997
+            ],
+            [
+              158.63616,
+              235.23568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "caudal esquerda.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              255.27567999999997
+            ],
+            [
+              85.08,
+              266.31567999999993
+            ],
+            [
+              161.99999999999997,
+              266.31567999999993
+            ],
+            [
+              161.99999999999997,
+              255.27567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "CONCLUSÃO:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              275.31568000000004
+            ],
+            [
+              121.08,
+              286.35568
+            ],
+            [
+              288.14544,
+              286.35568
+            ],
+            [
+              288.14544,
+              275.31568000000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Cistite com cristalúria e microlitíases.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "a0d30473-4f03-4419-a90c-1b86454a5c82",
+    "text": "Sugestiva nefropatia crônica bilateral.\n\nFormações mamária, esplênica, hepática e mesentérica de etiologia a esclarecer -\n\ninvestigar a possibilidade de processo neoplásico - primário / metastático - sugiro complementação com exame cito/histopatológico para confirmação diagnóstica.",
+    "category": "Title",
+    "page_number": 2,
+    "source_elements_count": 3,
+    "chunk_position": [
+      548,
+      830
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              295.35568
+            ],
+            [
+              121.08,
+              306.39567999999997
+            ],
+            [
+              288.53808,
+              306.39567999999997
+            ],
+            [
+              288.53808,
+              295.35568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Sugestiva nefropatia crônica bilateral.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              315.39567999999997
+            ],
+            [
+              121.08,
+              326.43567999999993
+            ],
+            [
+              481.32,
+              326.43567999999993
+            ],
+            [
+              481.32,
+              315.39567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Formações mamária, esplênica, hepática e mesentérica de etiologia a esclarecer -",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              329.43567999999993
+            ],
+            [
+              85.08,
+              354.51568
+            ],
+            [
+              447.84,
+              354.51568
+            ],
+            [
+              447.84,
+              329.43567999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "investigar a possibilidade de processo neoplásico - primário / metastático - sugiro complementação com exame cito/histopatológico para confirmação diagnóstica.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "71cd45e8-775a-482c-911b-c7dcaa1b0bda",
+    "text": "Hepatopatia vacuolar / crônica com mucocele biliar, sugerindo secundária à\n\ncolangiohepatite crônica.\n\nHiperplasia adrenal direita e sugestiva neoplasia adrenal esquerda, com presença de\n\ntrombo vascular em veia cava caudal.",
+    "category": "Title",
+    "page_number": 2,
+    "source_elements_count": 4,
+    "chunk_position": [
+      832,
+      1056
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              363.51568
+            ],
+            [
+              121.08,
+              374.55568
+            ],
+            [
+              458.64,
+              374.55568
+            ],
+            [
+              458.64,
+              363.51568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Hepatopatia vacuolar / crônica com mucocele biliar, sugerindo secundária à",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              377.55567999999994
+            ],
+            [
+              85.08,
+              388.59567999999996
+            ],
+            [
+              196.05071999999998,
+              388.59567999999996
+            ],
+            [
+              196.05071999999998,
+              377.55567999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "colangiohepatite crônica.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              121.08,
+              397.59567999999996
+            ],
+            [
+              121.08,
+              408.63568
+            ],
+            [
+              493.44,
+              408.63568
+            ],
+            [
+              493.44,
+              397.59567999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Hiperplasia adrenal direita e sugestiva neoplasia adrenal esquerda, com presença de",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              411.63568
+            ],
+            [
+              85.08,
+              422.67568
+            ],
+            [
+              251.1744,
+              422.67568
+            ],
+            [
+              251.1744,
+              411.63568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "trombo vascular em veia cava caudal.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "6606a755-8725-4729-947f-73d09abb91c3",
+    "text": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1058,
+      1210
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              127.44,
+              735.223
+            ],
+            [
+              127.44,
+              753.3446799999999
+            ],
+            [
+              460.71119999999996,
+              753.3446799999999
+            ],
+            [
+              460.71119999999996,
+              735.223
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: https://www.cdvetdiagnostico.com.br Seu usuário: 81730 e Senha: 40339",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

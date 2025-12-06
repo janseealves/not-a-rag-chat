@@ -1,0 +1,1290 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        247.25,
+                        15.951599999999985
+                    ],
+                    [
+                        247.25,
+                        53.03159999999991
+                    ],
+                    [
+                        328.26687999999996,
+                        53.03159999999991
+                    ],
+                    [
+                        328.26687999999996,
+                        15.951599999999985
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "b55179bfeff1cc292e01270f69f1123c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "(RAMAL 72102) 4004-0435",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        462.34,
+                        44.84999999999991
+                    ],
+                    [
+                        462.34,
+                        61.38839999999993
+                    ],
+                    [
+                        541.00312,
+                        61.38839999999993
+                    ],
+                    [
+                        541.00312,
+                        44.84999999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "No: 0217/18",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        226.37,
+                        64.67160000000001
+                    ],
+                    [
+                        226.37,
+                        80.63159999999993
+                    ],
+                    [
+                        349.14687999999995,
+                        80.63159999999993
+                    ],
+                    [
+                        349.14687999999995,
+                        64.67160000000001
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "UncategorizedText",
+            "element_id": "b17c67b625b3892bc51fd8751bc456a6",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "(27) 99896-6339",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        444.94,
+                        70.85159999999996
+                    ],
+                    [
+                        444.94,
+                        80.81159999999988
+                    ],
+                    [
+                        549.9488799999999,
+                        80.81159999999988
+                    ],
+                    [
+                        549.9488799999999,
+                        70.85159999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "UncategorizedText",
+            "element_id": "d82eb54c65c117350135f69af95439cc",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "ENTRADA: 21/02/18",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        217.49,
+                        92.12839999999994
+                    ],
+                    [
+                        217.49,
+                        106.1683999999999
+                    ],
+                    [
+                        357.61312,
+                        106.1683999999999
+                    ],
+                    [
+                        357.61312,
+                        92.12839999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "22265f3a76d565550d309d66113dd06a",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "www.codivet.com.br",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        444.94,
+                        88.15160000000003
+                    ],
+                    [
+                        444.94,
+                        98.11159999999995
+                    ],
+                    [
+                        552.22888,
+                        98.11159999999995
+                    ],
+                    [
+                        552.22888,
+                        88.15160000000003
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "2df49296ca36250571b9795f7d61509b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "LIBERAÇÃO: 21/02/18",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        208.85,
+                        115.75160000000005
+                    ],
+                    [
+                        208.85,
+                        125.71159999999998
+                    ],
+                    [
+                        364.99888000000004,
+                        125.71159999999998
+                    ],
+                    [
+                        364.99888000000004,
+                        115.75160000000005
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "5ab316b14a58589afe961b201b8ab7ee",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Anatomia Patológica Veterinária",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        134.54,
+                        137.90840000000003
+                    ],
+                    [
+                        134.54,
+                        145.9484
+                    ],
+                    [
+                        448.85512,
+                        145.9484
+                    ],
+                    [
+                        448.85512,
+                        137.90840000000003
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "1b1d147c863bfcc24c314aa7bafe182d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "RESPONSÁVEL TÉCNICA: LIDIANNE NARDUCCI MONTEIRO – CRMV/ES 02233",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        187.7,
+                        166.33999999999992
+                    ],
+                    [
+                        187.7,
+                        178.33999999999992
+                    ],
+                    [
+                        411.046,
+                        178.33999999999992
+                    ],
+                    [
+                        411.046,
+                        166.33999999999992
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "f0f3605dab035b0f87b5f6939be52cf8",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "RESULTADO DE EXAME CITOLÓGICO",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        40.8,
+                        186.6716
+                    ],
+                    [
+                        40.8,
+                        196.63159999999993
+                    ],
+                    [
+                        150.86888,
+                        196.63159999999993
+                    ],
+                    [
+                        150.86888,
+                        186.6716
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "b1d5213827d4586289b914ec65599d01",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "ANIMAL: YUKI",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        246.41,
+                        186.6716
+                    ],
+                    [
+                        246.41,
+                        196.63159999999993
+                    ],
+                    [
+                        344.23888000000005,
+                        196.63159999999993
+                    ],
+                    [
+                        344.23888000000005,
+                        186.6716
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "058aed2affd3003a79175548a73ae56a",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "ESPÉCIE: Canina",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        359.83,
+                        186.6716
+                    ],
+                    [
+                        359.83,
+                        196.63159999999993
+                    ],
+                    [
+                        435.91888,
+                        196.63159999999993
+                    ],
+                    [
+                        435.91888,
+                        186.6716
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "ca769e386598dac78cd8772f0a028c09",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "SEXO: Fêmea",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        444.94,
+                        186.6716
+                    ],
+                    [
+                        444.94,
+                        196.63159999999993
+                    ],
+                    [
+                        520.5488799999999,
+                        196.63159999999993
+                    ],
+                    [
+                        520.5488799999999,
+                        186.6716
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "b381245fdcdc889c895493e1a14a788b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "IDADE: 07 anos",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        40.8,
+                        209.59159999999997
+                    ],
+                    [
+                        40.8,
+                        219.5515999999999
+                    ],
+                    [
+                        168.02888,
+                        219.5515999999999
+                    ],
+                    [
+                        168.02888,
+                        209.59159999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "22096578189bf5accccd1bb6aa3b1ff1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "RAÇA: Shih Tzu",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        246.41,
+                        209.59159999999997
+                    ],
+                    [
+                        246.41,
+                        219.5515999999999
+                    ],
+                    [
+                        493.78888,
+                        219.5515999999999
+                    ],
+                    [
+                        493.78888,
+                        209.59159999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "6c358219e04317b1e7edf4de8010291f",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "RESPONSÁVEL: Satsuko Maria Augusta Sato",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        40.8,
+                        232.63160000000005
+                    ],
+                    [
+                        40.8,
+                        242.59159999999997
+                    ],
+                    [
+                        522.34888,
+                        242.59159999999997
+                    ],
+                    [
+                        522.34888,
+                        232.63160000000005
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "6c358219e04317b1e7edf4de8010291f",
+            "category": "UncategorizedText",
+            "element_id": "ecb4782740106238bbd2e173eefab6e2",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "SOLICITANTE: Dra. Rosemere Rossoni B. Domingos (CRMV-ES 0288), Vet Medical Center – Vitória-ES",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        267.38
+                    ],
+                    [
+                        35.4,
+                        276.38
+                    ],
+                    [
+                        156.96200000000002,
+                        276.38
+                    ],
+                    [
+                        156.96200000000002,
+                        267.38
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "0b655b93a67de983b1e5d71d577fb375",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "DESCRIÇÃO DO MATERIAL",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        283.2199999999999
+                    ],
+                    [
+                        35.4,
+                        292.2199999999999
+                    ],
+                    [
+                        174.482,
+                        292.2199999999999
+                    ],
+                    [
+                        174.482,
+                        283.2199999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "ba3a879d22931dfa7f57d19b5fe4ce3a",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Histórico denota “Nódulo de pele”.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        298.5619999999999
+                    ],
+                    [
+                        35.4,
+                        307.5619999999999
+                    ],
+                    [
+                        364.132,
+                        307.5619999999999
+                    ],
+                    [
+                        364.132,
+                        298.5619999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "ba3a879d22931dfa7f57d19b5fe4ce3a",
+            "category": "NarrativeText",
+            "element_id": "56f4a03b488cd1c155f066979f94c982",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Coleta realizada pelo patologista no local. Coloração rápida do tipo Romanowsky.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        329.53999999999996
+                    ],
+                    [
+                        35.4,
+                        338.53999999999996
+                    ],
+                    [
+                        165.36200000000002,
+                        338.53999999999996
+                    ],
+                    [
+                        165.36200000000002,
+                        329.53999999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "606104eba464572020f64f2e78b2e6fb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "DESCRIÇÃO MICROSCÓPICA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        345.25999999999993
+                    ],
+                    [
+                        35.4,
+                        354.25999999999993
+                    ],
+                    [
+                        562.1149999999999,
+                        354.25999999999993
+                    ],
+                    [
+                        562.1149999999999,
+                        345.25999999999993
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "606104eba464572020f64f2e78b2e6fb",
+            "category": "NarrativeText",
+            "element_id": "4c1e9316a857df3c143418d1a1ff7f51",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Microscopicamente observam-se amostras acentuadamente celulares compostas predominantemente por corneócitos maduros,",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        360.85999999999996
+                    ],
+                    [
+                        35.4,
+                        369.85999999999996
+                    ],
+                    [
+                        562.5039999999999,
+                        369.85999999999996
+                    ],
+                    [
+                        562.5039999999999,
+                        360.85999999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "606104eba464572020f64f2e78b2e6fb",
+            "category": "NarrativeText",
+            "element_id": "938690c37c89f096706647436548a9b6",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "bem como por queratinócitos nucleados em quantidade acentuada, sendo visualizados raros neutrófilos íntegros e hemácias no",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        376.3399999999999
+                    ],
+                    [
+                        35.4,
+                        385.3399999999999
+                    ],
+                    [
+                        525.202,
+                        385.3399999999999
+                    ],
+                    [
+                        525.202,
+                        376.3399999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "606104eba464572020f64f2e78b2e6fb",
+            "category": "NarrativeText",
+            "element_id": "9adbd615e3e4ff62ff99b946c2dfb823",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "plano de fundo das lâminas. Não foram observados outros tipos celulares ou agentes infecciosos nas amostras avaliadas.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        407.17999999999995
+                    ],
+                    [
+                        35.4,
+                        416.17999999999995
+                    ],
+                    [
+                        384.652,
+                        416.17999999999995
+                    ],
+                    [
+                        384.652,
+                        407.17999999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "7f8dfcc0cf82202904f381568e50dc6d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "CONCLUSÃO: Achados sugestivos de CISTO FOLICULAR (Sin. Cisto epidermoide)",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        438.25999999999993
+                    ],
+                    [
+                        35.4,
+                        447.25999999999993
+                    ],
+                    [
+                        562.237,
+                        447.25999999999993
+                    ],
+                    [
+                        562.237,
+                        438.25999999999993
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7f8dfcc0cf82202904f381568e50dc6d",
+            "category": "UncategorizedText",
+            "element_id": "c839e864cf09a979c2955e88fb32e5c3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Comentários: Neste caso, apesar da não visualização de células atípicas, sugere-se avaliação histopatológica para exclusão de",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        453.99999999999994
+                    ],
+                    [
+                        35.4,
+                        462.99999999999994
+                    ],
+                    [
+                        562.501,
+                        462.99999999999994
+                    ],
+                    [
+                        562.501,
+                        453.99999999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "7f8dfcc0cf82202904f381568e50dc6d",
+            "category": "NarrativeText",
+            "element_id": "3b3d45f24f903713ebe1354148597ebb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "diferenciais, especialmente neoplasias passíveis de conter estruturas císticas foliculares no seu interior (por exemplo, neoplasias",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        469.47999999999996
+                    ],
+                    [
+                        35.4,
+                        478.47999999999996
+                    ],
+                    [
+                        489.682,
+                        478.47999999999996
+                    ],
+                    [
+                        489.682,
+                        469.47999999999996
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "ff51ebdb5b222e56746c7ba815027913",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "de anexo cutâneo – tricoepitelioma, tricoblastoma, adenoma/epitelioma sebáceo com hiperqueratose ductal, etc).",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        35.4,
+                        500.31999999999994
+                    ],
+                    [
+                        35.4,
+                        524.8
+                    ],
+                    [
+                        320.452,
+                        524.8
+                    ],
+                    [
+                        320.452,
+                        500.31999999999994
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "ff51ebdb5b222e56746c7ba815027913",
+            "category": "NarrativeText",
+            "element_id": "3538ec577e5c818bfc16a4e8420102a0",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Referências: Raskin & Meyer. Canine and Feline Cytology. 3rd ed. Elsevier (2015).",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        226.49,
+                        547.1199999999999
+                    ],
+                    [
+                        226.49,
+                        556.1199999999999
+                    ],
+                    [
+                        371.452,
+                        556.1199999999999
+                    ],
+                    [
+                        371.452,
+                        547.1199999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "ae151271d53731d0f396d3dac16ff1b1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "LIDIANNE NARDUCCI MONTEIRO",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        198.17,
+                        562.5999999999999
+                    ],
+                    [
+                        198.17,
+                        571.5999999999999
+                    ],
+                    [
+                        399.772,
+                        571.5999999999999
+                    ],
+                    [
+                        399.772,
+                        562.5999999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0a8352b90299a624fec5b492f07d38b1.pdf",
+            "last_modified": "2018-02-21T17:33:38",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "c6036d250ca3eeef43d7f3a04fd937a3",
+            "category": "Title",
+            "element_id": "d44ba2f1abdcbf52ef419f8910696054",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0a8352b90299a624fec5b492f07d38b1.pdf"
+        },
+        "page_content": "Médica Veterinária Patologista - CRMV-ES 02233",
+        "type": "Document"
+    }
+]

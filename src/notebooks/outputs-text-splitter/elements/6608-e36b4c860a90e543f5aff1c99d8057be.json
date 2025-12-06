@@ -1,0 +1,2417 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        90.47997600000001,
+                        103.28975999999989
+                    ],
+                    [
+                        90.47997600000001,
+                        168.08975999999984
+                    ],
+                    [
+                        242.135664,
+                        168.08975999999984
+                    ],
+                    [
+                        242.135664,
+                        103.28975999999989
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "category": "UncategorizedText",
+            "element_id": "ad8dd67fc25c1993006230adc59b5239",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Nome: Galileu Idade: 1 ano Tutor: Carolaine Maria Marianelli Clínica Veterinária: Mania Pet Suspeita clínica:",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        196.560048,
+                        103.28975999999989
+                    ],
+                    [
+                        196.560048,
+                        114.32975999999985
+                    ],
+                    [
+                        265.67808,
+                        114.32975999999985
+                    ],
+                    [
+                        265.67808,
+                        103.28975999999989
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "category": "Title",
+            "element_id": "cd6e331832c9985059dcd526fbe6d75f",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Espécie: Felino",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        302.88,
+                        103.28975999999989
+                    ],
+                    [
+                        302.88,
+                        154.6497599999999
+                    ],
+                    [
+                        422.00280000000004,
+                        154.6497599999999
+                    ],
+                    [
+                        422.00280000000004,
+                        103.28975999999989
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "cd6e331832c9985059dcd526fbe6d75f",
+            "category": "NarrativeText",
+            "element_id": "01360985816b2bb9257947508f0c7b43",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Raça: SRD Solicitante: Dra. Cristiane Região: Abdominal Data: 06/05/2024",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        430.56,
+                        103.28975999999989
+                    ],
+                    [
+                        430.56,
+                        114.32975999999985
+                    ],
+                    [
+                        491.09520000000003,
+                        114.32975999999985
+                    ],
+                    [
+                        491.09520000000003,
+                        103.28975999999989
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "category": "Title",
+            "element_id": "2c860b31650c1cceb975c7b8bd328d3c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Sexo: Macho",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        243.84312,
+                        183.92975999999987
+                    ],
+                    [
+                        243.84312,
+                        194.96975999999984
+                    ],
+                    [
+                        377.6988,
+                        194.96975999999984
+                    ],
+                    [
+                        377.6988,
+                        183.92975999999987
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "category": "Title",
+            "element_id": "cca58c047ef6f4a7ff494fa4d8e49530",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Impressão ultrassonográfica",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        90.47997600000001,
+                        210.80975999999987
+                    ],
+                    [
+                        90.47997600000001,
+                        667.0497599999999
+                    ],
+                    [
+                        528.7414799999996,
+                        667.0497599999999
+                    ],
+                    [
+                        528.7414799999996,
+                        210.80975999999987
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "cca58c047ef6f4a7ff494fa4d8e49530",
+            "category": "NarrativeText",
+            "element_id": "82db6db516de23de2a50d6c4f7dfb203",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Vesícula urinária: Preenchida com moderada quantidade de conteúdo anecogênico heterogêneo, com presença de moderada quantidade de debris finos flutuantes. Parede severamente espessada e regular (medindo 1,10cm). Uretra apresenta-se espessa e regular, medindo 0,53cm. Rim esquerdo: Localizado em topografia habitual, dimensões preservadas e contornos regulares. Cortical com ecogênicidade aumentada e boa definição da junção córtico-medular. Região medular sem alterações. Pelve renal sem alterações. Arquitetura interna preservada. Ureter não visibilizado. Não há evidências sonográficas de alterações em espaço dorso peritoneal. Adrenal esquerda: Estrutura não visibilizada. Baço: Dimensões moderadamente aumentadas, ecotextura homogênea e normoecogênica. Contornos regulares. Calibre dos vasos esplênicos normais. Estômago: Localizado em topografia habitual, conteúdo luminal de padrão misto (gasoso e líquido) e motilidade preservada. Segmentos normoespesso (cárdia, fundo, corpo – curvatura maior e menor, e piloro), medindo 0,23cm, regulares e estratificação parietal mantida nas áreas passiveis de visibilização. Fígado: Dimensão preservada em relação aos limites do gradil costal, ecotextura homogênea e normoecogênico. Contornos regulares e bem definidos. Arquitetura vascular de aspecto anatômico quanto ao trajeto e calibre dos vasos. Vesícula biliar: Preenchida com conteúdo anecogênico discretamente heterogêneo. Parede delgada e regular. Sem alterações em vias biliares extra ou intra-hepática. Rim direito: Localizado em topografia habitual, dimensões preservadas e contornos regulares. Cortical com ecogênicidade aumentada e boa definição da junção córtico-medular. Região medular sem alterações. Pelve renal sem alterações. Arquitetura interna preservada. Ureter não visibilizado. Não há evidências sonográficas de alterações em espaço dorso peritoneal. Adrenal direita: Estrutura não visibilizada. Alças intestinais: Distribuição topográfica normal. Segmentos normoespessos, regulares e estratificação parietal mantida nas áreas passiveis de visibilização. Peristaltismo evolutivo e dentro dos limites de normalidade. Trato reprodutivo: Estrutura não visibilizada. Área pancreática: Estrutura não visibilizada. Linfonodos: Visibilizado apenas linfonodo esplênico com dimensões aumentadas, conformação normal e ecogênicidade diminuída. Grandes vasos: Aorta e Veia cava caudal regulares e normoespessos. Outros: Apresenta discreta quantidade de líquido livre abdominal. Apresenta planos gordurosos hiperrefringentes adjacente a vesícula urinaria.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "1c942a8e5174cb3a31761cd68218a4d1",
+            "category": "Title",
+            "element_id": "8c4ff7498b158f7854dcceea9ee7e095",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "584243e0a533acf879d40102890b6fe6",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "eb9154763a532ab754098e7af1be5bfb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "1",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "f21db5fd162a470c9e52fa5b0d03d505",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        90.47997600000001,
+                        81.19151999999997
+                    ],
+                    [
+                        90.47997600000001,
+                        127.75151999999991
+                    ],
+                    [
+                        528.337152,
+                        127.75151999999991
+                    ],
+                    [
+                        528.337152,
+                        81.19151999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f21db5fd162a470c9e52fa5b0d03d505",
+            "category": "NarrativeText",
+            "element_id": "664aed8f8869fb6b1e53644fc60d203a",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Impressão diagnóstica Achados sugestivos com efusão peritoneal, processo inflamatório de mesos e omentos, processo inflamatório em vesícula urinaria, esplenomegalia, lama biliar, linfoadenopatia e nefropatia do rim direito e esquerdo. Sugere-se exames complementares para melhor elucidação do quadro clínico apresentado.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        90.47997600000001,
+                        141.8707199999999
+                    ],
+                    [
+                        90.47997600000001,
+                        179.49047999999993
+                    ],
+                    [
+                        528.16824,
+                        179.49047999999993
+                    ],
+                    [
+                        528.16824,
+                        141.8707199999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f21db5fd162a470c9e52fa5b0d03d505",
+            "category": "NarrativeText",
+            "element_id": "d0fa8287fbf416c21f791f5bee073128",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "OObs: Exame realizado sem auxílio de sedação. Interpretação e laudo das imagens realizado a distância (telerradiologia), sendo de responsabilidade do executor o adequado posicionamento radiográfico e o envio das informações do paciente e caso clínico. Os achados dependem da adequada correlação clínico-laboratorial.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        90.47997600000001,
+                        205.6504799999999
+                    ],
+                    [
+                        90.47997600000001,
+                        254.96975999999984
+                    ],
+                    [
+                        527.8703760000001,
+                        254.96975999999984
+                    ],
+                    [
+                        527.8703760000001,
+                        205.6504799999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f21db5fd162a470c9e52fa5b0d03d505",
+            "category": "NarrativeText",
+            "element_id": "7cd7698aa4b6cbdc7275370ab83577ca",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Médico (a) veterinário (a): A impressão diagnóstica acima é uma avaliação interpretativa e subjetiva das imagens visualizadas durante o procedimento diagnóstico. As avaliações podem variar na dependência do médico veterinário e na capacidade inerente ao método radiográfico em demonstrar alterações no seu limite de resolução. Qualquer discordância frente ao laudo deverá ser comunicada imediatamente, tendo em vista que a sensibilidade e especificidade de método não são absolutas, podendo requerer revisão e, eventualmente, nova investigação.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "f21db5fd162a470c9e52fa5b0d03d505",
+            "category": "Title",
+            "element_id": "d8551091e368f50323b373d4add83704",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "655c715baaf517ecb6addb45b58be1eb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 2,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "14010ec4f0fc3b362ac4a2517dd5639b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "2",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 3,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "6e6ec9eff64441da01b801f42cd16f17",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 3,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "6e6ec9eff64441da01b801f42cd16f17",
+            "category": "Title",
+            "element_id": "6ab61772cb69e402c9317aca81611f18",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 3,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "8528c0265029d8adcead556f485dc23c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 3,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "fb6db0cda8115ce9f00ad5dc6bb02c7d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "3",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 4,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "a04b2b136f201e303e4811986dbfcad7",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 4,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "a04b2b136f201e303e4811986dbfcad7",
+            "category": "Title",
+            "element_id": "4d1eec7b1d3eb6d9f39cdde66862c97e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 4,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "a2b36b86f93a888af80158d2fca9bf93",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 4,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "d19c758bae191e7cccfe3ddfb058c9fd",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "4",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 5,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "2308751db854a563aeb1b2f351beb339",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 5,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "2308751db854a563aeb1b2f351beb339",
+            "category": "Title",
+            "element_id": "2b7ec14338eb6a6cefcd1246cd0214b4",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 5,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "8949034e36988be2b053998fa44fa4d3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 5,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "a2dc933d77ffed5346a58846cdf72725",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "5",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 6,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "9e1b6dd1ee21d11148e298cf34b3619e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 6,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "9e1b6dd1ee21d11148e298cf34b3619e",
+            "category": "Title",
+            "element_id": "2a4db3a480afba154d452da3db28e15b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 6,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "24846b9a97b5cfb7e6d4b55d5ed9ccf3",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 6,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "efc84e004d2cd388f6090653a0b53fba",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "6",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 7,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "2241630d869072e2b0897337711f4ddb",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 7,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "2241630d869072e2b0897337711f4ddb",
+            "category": "Title",
+            "element_id": "d9b2e43f5808948990645f265da1eba0",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 7,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "6e904caf6099d985669137e369b6772e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 7,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "121e71540d7c023ca6d19e8a34bea4e8",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "7",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 8,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "4f7146dff81996475512287fc296914b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 8,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "4f7146dff81996475512287fc296914b",
+            "category": "Title",
+            "element_id": "1041b0e2798b7b14c6671ee56dc5f773",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 8,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "1af3d9925dd3875060886e9694723922",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 8,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "49cf8bf0e383ad8542ec6c37bf03ed23",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "8",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 9,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "2fc7a8c0ba0f6f21e694eab853ad9963",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 9,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "2fc7a8c0ba0f6f21e694eab853ad9963",
+            "category": "Title",
+            "element_id": "64368e8ee7cf8b5d82caf3eb825be524",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 9,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "ba8d6c368976de8edf66ae321bf4ec00",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        45.929759999999874
+                    ],
+                    [
+                        525.51024,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 9,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "6d839efd3d70d09556bacd314be23916",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "9",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 10,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "dff7a26daff109bddbabe1916917b23b",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 10,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "dff7a26daff109bddbabe1916917b23b",
+            "category": "Title",
+            "element_id": "4e36ff38d2c5ed01cea00ebaf431d2e8",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 10,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "c9ce4f3d14988cc7edfccfbf67d1b858",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 10,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "9c07d0b4eb4fc00e1cdec8f971e27f9a",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "10",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 11,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "0c1b4deca83b2319eb0684770b96b5e2",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 11,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "0c1b4deca83b2319eb0684770b96b5e2",
+            "category": "Title",
+            "element_id": "746efd4694cc08d2183ba074c1a6f23f",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 11,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "c67b174512a99ff598c3698d5b8962fd",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 11,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "9a4933d78dbcb2280a1c84686cb7ebaf",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "11",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        218.47142399999998,
+                        33.74447999999995
+                    ],
+                    [
+                        218.47142399999998,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        47.66447999999991
+                    ],
+                    [
+                        379.79423999999995,
+                        33.74447999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 12,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "5dea709b5e56ae21d043da420838b9b9",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Relatório de Telerradiologia",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        741.9297599999999
+                    ],
+                    [
+                        84.959952,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        752.9697599999998
+                    ],
+                    [
+                        411.35352,
+                        741.9297599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 12,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "5dea709b5e56ae21d043da420838b9b9",
+            "category": "Title",
+            "element_id": "122c9f31b496d6e72e4af4b35177dd7d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Exame executado por ____ Dr. Gester Breda Aguiar___ CRMV – ES 1894",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        84.959952,
+                        768.8097599999999
+                    ],
+                    [
+                        84.959952,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        806.4897599999998
+                    ],
+                    [
+                        421.03752,
+                        768.8097599999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 12,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "f81f3a394ee5cf8a2b2b439aafed32d9",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "Assinado eletronicamente ____ Karina Coelho Izidoro___ CRMV – ES 1722 Mestre em Ciência Animal Pós graduação em Diagnostico por Imagem",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        517.4399999999999,
+                        34.88975999999991
+                    ],
+                    [
+                        517.4399999999999,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        45.929759999999874
+                    ],
+                    [
+                        531.0854400000001,
+                        34.88975999999991
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.2,
+                "layout_height": 841.92
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-e36b4c860a90e543f5aff1c99d8057be.pdf",
+            "last_modified": "2025-12-05T13:40:58",
+            "page_number": 12,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Header",
+            "element_id": "8c83932c7ecde173037a57da31c7987e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-e36b4c860a90e543f5aff1c99d8057be.pdf"
+        },
+        "page_content": "12",
+        "type": "Document"
+    }
+]

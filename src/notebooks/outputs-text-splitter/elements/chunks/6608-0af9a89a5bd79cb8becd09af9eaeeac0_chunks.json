@@ -1,0 +1,923 @@
+[
+  {
+    "chunk_id": "6587a105-c9e5-4f9c-9881-469341e0fe75",
+    "text": "022861936*",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      0,
+      10
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              347.5,
+              99.41199999999992
+            ],
+            [
+              347.5,
+              125.41199999999992
+            ],
+            [
+              513.588,
+              125.41199999999992
+            ],
+            [
+              513.588,
+              99.41199999999992
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "ListItem",
+        "content": "022861936*",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9bdec04e-0c92-4e50-bae3-0452adb28f04",
+    "text": "\n\nTECSA Laboratórios No.022861936/01 Nome .......: DALILA Raça..:BORDER Especie.....: CANINO Idade..:0 Ano(s) 10 Mes(es) Sexo........: FEMEA Entrega..:SITE SEM IMPRIMIR Prop. ......: JULIANA ROZINDO Data do Cadastro: 22/01/2019 Médico Vet..: ROSEMERE ROSSONI BATISTA DOMINTel.: 2733453101 Fax:27998296761 Clínica Vet.: COMPANHIA DOS BICHOS - VITORIA",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      10,
+      359
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              23.5,
+              118.09999999999991
+            ],
+            [
+              23.5,
+              194.39999999999998
+            ],
+            [
+              581.5,
+              194.39999999999998
+            ],
+            [
+              581.5,
+              118.09999999999991
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "TECSA Laboratórios No.022861936/01 Nome .......: DALILA Raça..:BORDER Especie.....: CANINO Idade..:0 Ano(s) 10 Mes(es) Sexo........: FEMEA Entrega..:SITE SEM IMPRIMIR Prop. ......: JULIANA ROZINDO Data do Cadastro: 22/01/2019 Médico Vet..: ROSEMERE ROSSONI BATISTA DOMINTel.: 2733453101 Fax:27998296761 Clínica Vet.: COMPANHIA DOS BICHOS - VITORIA",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "a3b4da62-b6c0-4551-b8fb-43a30d75d484",
+    "text": "---------------------------------------------------------------------------------------------------\n\nDIAGNÓSTICO SOROLÓGICO DA LEISHMANIOSE VISCERAL\n\nCANINA-DILUIÇÃO TOTAL\n\nMÉTODO ELISA RESULTADO.....: NÃO REAGENTE CUT OFF.......: 0,215 VALOR DA OD*..: 0,076\n\nMATERIAL UTILIZADO: SORO MÉTODO: ELISA",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 5,
+    "chunk_position": [
+      361,
+      659
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              195.19999999999993
+            ],
+            [
+              11.5,
+              205.19999999999993
+            ],
+            [
+              605.5,
+              205.19999999999993
+            ],
+            [
+              605.5,
+              195.19999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "UncategorizedText",
+        "content": "---------------------------------------------------------------------------------------------------",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              29.5,
+              207.19999999999993
+            ],
+            [
+              29.5,
+              223.19999999999993
+            ],
+            [
+              480.7000000000004,
+              223.19999999999993
+            ],
+            [
+              480.7000000000004,
+              207.19999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "DIAGNÓSTICO SOROLÓGICO DA LEISHMANIOSE VISCERAL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              101.5,
+              225.3499999999999
+            ],
+            [
+              101.5,
+              241.3499999999999
+            ],
+            [
+              303.09999999999997,
+              241.3499999999999
+            ],
+            [
+              303.09999999999997,
+              225.3499999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "CANINA-DILUIÇÃO TOTAL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              263.5999999999999
+            ],
+            [
+              11.5,
+              306.0
+            ],
+            [
+              232.308,
+              306.0
+            ],
+            [
+              232.308,
+              263.5999999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "MÉTODO ELISA RESULTADO.....: NÃO REAGENTE CUT OFF.......: 0,215 VALOR DA OD*..: 0,076",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              317.0
+            ],
+            [
+              11.5,
+              337.65
+            ],
+            [
+              179.5,
+              337.65
+            ],
+            [
+              179.5,
+              317.0
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "MATERIAL UTILIZADO: SORO MÉTODO: ELISA",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "a6203fc2-b7e3-46d7-a7cc-b73b2d493834",
+    "text": "Kit com Licença no Ministério da Agricultura - MAPA Número: 7.434/2000, Partida 005/18, Val.: Abril/2019",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      661,
+      765
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              339.54999999999995
+            ],
+            [
+              35.5,
+              358.04999999999995
+            ],
+            [
+              294.77120000000025,
+              358.04999999999995
+            ],
+            [
+              294.77120000000025,
+              339.54999999999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "UncategorizedText",
+        "content": "Kit com Licença no Ministério da Agricultura - MAPA Número: 7.434/2000, Partida 005/18, Val.: Abril/2019",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "e929fdf6-b25e-4e5d-b4a2-6e79a7725c41",
+    "text": "\n\nInterpretação: REAGENTE: *Densidade Óptica com valor acima do Cut off. INDETERMINADO: Resultado com valores intermediários, correspondente à Zona Cinza, onde os Testes não foram capazes de determinar se é REAGENTE ou NÃO REAGENTE. Para determinação da amplitude subtrai-se/soma-se do ponto de corte 0,03. Recomenda-se um novo Teste após 30 dias do último exame, pois pode corresponder ao ínicio de soroconversão, reações inespecíficas ou falência do sistema imune. Dentre outros exames como o PCR-Real Time auxiliam no diagnóstico.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      765,
+      1298
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              370.09999999999997
+            ],
+            [
+              35.5,
+              432.44999999999993
+            ],
+            [
+              601.9968000000006,
+              432.44999999999993
+            ],
+            [
+              601.9968000000006,
+              370.09999999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "Interpretação: REAGENTE: *Densidade Óptica com valor acima do Cut off. INDETERMINADO: Resultado com valores intermediários, correspondente à Zona Cinza, onde os Testes não foram capazes de determinar se é REAGENTE ou NÃO REAGENTE. Para determinação da amplitude subtrai-se/soma-se do ponto de corte 0,03. Recomenda-se um novo Teste após 30 dias do último exame, pois pode corresponder ao ínicio de soroconversão, reações inespecíficas ou falência do sistema imune. Dentre outros exames como o PCR-Real Time auxiliam no diagnóstico.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "e73030ab-d4fb-4f9d-858e-33bf2b3732ad",
+    "text": "NÃO REAGENTE: Densidade Óptica com valor abaixo do Cut off.\n\nMÉTODO IMUNOFLUORESCÊNCIA INDIRETA C/ DILUIÇÃO TOTAL RESULTADO.....: NÃO REAGENTE\n\nMATERIAL UTILIZADO: SORO MÉTODO: RIFI - Reação de Imunofluorescência Indireta",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      1300,
+      1521
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              445.5999999999999
+            ],
+            [
+              35.5,
+              453.5999999999999
+            ],
+            [
+              318.72320000000036,
+              453.5999999999999
+            ],
+            [
+              318.72320000000036,
+              445.5999999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "NÃO REAGENTE: Densidade Óptica com valor abaixo do Cut off.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              486.65
+            ],
+            [
+              35.5,
+              507.59999999999997
+            ],
+            [
+              347.5,
+              507.59999999999997
+            ],
+            [
+              347.5,
+              486.65
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "MÉTODO IMUNOFLUORESCÊNCIA INDIRETA C/ DILUIÇÃO TOTAL RESULTADO.....: NÃO REAGENTE",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              519.05
+            ],
+            [
+              11.5,
+              539.55
+            ],
+            [
+              347.5,
+              539.55
+            ],
+            [
+              347.5,
+              519.05
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "MATERIAL UTILIZADO: SORO MÉTODO: RIFI - Reação de Imunofluorescência Indireta",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "25386e4a-131a-4ab7-bbf0-a00f82906fda",
+    "text": "Kit com Licença no Ministério da Agricultura - MAPA Número: 9347/2007, Partida no. 239, Val.: 09/2019\n\nInterpretação: REAGENTE: Resultado com título igual ou superior a diluição 1/40. O Título liberado corresponde ao título máximo Reagente na leitura NÃO REAGENTE: Resultados sem títulos de anticorpos.\n\nObs:",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      1523,
+      1831
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              541.4499999999999
+            ],
+            [
+              35.5,
+              560.0999999999999
+            ],
+            [
+              280.3200000000002,
+              560.0999999999999
+            ],
+            [
+              280.3200000000002,
+              541.4499999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "UncategorizedText",
+        "content": "Kit com Licença no Ministério da Agricultura - MAPA Número: 9347/2007, Partida no. 239, Val.: 09/2019",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              572.0
+            ],
+            [
+              35.5,
+              613.3499999999999
+            ],
+            [
+              352.37600000000054,
+              613.3499999999999
+            ],
+            [
+              352.37600000000054,
+              572.0
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "Interpretação: REAGENTE: Resultado com título igual ou superior a diluição 1/40. O Título liberado corresponde ao título máximo Reagente na leitura NÃO REAGENTE: Resultados sem títulos de anticorpos.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              624.9499999999999
+            ],
+            [
+              11.5,
+              634.9499999999999
+            ],
+            [
+              47.5,
+              634.9499999999999
+            ],
+            [
+              47.5,
+              624.9499999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "Obs:",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "8bb4c4eb-40ab-4c46-9ad4-5840c235ca04",
+    "text": "Liberado Tecnicamente: 936 Belo Horizonte , 24/01/2019",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1833,
+      1887
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              59.5,
+              667.4
+            ],
+            [
+              59.5,
+              688.5
+            ],
+            [
+              449.5,
+              688.5
+            ],
+            [
+              449.5,
+              667.4
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "Liberado Tecnicamente: 936 Belo Horizonte , 24/01/2019",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9ea45b5c-8e9e-4e20-aa29-e429a57d71e2",
+    "text": "022861936*",
+    "category": "ListItem",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      0,
+      10
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              347.5,
+              99.41199999999992
+            ],
+            [
+              347.5,
+              125.41199999999992
+            ],
+            [
+              513.588,
+              125.41199999999992
+            ],
+            [
+              513.588,
+              99.41199999999992
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "ListItem",
+        "content": "022861936*",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "a8fc94e8-3f92-44dc-ad44-6dc1c1d3587c",
+    "text": "\n\nTECSA Laboratórios No.022861936/02 Nome .......: DALILA Raça..:BORDER Especie.....: CANINO Idade..:0 Ano(s) 10 Mes(es) Sexo........: FEMEA Entrega..:SITE SEM IMPRIMIR Prop. ......: JULIANA ROZINDO Data do Cadastro: 22/01/2019 Médico Vet..: ROSEMERE ROSSONI BATISTA DOMINTel.: 2733453101 Fax:27998296761 Clínica Vet.: COMPANHIA DOS BICHOS - VITORIA",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      10,
+      359
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              23.5,
+              118.09999999999991
+            ],
+            [
+              23.5,
+              194.39999999999998
+            ],
+            [
+              581.5,
+              194.39999999999998
+            ],
+            [
+              581.5,
+              118.09999999999991
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "TECSA Laboratórios No.022861936/02 Nome .......: DALILA Raça..:BORDER Especie.....: CANINO Idade..:0 Ano(s) 10 Mes(es) Sexo........: FEMEA Entrega..:SITE SEM IMPRIMIR Prop. ......: JULIANA ROZINDO Data do Cadastro: 22/01/2019 Médico Vet..: ROSEMERE ROSSONI BATISTA DOMINTel.: 2733453101 Fax:27998296761 Clínica Vet.: COMPANHIA DOS BICHOS - VITORIA",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "451d674e-e11d-4bcc-ac2f-b83ee4e0665b",
+    "text": "---------------------------------------------------------------------------------------------------",
+    "category": "UncategorizedText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      361,
+      460
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              11.5,
+              195.19999999999993
+            ],
+            [
+              11.5,
+              205.19999999999993
+            ],
+            [
+              605.5,
+              205.19999999999993
+            ],
+            [
+              605.5,
+              195.19999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "UncategorizedText",
+        "content": "---------------------------------------------------------------------------------------------------",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "a19b2872-9ef5-4e84-a855-2ee4695bb259",
+    "text": "\n\nDIAGNÓSTICO SOROLÓGICO DA LEISHMANIOSE VISCERAL Interpretação Segundo a Orientação Técnica SDP/IOM/FUNED nº001/2016: Um cão para ser considerado confirmado para leishmaniose visceral deverá apresentar resultados reagentes nos seguintes ensaios sorológicos: Teste Rápido Imunocromatográfico- TRI e Ensaio Imunoenzimático - ELISA.",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      460,
+      790
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              29.5,
+              207.19999999999993
+            ],
+            [
+              29.5,
+              254.39999999999998
+            ],
+            [
+              568.3440000000012,
+              254.39999999999998
+            ],
+            [
+              568.3440000000012,
+              207.19999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "DIAGNÓSTICO SOROLÓGICO DA LEISHMANIOSE VISCERAL Interpretação Segundo a Orientação Técnica SDP/IOM/FUNED nº001/2016: Um cão para ser considerado confirmado para leishmaniose visceral deverá apresentar resultados reagentes nos seguintes ensaios sorológicos: Teste Rápido Imunocromatográfico- TRI e Ensaio Imunoenzimático - ELISA.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "92980cd9-c934-4913-9f43-60e85c04474c",
+    "text": "\n\nINTERPRETAÇÃO DOS RESULTADOS: A responsabilidade pela interpretação dos exames laboratoriais e seu impacto no prognóstico e na conduta clínica é inteira e exclusiva responsabilidade do(s) Médico(s) Veterinário(s) solicitante(s) e/ou Responsável(eis) Técnico(s) uma vez que o exame laboratorial é apenas uma ferramenta complementar e deve ser avaliado tendo como base sinais clínicos, história clínica e dados epidemiológicos. Deve levar em consideração que exames laboratoriais não devem ser por si só, fator decisivo para conduta, devendo servir de apoio para uma melhor correlação Clínico-Patológica.",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      790,
+      1394
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              276.94999999999993
+            ],
+            [
+              35.5,
+              339.29999999999995
+            ],
+            [
+              587.5456000000008,
+              339.29999999999995
+            ],
+            [
+              587.5456000000008,
+              276.94999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "INTERPRETAÇÃO DOS RESULTADOS: A responsabilidade pela interpretação dos exames laboratoriais e seu impacto no prognóstico e na conduta clínica é inteira e exclusiva responsabilidade do(s) Médico(s) Veterinário(s) solicitante(s) e/ou Responsável(eis) Técnico(s) uma vez que o exame laboratorial é apenas uma ferramenta complementar e deve ser avaliado tendo como base sinais clínicos, história clínica e dados epidemiológicos. Deve levar em consideração que exames laboratoriais não devem ser por si só, fator decisivo para conduta, devendo servir de apoio para uma melhor correlação Clínico-Patológica.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "8740636d-2a25-4385-afe9-70405c3ab2c7",
+    "text": "\n\nAmostra REAGENTE, recomenda-se a solicitação do Exame de PCR Real Time para quantificação da Leishmaniose (COD 680) para o monitoramento da carga parasitária em tecidos caninos em fase de tratamento assistido e pós tratamento far- macológico. A técnica de PCR Real Time tem alta confiabilidade, especificidade e sensibilidade permitindo a identi- ficação do parasita com uso de sondas específicas, através de amplificação do cinetoplasto da leishmania infantum chagasi. Pacientes assintomáticos recomenda-se, preferencialmente, utilizar como amostra material de medula.",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1394,
+      1965
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              352.44999999999993
+            ],
+            [
+              35.5,
+              402.5999999999999
+            ],
+            [
+              587.5456000000008,
+              402.5999999999999
+            ],
+            [
+              587.5456000000008,
+              352.44999999999993
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "Amostra REAGENTE, recomenda-se a solicitação do Exame de PCR Real Time para quantificação da Leishmaniose (COD 680) para o monitoramento da carga parasitária em tecidos caninos em fase de tratamento assistido e pós tratamento far- macológico. A técnica de PCR Real Time tem alta confiabilidade, especificidade e sensibilidade permitindo a identi- ficação do parasita com uso de sondas específicas, através de amplificação do cinetoplasto da leishmania infantum chagasi. Pacientes assintomáticos recomenda-se, preferencialmente, utilizar como amostra material de medula.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "24b50112-ea05-41ec-9419-103c8377400a",
+    "text": "NÃO REAGENTE: Este Resultado sugere a ausência de anticorpos para leishmania na amostra. Um resultado Não Rea- gente não exclui a possibilidade de exposição à Leishmania ou infecção por Leishmania. Uma resposta humoral a uma exposição recente, pode levar alguns meses até atingir níveis detectáveis.",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      1967,
+      2266
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              415.74999999999994
+            ],
+            [
+              35.5,
+              444.8999999999999
+            ],
+            [
+              577.944800000001,
+              444.8999999999999
+            ],
+            [
+              577.944800000001,
+              415.74999999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "NÃO REAGENTE: Este Resultado sugere a ausência de anticorpos para leishmania na amostra. Um resultado Não Rea- gente não exclui a possibilidade de exposição à Leishmania ou infecção por Leishmania. Uma resposta humoral a uma exposição recente, pode levar alguns meses até atingir níveis detectáveis.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "c84cb2d9-ef54-4eba-b038-b1724e81522c",
+    "text": "\n\nExames Sorológicos estão sujeitos a vários fatores de interferencia pré-analítica,como Hemólise, uso de cronico de corticosteroides,presença de crioaglutinina, fator pro-zona,uso de Alopurinoal, reações pós vacinais, gravidez,etc. Por esta razão resultados divergentes da clínica devem ser discutidos com o Patologista do TECSA,Dr Afonso Perez .",
+    "category": "NarrativeText",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      2266,
+      2613
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              35.5,
+              457.8999999999999
+            ],
+            [
+              35.5,
+              487.04999999999995
+            ],
+            [
+              587.5456000000008,
+              487.04999999999995
+            ],
+            [
+              587.5456000000008,
+              457.8999999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "NarrativeText",
+        "content": "Exames Sorológicos estão sujeitos a vários fatores de interferencia pré-analítica,como Hemólise, uso de cronico de corticosteroides,presença de crioaglutinina, fator pro-zona,uso de Alopurinoal, reações pós vacinais, gravidez,etc. Por esta razão resultados divergentes da clínica devem ser discutidos com o Patologista do TECSA,Dr Afonso Perez .",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "eb03562d-c5fc-4d37-88e4-51110e1229a1",
+    "text": "Liberado Tecnicamente: 936 Belo Horizonte , 24/01/2019",
+    "category": "Title",
+    "page_number": 2,
+    "source_elements_count": 1,
+    "chunk_position": [
+      2615,
+      2669
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              59.5,
+              541.25
+            ],
+            [
+              59.5,
+              562.1999999999999
+            ],
+            [
+              449.5,
+              562.1999999999999
+            ],
+            [
+              449.5,
+              541.25
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 612.0,
+          "layout_height": 841.8
+        },
+        "category": "Title",
+        "content": "Liberado Tecnicamente: 936 Belo Horizonte , 24/01/2019",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

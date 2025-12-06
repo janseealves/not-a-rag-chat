@@ -1,0 +1,640 @@
+[
+  {
+    "chunk_id": "cddb141c-3f34-4d61-abdb-40ee4b9454ca",
+    "text": "N.º 20-5072 Data de entrada: 03/08 Número de origem: XXX Número de lâminas: 01\n\nRESULTADO DE EXAME HISTOPATOLÓGICO",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      0,
+      114
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              425.26,
+              129.79160000000002
+            ],
+            [
+              425.26,
+              174.6046399999999
+            ],
+            [
+              530.52,
+              174.6046399999999
+            ],
+            [
+              530.52,
+              129.79160000000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "UncategorizedText",
+        "content": "N.º 20-5072 Data de entrada: 03/08 Número de origem: XXX Número de lâminas: 01",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              181.49,
+              191.64463999999998
+            ],
+            [
+              181.49,
+              202.68463999999994
+            ],
+            [
+              416.59000000000003,
+              202.68463999999994
+            ],
+            [
+              416.59000000000003,
+              191.64463999999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "RESULTADO DE EXAME HISTOPATOLÓGICO",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9521fb22-5c3d-477f-adec-465cf629c6a2",
+    "text": "\n\nResponsável: Larissa da Silva Lucio. Identificação do Animal – Nome: “LUNA”. Espécie: canina. Raça: Spitz. Sexo: F. Idade: 7 anos. Médico Veterinário: Dra. Rosemere Rossoni B. Domingos – Vet Medical Center – (27) 3345-3101. Histórico: paciente submetida à endoscopia. Biópsia de estômago e intestino em 07/07/2020. Quadro de vômitos incoercíveis por 30 dias, acompanhado de diarreia eventual Suspeita clínica: gastrite, enterite eosinofílica? Amostra: não informada. Obs.: laudo histopatológico anexado na requisição.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 1,
+    "chunk_position": [
+      114,
+      633
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              215.76463999999999
+            ],
+            [
+              42.6,
+              302.79463999999996
+            ],
+            [
+              555.3839999999993,
+              302.79463999999996
+            ],
+            [
+              555.3839999999993,
+              215.76463999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Responsável: Larissa da Silva Lucio. Identificação do Animal – Nome: “LUNA”. Espécie: canina. Raça: Spitz. Sexo: F. Idade: 7 anos. Médico Veterinário: Dra. Rosemere Rossoni B. Domingos – Vet Medical Center – (27) 3345-3101. Histórico: paciente submetida à endoscopia. Biópsia de estômago e intestino em 07/07/2020. Quadro de vômitos incoercíveis por 30 dias, acompanhado de diarreia eventual Suspeita clínica: gastrite, enterite eosinofílica? Amostra: não informada. Obs.: laudo histopatológico anexado na requisição.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "95ca2081-533c-41b7-978d-d9b9ebe83807",
+    "text": "MACROSCOPIA\n\nA amostra é composta por uma lâmina histológica identificada como “46/20 Luna (Larissa) Quality”.\n\nObs.: ver também laudo 20-5071.\n\nMICROSCOPIA\n\nCortes histológicos sequenciais de fragmentos de mucosa intestinal (intestino delgado), incluindo apenas\n\nporção superficial das vilosidades intestinais.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 6,
+    "chunk_position": [
+      635,
+      946
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              318.15464
+            ],
+            [
+              42.6,
+              329.19463999999994
+            ],
+            [
+              124.82000000000001,
+              329.19463999999994
+            ],
+            [
+              124.82000000000001,
+              318.15464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "MACROSCOPIA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              78.024,
+              336.87464
+            ],
+            [
+              78.024,
+              347.91463999999996
+            ],
+            [
+              555.72,
+              347.91463999999996
+            ],
+            [
+              555.72,
+              336.87464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "A amostra é composta por uma lâmina histológica identificada como “46/20 Luna (Larissa) Quality”.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              349.47463999999997
+            ],
+            [
+              42.6,
+              360.51463999999993
+            ],
+            [
+              193.97,
+              360.51463999999993
+            ],
+            [
+              193.97,
+              349.47463999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "Obs.: ver também laudo 20-5071.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              368.19464
+            ],
+            [
+              42.6,
+              379.23463999999996
+            ],
+            [
+              121.82000000000001,
+              379.23463999999996
+            ],
+            [
+              121.82000000000001,
+              368.19464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "MICROSCOPIA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              70.944,
+              386.79464
+            ],
+            [
+              70.944,
+              397.83464
+            ],
+            [
+              555.70512,
+              397.83464
+            ],
+            [
+              555.70512,
+              386.79464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Cortes histológicos sequenciais de fragmentos de mucosa intestinal (intestino delgado), incluindo apenas",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              399.39464
+            ],
+            [
+              42.6,
+              410.43463999999994
+            ],
+            [
+              247.13,
+              410.43463999999994
+            ],
+            [
+              247.13,
+              399.39464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "porção superficial das vilosidades intestinais.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "79a2c2dc-53d5-4b1c-83e2-042ce08540a5",
+    "text": "1. Características morfológicas\n\nEncurtamento de vilosidades: aparentemente ausente. Injúria epitelial: ausente. Distensão de criptas: ausente. Dilatação de vaso linfático da vilosidade: ausente. Fibrose da mucosa: ausente.\n\n2. Inflamação",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      948,
+      1186
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              60.624,
+              412.30839999999995
+            ],
+            [
+              60.624,
+              423.78999999999996
+            ],
+            [
+              206.06503999999998,
+              423.78999999999996
+            ],
+            [
+              206.06503999999998,
+              412.30839999999995
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "ListItem",
+        "content": "1. Características morfológicas",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              427.61464
+            ],
+            [
+              42.6,
+              489.17463999999995
+            ],
+            [
+              286.51,
+              489.17463999999995
+            ],
+            [
+              286.51,
+              427.61464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Encurtamento de vilosidades: aparentemente ausente. Injúria epitelial: ausente. Distensão de criptas: ausente. Dilatação de vaso linfático da vilosidade: ausente. Fibrose da mucosa: ausente.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              60.624,
+              491.0283999999999
+            ],
+            [
+              60.624,
+              502.50999999999993
+            ],
+            [
+              129.95504,
+              502.50999999999993
+            ],
+            [
+              129.95504,
+              491.0283999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "ListItem",
+        "content": "2. Inflamação",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "db0ae37b-e133-4e3c-98fd-b6b7d9a4db77",
+    "text": "Linfócitos intra-epiteliais: normal. Edema e congestão de vasos sangüíneos: presente e leve. Linfócitos e plasmócitos na lâmina própria: aumentado (+). Eosinófilos na lâmina própria: normal. Neutrófilos na lâmina própria: ausentes. Outras células inflamatórias: ausentes.\n\nObs. 1: não se reconhecem agentes causais.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      1188,
+      1503
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              504.29464
+            ],
+            [
+              42.6,
+              578.5746399999999
+            ],
+            [
+              313.75,
+              578.5746399999999
+            ],
+            [
+              313.75,
+              504.29464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Linfócitos intra-epiteliais: normal. Edema e congestão de vasos sangüíneos: presente e leve. Linfócitos e plasmócitos na lâmina própria: aumentado (+). Eosinófilos na lâmina própria: normal. Neutrófilos na lâmina própria: ausentes. Outras células inflamatórias: ausentes.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              78.024,
+              586.16464
+            ],
+            [
+              78.024,
+              597.2046399999999
+            ],
+            [
+              274.73,
+              597.2046399999999
+            ],
+            [
+              274.73,
+              586.16464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Obs. 1: não se reconhecem agentes causais.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "cfd8b6e4-3592-4549-89db-a81e4cd511b9",
+    "text": "Obs. 2: não se reconhecem sinais de transformação/ infiltração neoplásica.\n\nDIAGNÓSTICO OU CONCLUSÕES\n\nENTERITE CRÔNICA LEVE\n\nCuritiba, 7 de agosto de 2020.\n\nAssinado Eletronicamente por Dra. Juliana Werner, MMV, DMV - CRMV-PR 4265\n\nLogo",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 6,
+    "chunk_position": [
+      1505,
+      1742
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              78.024,
+              604.76464
+            ],
+            [
+              78.024,
+              615.80464
+            ],
+            [
+              408.7,
+              615.80464
+            ],
+            [
+              408.7,
+              604.76464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "Obs. 2: não se reconhecem sinais de transformação/ infiltração neoplásica.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              636.0846399999999
+            ],
+            [
+              42.6,
+              647.12464
+            ],
+            [
+              215.32999999999998,
+              647.12464
+            ],
+            [
+              215.32999999999998,
+              636.0846399999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "DIAGNÓSTICO OU CONCLUSÕES",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              78.024,
+              654.80464
+            ],
+            [
+              78.024,
+              665.8446399999999
+            ],
+            [
+              193.01,
+              665.8446399999999
+            ],
+            [
+              193.01,
+              654.80464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "ENTERITE CRÔNICA LEVE",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              375.79,
+              679.40464
+            ],
+            [
+              375.79,
+              690.4446399999999
+            ],
+            [
+              517.56,
+              690.4446399999999
+            ],
+            [
+              517.56,
+              679.40464
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Title",
+        "content": "Curitiba, 7 de agosto de 2020.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              741.3446399999999
+            ],
+            [
+              42.6,
+              765.10464
+            ],
+            [
+              295.99,
+              765.10464
+            ],
+            [
+              295.99,
+              741.3446399999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "NarrativeText",
+        "content": "Assinado Eletronicamente por Dra. Juliana Werner, MMV, DMV - CRMV-PR 4265",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              42.6,
+              804.7439999999999
+            ],
+            [
+              42.6,
+              813.7439999999999
+            ],
+            [
+              63.834,
+              813.7439999999999
+            ],
+            [
+              63.834,
+              804.7439999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.32,
+          "layout_height": 842.04
+        },
+        "category": "Footer",
+        "content": "Logo",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

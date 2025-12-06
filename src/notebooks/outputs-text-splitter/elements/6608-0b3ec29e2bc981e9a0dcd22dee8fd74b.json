@@ -1,0 +1,852 @@
+[
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        425.26,
+                        129.79160000000002
+                    ],
+                    [
+                        425.26,
+                        174.6046399999999
+                    ],
+                    [
+                        530.52,
+                        174.6046399999999
+                    ],
+                    [
+                        530.52,
+                        129.79160000000002
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "UncategorizedText",
+            "element_id": "174574dbdb5c1b3506fd1443f00a9eb0",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "N.º 20-5072 Data de entrada: 03/08 Número de origem: XXX Número de lâminas: 01",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        181.49,
+                        191.64463999999998
+                    ],
+                    [
+                        181.49,
+                        202.68463999999994
+                    ],
+                    [
+                        416.59000000000003,
+                        202.68463999999994
+                    ],
+                    [
+                        416.59000000000003,
+                        191.64463999999998
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "ffed2e4c138de12eabe23e653a82a15d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "RESULTADO DE EXAME HISTOPATOLÓGICO",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        215.76463999999999
+                    ],
+                    [
+                        42.6,
+                        302.79463999999996
+                    ],
+                    [
+                        555.3839999999993,
+                        302.79463999999996
+                    ],
+                    [
+                        555.3839999999993,
+                        215.76463999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "ffed2e4c138de12eabe23e653a82a15d",
+            "category": "NarrativeText",
+            "element_id": "3d732ab7781a4c3cc12460df01ee7e92",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Responsável: Larissa da Silva Lucio. Identificação do Animal – Nome: “LUNA”. Espécie: canina. Raça: Spitz. Sexo: F. Idade: 7 anos. Médico Veterinário: Dra. Rosemere Rossoni B. Domingos – Vet Medical Center – (27) 3345-3101. Histórico: paciente submetida à endoscopia. Biópsia de estômago e intestino em 07/07/2020. Quadro de vômitos incoercíveis por 30 dias, acompanhado de diarreia eventual Suspeita clínica: gastrite, enterite eosinofílica? Amostra: não informada. Obs.: laudo histopatológico anexado na requisição.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        318.15464
+                    ],
+                    [
+                        42.6,
+                        329.19463999999994
+                    ],
+                    [
+                        124.82000000000001,
+                        329.19463999999994
+                    ],
+                    [
+                        124.82000000000001,
+                        318.15464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "20559232f10f4b214ccc2355e026731c",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "MACROSCOPIA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        78.024,
+                        336.87464
+                    ],
+                    [
+                        78.024,
+                        347.91463999999996
+                    ],
+                    [
+                        555.72,
+                        347.91463999999996
+                    ],
+                    [
+                        555.72,
+                        336.87464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "20559232f10f4b214ccc2355e026731c",
+            "category": "NarrativeText",
+            "element_id": "8e8742724755c7f4e039ec62aabc5db8",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "A amostra é composta por uma lâmina histológica identificada como “46/20 Luna (Larissa) Quality”.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        349.47463999999997
+                    ],
+                    [
+                        42.6,
+                        360.51463999999993
+                    ],
+                    [
+                        193.97,
+                        360.51463999999993
+                    ],
+                    [
+                        193.97,
+                        349.47463999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "02dfbccdd1fa4d2a3965c37618146e61",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Obs.: ver também laudo 20-5071.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        368.19464
+                    ],
+                    [
+                        42.6,
+                        379.23463999999996
+                    ],
+                    [
+                        121.82000000000001,
+                        379.23463999999996
+                    ],
+                    [
+                        121.82000000000001,
+                        368.19464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "d0c524f7804d380b676c4d6267a85a90",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "MICROSCOPIA",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        70.944,
+                        386.79464
+                    ],
+                    [
+                        70.944,
+                        397.83464
+                    ],
+                    [
+                        555.70512,
+                        397.83464
+                    ],
+                    [
+                        555.70512,
+                        386.79464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "NarrativeText",
+            "element_id": "cce60329e31f0d28ea37732fc196c0b1",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Cortes histológicos sequenciais de fragmentos de mucosa intestinal (intestino delgado), incluindo apenas",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        399.39464
+                    ],
+                    [
+                        42.6,
+                        410.43463999999994
+                    ],
+                    [
+                        247.13,
+                        410.43463999999994
+                    ],
+                    [
+                        247.13,
+                        399.39464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "NarrativeText",
+            "element_id": "c04ae9050bbf2f90d6254830d8ec3a5e",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "porção superficial das vilosidades intestinais.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        60.624,
+                        412.30839999999995
+                    ],
+                    [
+                        60.624,
+                        423.78999999999996
+                    ],
+                    [
+                        206.06503999999998,
+                        423.78999999999996
+                    ],
+                    [
+                        206.06503999999998,
+                        412.30839999999995
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "ListItem",
+            "element_id": "5a72a0d4549b1ad0eee95fb6da0cf9f6",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "1. Características morfológicas",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        427.61464
+                    ],
+                    [
+                        42.6,
+                        489.17463999999995
+                    ],
+                    [
+                        286.51,
+                        489.17463999999995
+                    ],
+                    [
+                        286.51,
+                        427.61464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "NarrativeText",
+            "element_id": "7f70817c3deec0d4ab65f9687a980179",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Encurtamento de vilosidades: aparentemente ausente. Injúria epitelial: ausente. Distensão de criptas: ausente. Dilatação de vaso linfático da vilosidade: ausente. Fibrose da mucosa: ausente.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        60.624,
+                        491.0283999999999
+                    ],
+                    [
+                        60.624,
+                        502.50999999999993
+                    ],
+                    [
+                        129.95504,
+                        502.50999999999993
+                    ],
+                    [
+                        129.95504,
+                        491.0283999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "ListItem",
+            "element_id": "38b9accb12ecb5d503d1a08b298a068d",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "2. Inflamação",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        504.29464
+                    ],
+                    [
+                        42.6,
+                        578.5746399999999
+                    ],
+                    [
+                        313.75,
+                        578.5746399999999
+                    ],
+                    [
+                        313.75,
+                        504.29464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "NarrativeText",
+            "element_id": "6d032a72eea94aaac86622c67def13e2",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Linfócitos intra-epiteliais: normal. Edema e congestão de vasos sangüíneos: presente e leve. Linfócitos e plasmócitos na lâmina própria: aumentado (+). Eosinófilos na lâmina própria: normal. Neutrófilos na lâmina própria: ausentes. Outras células inflamatórias: ausentes.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        78.024,
+                        586.16464
+                    ],
+                    [
+                        78.024,
+                        597.2046399999999
+                    ],
+                    [
+                        274.73,
+                        597.2046399999999
+                    ],
+                    [
+                        274.73,
+                        586.16464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "d0c524f7804d380b676c4d6267a85a90",
+            "category": "NarrativeText",
+            "element_id": "a6b0b70bf4ce7f7a92625cb14fb29e10",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Obs. 1: não se reconhecem agentes causais.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        78.024,
+                        604.76464
+                    ],
+                    [
+                        78.024,
+                        615.80464
+                    ],
+                    [
+                        408.7,
+                        615.80464
+                    ],
+                    [
+                        408.7,
+                        604.76464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "d136626344fe840fb3e484241a86c828",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Obs. 2: não se reconhecem sinais de transformação/ infiltração neoplásica.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        636.0846399999999
+                    ],
+                    [
+                        42.6,
+                        647.12464
+                    ],
+                    [
+                        215.32999999999998,
+                        647.12464
+                    ],
+                    [
+                        215.32999999999998,
+                        636.0846399999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "e76a8e9258bc0caf6e834ec9beb294f4",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "DIAGNÓSTICO OU CONCLUSÕES",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        78.024,
+                        654.80464
+                    ],
+                    [
+                        78.024,
+                        665.8446399999999
+                    ],
+                    [
+                        193.01,
+                        665.8446399999999
+                    ],
+                    [
+                        193.01,
+                        654.80464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "2d51daaea700d6794c1a4fbe87f4f241",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "ENTERITE CRÔNICA LEVE",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        375.79,
+                        679.40464
+                    ],
+                    [
+                        375.79,
+                        690.4446399999999
+                    ],
+                    [
+                        517.56,
+                        690.4446399999999
+                    ],
+                    [
+                        517.56,
+                        679.40464
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Title",
+            "element_id": "8a498739f486691fcf80edf780bc6e83",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Curitiba, 7 de agosto de 2020.",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        741.3446399999999
+                    ],
+                    [
+                        42.6,
+                        765.10464
+                    ],
+                    [
+                        295.99,
+                        765.10464
+                    ],
+                    [
+                        295.99,
+                        741.3446399999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "parent_id": "8a498739f486691fcf80edf780bc6e83",
+            "category": "NarrativeText",
+            "element_id": "f8682d3627b5cb38ff8c2ff27b442264",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Assinado Eletronicamente por Dra. Juliana Werner, MMV, DMV - CRMV-PR 4265",
+        "type": "Document"
+    },
+    {
+        "id": null,
+        "metadata": {
+            "source": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "coordinates": {
+                "points": [
+                    [
+                        42.6,
+                        804.7439999999999
+                    ],
+                    [
+                        42.6,
+                        813.7439999999999
+                    ],
+                    [
+                        63.834,
+                        813.7439999999999
+                    ],
+                    [
+                        63.834,
+                        804.7439999999999
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 842.04
+            },
+            "file_directory": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data",
+            "filename": "6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf",
+            "last_modified": "2020-08-13T09:21:27",
+            "page_number": 1,
+            "languages": [
+                "por"
+            ],
+            "filetype": "application/pdf",
+            "category": "Footer",
+            "element_id": "b8a7e02d1697bb0a0f5aa236fc6a1158",
+            "source_path": "C:\\Users\\User\\Workplace\\not-a-rag-chat\\src\\notebooks\\data\\6608-0b3ec29e2bc981e9a0dcd22dee8fd74b.pdf"
+        },
+        "page_content": "Logo",
+        "type": "Document"
+    }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "chunk_id": "1604ae11-0066-4eb6-9af9-067c54271fa4",
+    "text": "005-MultVet 4.22®\n\nNome do Animal: Norma Espécie: Canina Raça: Não Informada Sexo: Fêmea Tutor(a): Kátia\n\nIdade:\n\nRequisição: Data de entrada: Veterinário(a):\n\n21599\n\n26/01/2024\n\nRosemere Rossoni CRMV:0288\n\nNão informada\n\nClínica :\n\nCia dos Bichos - VMC\n\nHEMOGRAMA ERITROGRAMA\n\nResultados\n\nValores de referência",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 13,
+    "chunk_position": [
+      0,
+      311
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              347.832,
+              95.11199999999997
+            ],
+            [
+              347.832,
+              103.11199999999997
+            ],
+            [
+              414.648,
+              103.11199999999997
+            ],
+            [
+              414.648,
+              95.11199999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "005-MultVet 4.22®",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              70.848,
+              129.582
+            ],
+            [
+              70.848,
+              196.2460000000001
+            ],
+            [
+              185.952,
+              196.2460000000001
+            ],
+            [
+              185.952,
+              129.582
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "Nome do Animal: Norma Espécie: Canina Raça: Não Informada Sexo: Fêmea Tutor(a): Kátia",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              181.368,
+              172.062
+            ],
+            [
+              181.368,
+              182.062
+            ],
+            [
+              210.818,
+              182.062
+            ],
+            [
+              210.818,
+              172.062
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Idade:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              266.472,
+              129.582
+            ],
+            [
+              266.472,
+              167.87800000000004
+            ],
+            [
+              344.82199999999995,
+              167.87800000000004
+            ],
+            [
+              344.82199999999995,
+              129.582
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Requisição: Data de entrada: Veterinário(a):",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              334.512,
+              129.582
+            ],
+            [
+              334.512,
+              139.582
+            ],
+            [
+              362.312,
+              139.582
+            ],
+            [
+              362.312,
+              129.582
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "21599",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              354.312,
+              143.76600000000008
+            ],
+            [
+              354.312,
+              153.76600000000008
+            ],
+            [
+              404.35200000000003,
+              153.76600000000008
+            ],
+            [
+              404.35200000000003,
+              143.76600000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "26/01/2024",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              343.008,
+              157.87800000000004
+            ],
+            [
+              343.008,
+              182.062
+            ],
+            [
+              428.028,
+              182.062
+            ],
+            [
+              428.028,
+              157.87800000000004
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Rosemere Rossoni CRMV:0288",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              212.616,
+              172.062
+            ],
+            [
+              212.616,
+              182.062
+            ],
+            [
+              278.196,
+              182.062
+            ],
+            [
+              278.196,
+              172.062
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Não informada",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              266.472,
+              186.2460000000001
+            ],
+            [
+              266.472,
+              196.2460000000001
+            ],
+            [
+              305.37199999999996,
+              196.2460000000001
+            ],
+            [
+              305.37199999999996,
+              186.2460000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Clínica :",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              311.832,
+              186.2460000000001
+            ],
+            [
+              311.832,
+              196.2460000000001
+            ],
+            [
+              409.63200000000006,
+              196.2460000000001
+            ],
+            [
+              409.63200000000006,
+              186.2460000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Cia dos Bichos - VMC",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              212.42700000000002
+            ],
+            [
+              28.368,
+              238.798
+            ],
+            [
+              115.039,
+              238.798
+            ],
+            [
+              115.039,
+              212.42700000000002
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "HEMOGRAMA ERITROGRAMA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              124.776,
+              228.798
+            ],
+            [
+              124.776,
+              238.798
+            ],
+            [
+              178.676,
+              238.798
+            ],
+            [
+              178.676,
+              228.798
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Resultados",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              296.928,
+              228.798
+            ],
+            [
+              296.928,
+              238.798
+            ],
+            [
+              398.088,
+              238.798
+            ],
+            [
+              398.088,
+              228.798
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "NarrativeText",
+        "content": "Valores de referência",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "eb716fc8-e502-4328-a7e8-a00b7b6a7867",
+    "text": "Hemácias: Hemoglobina: Hematócrito: VCM: CHCM: Conclusão Amostra Lipêmica.\n\n6,8 16,0 49 71,3 32,9\n\n(5.5 - 8.5) (12,0 - 18,0) (37 - 55) (60,0 - 77,0) (32,0 - 36,0)\n\n6\n\n10 /mm ³ g% %\n\nfl\n\ng/dL\n\nLEUCOGRAMA\n\nResultados\n\nValores de referência\n\nLeucócitos totais:\n\n12.100 /µL\n\n(6.000 - 17.000)\n\nDIFERENCIAL:\n\nRelativo (%)",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 15,
+    "chunk_position": [
+      313,
+      628
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              245.86200000000008
+            ],
+            [
+              28.368,
+              332.39799999999997
+            ],
+            [
+              111.168,
+              332.39799999999997
+            ],
+            [
+              111.168,
+              245.86200000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Hemácias: Hemoglobina: Hematócrito: VCM: CHCM: Conclusão Amostra Lipêmica.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              142.272,
+              245.86200000000008
+            ],
+            [
+              142.272,
+              309.7180000000001
+            ],
+            [
+              161.732,
+              309.7180000000001
+            ],
+            [
+              161.732,
+              245.86200000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "6,8 16,0 49 71,3 32,9",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              318.672,
+              245.86200000000008
+            ],
+            [
+              318.672,
+              309.7180000000001
+            ],
+            [
+              373.142,
+              309.7180000000001
+            ],
+            [
+              373.142,
+              245.86200000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "(5.5 - 8.5) (12,0 - 18,0) (37 - 55) (60,0 - 77,0) (32,0 - 36,0)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              422.352,
+              242.361
+            ],
+            [
+              422.352,
+              249.361
+            ],
+            [
+              426.24399999999997,
+              249.361
+            ],
+            [
+              426.24399999999997,
+              242.361
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "6",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              413.856,
+              248.39100000000008
+            ],
+            [
+              413.856,
+              280.071
+            ],
+            [
+              454.365,
+              280.071
+            ],
+            [
+              454.365,
+              248.39100000000008
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "10 /mm ³ g% %",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              413.856,
+              285.2550000000001
+            ],
+            [
+              413.856,
+              294.2550000000001
+            ],
+            [
+              418.356,
+              294.2550000000001
+            ],
+            [
+              418.356,
+              285.2550000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "fl",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              413.856,
+              299.5110000000001
+            ],
+            [
+              413.856,
+              308.5110000000001
+            ],
+            [
+              431.37,
+              308.5110000000001
+            ],
+            [
+              431.37,
+              299.5110000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "g/dL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              345.006
+            ],
+            [
+              28.368,
+              355.006
+            ],
+            [
+              101.13799999999999,
+              355.006
+            ],
+            [
+              101.13799999999999,
+              345.006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "LEUCOGRAMA",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              124.776,
+              345.006
+            ],
+            [
+              124.776,
+              355.006
+            ],
+            [
+              178.676,
+              355.006
+            ],
+            [
+              178.676,
+              345.006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Resultados",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              296.928,
+              345.006
+            ],
+            [
+              296.928,
+              355.006
+            ],
+            [
+              398.088,
+              355.006
+            ],
+            [
+              398.088,
+              345.006
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "NarrativeText",
+        "content": "Valores de referência",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              361.926
+            ],
+            [
+              28.368,
+              371.926
+            ],
+            [
+              105.628,
+              371.926
+            ],
+            [
+              105.628,
+              361.926
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Leucócitos totais:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              162.432,
+              361.926
+            ],
+            [
+              162.432,
+              371.926
+            ],
+            [
+              215.21200000000002,
+              371.926
+            ],
+            [
+              215.21200000000002,
+              361.926
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "12.100 /µL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              311.832,
+              361.926
+            ],
+            [
+              311.832,
+              371.926
+            ],
+            [
+              382.982,
+              371.926
+            ],
+            [
+              382.982,
+              361.926
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "(6.000 - 17.000)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              378.918
+            ],
+            [
+              28.368,
+              388.918
+            ],
+            [
+              97.268,
+              388.918
+            ],
+            [
+              97.268,
+              378.918
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "DIFERENCIAL:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              134.136,
+              381.312
+            ],
+            [
+              134.136,
+              389.312
+            ],
+            [
+              177.69599999999997,
+              389.312
+            ],
+            [
+              177.69599999999997,
+              381.312
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Relativo (%)",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "27682c86-d637-43e5-9b82-69386db1baae",
+    "text": "Absoluto(/mm ³)\n\nAbsoluto(/mm ³)\n\nMielócitos: Metamielócitos: Bastonetes: Segmentados: Eosinófilos: Basófilos: Linfócitos: Monócitos:\n\n0 0 0 77 7 0 10 6\n\n0 0 0 9317 847 0 1210 726\n\n(0 - 0) (0 - 300) (3.500 - 11.500 (100 - 1.250) (0 - 0) (1.000 - 4.800) (150 - 1.350)\n\nPlaquetas\n\n313\n\n(175 - 500)\n\n10 ³/mm³",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 10,
+    "chunk_position": [
+      630,
+      935
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              193.896,
+              381.312
+            ],
+            [
+              193.896,
+              389.312
+            ],
+            [
+              250.79199999999997,
+              389.312
+            ],
+            [
+              250.79199999999997,
+              381.312
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Absoluto(/mm ³)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              318.528,
+              381.312
+            ],
+            [
+              318.528,
+              389.312
+            ],
+            [
+              375.42400000000004,
+              389.312
+            ],
+            [
+              375.42400000000004,
+              381.312
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Absoluto(/mm ³)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              395.83799999999997
+            ],
+            [
+              28.368,
+              485.32599999999996
+            ],
+            [
+              97.828,
+              485.32599999999996
+            ],
+            [
+              97.828,
+              395.83799999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Mielócitos: Metamielócitos: Bastonetes: Segmentados: Eosinófilos: Basófilos: Linfócitos: Monócitos:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              147.456,
+              395.83799999999997
+            ],
+            [
+              147.456,
+              485.32599999999996
+            ],
+            [
+              158.576,
+              485.32599999999996
+            ],
+            [
+              158.576,
+              395.83799999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "0 0 0 77 7 0 10 6",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              204.048,
+              395.83799999999997
+            ],
+            [
+              204.048,
+              485.32599999999996
+            ],
+            [
+              226.288,
+              485.32599999999996
+            ],
+            [
+              226.288,
+              395.83799999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "0 0 0 9317 847 0 1210 726",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              314.928,
+              407.286
+            ],
+            [
+              314.928,
+              485.32599999999996
+            ],
+            [
+              382.748,
+              485.32599999999996
+            ],
+            [
+              382.748,
+              407.286
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "(0 - 0) (0 - 300) (3.500 - 11.500 (100 - 1.250) (0 - 0) (1.000 - 4.800) (150 - 1.350)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              492.318
+            ],
+            [
+              28.368,
+              502.318
+            ],
+            [
+              75.608,
+              502.318
+            ],
+            [
+              75.608,
+              492.318
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "Title",
+        "content": "Plaquetas",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              210.168,
+              492.318
+            ],
+            [
+              210.168,
+              502.318
+            ],
+            [
+              226.848,
+              502.318
+            ],
+            [
+              226.848,
+              492.318
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "313",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              322.848,
+              492.318
+            ],
+            [
+              322.848,
+              502.318
+            ],
+            [
+              371.758,
+              502.318
+            ],
+            [
+              371.758,
+              492.318
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "(175 - 500)",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              413.856,
+              492.318
+            ],
+            [
+              413.856,
+              502.318
+            ],
+            [
+              453.856,
+              502.318
+            ],
+            [
+              453.856,
+              492.318
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "10 ³/mm³",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "440afecb-7892-4939-b8db-181aa3a6d854",
+    "text": "Proteína Plasmática: PESQUISA DE HEMATOZOÁRIOS * Ao exame hemocitológico não foi observado presença de estruturas morfologicamente compatíveis com hematozoários, em caso de suspeita clícica recomenda-se exames complementares.\n\n6,80 g/dL\n\n(6,0 -8,0)",
+    "category": "UncategorizedText",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      937,
+      1185
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              28.368,
+              509.382
+            ],
+            [
+              28.368,
+              554.175
+            ],
+            [
+              531.7200000000006,
+              554.175
+            ],
+            [
+              531.7200000000006,
+              509.382
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "Proteína Plasmática: PESQUISA DE HEMATOZOÁRIOS * Ao exame hemocitológico não foi observado presença de estruturas morfologicamente compatíveis com hematozoários, em caso de suspeita clícica recomenda-se exames complementares.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              187.488,
+              509.382
+            ],
+            [
+              187.488,
+              519.3820000000001
+            ],
+            [
+              229.196,
+              519.3820000000001
+            ],
+            [
+              229.196,
+              509.382
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "6,80 g/dL",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              332.712,
+              509.382
+            ],
+            [
+              332.712,
+              519.3820000000001
+            ],
+            [
+              373.282,
+              519.3820000000001
+            ],
+            [
+              373.282,
+              509.382
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 598.0,
+          "layout_height": 841.0
+        },
+        "category": "UncategorizedText",
+        "content": "(6,0 -8,0)",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]

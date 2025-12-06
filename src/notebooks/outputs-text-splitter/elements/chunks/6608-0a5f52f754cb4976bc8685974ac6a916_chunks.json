@@ -1,0 +1,612 @@
+[
+  {
+    "chunk_id": "40e22dbd-1485-448e-b8b6-391c51dc2c37",
+    "text": "Nome:FLOCK - FATIMA CHRISTINA RANGEL DIAS Idade:12 A Raça/Espécie:CANINO - SRD Local de execução: CDVET PRAIA DO CANTO- US Requisitante:ROSEMERE ROSSONI BATISTA DOMINGOS\n\nData:15/07/2019 Sexo:M Peso:\n\nLAUDO ULTRASSONOGRAFICO\n\nBexiga: Repleta com conteúdo anecóico. Parede fina e regular. Ausência de litíase.",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 4,
+    "chunk_position": [
+      0,
+      308
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              87.11999999999999,
+              87.99568
+            ],
+            [
+              87.11999999999999,
+              167.43567999999993
+            ],
+            [
+              346.56,
+              167.43567999999993
+            ],
+            [
+              346.56,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "Nome:FLOCK - FATIMA CHRISTINA RANGEL DIAS Idade:12 A Raça/Espécie:CANINO - SRD Local de execução: CDVET PRAIA DO CANTO- US Requisitante:ROSEMERE ROSSONI BATISTA DOMINGOS",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              404.15999999999997,
+              87.99568
+            ],
+            [
+              404.15999999999997,
+              126.87567999999999
+            ],
+            [
+              480.9782388,
+              126.87567999999999
+            ],
+            [
+              480.9782388,
+              87.99568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Data:15/07/2019 Sexo:M Peso:",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              209.16,
+              182.88400000000001
+            ],
+            [
+              209.16,
+              194.88400000000001
+            ],
+            [
+              386.124,
+              194.88400000000001
+            ],
+            [
+              386.124,
+              182.88400000000001
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "LAUDO ULTRASSONOGRAFICO",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              204.63567999999998
+            ],
+            [
+              85.08,
+              215.67567999999994
+            ],
+            [
+              453.09455999999994,
+              215.67567999999994
+            ],
+            [
+              453.09455999999994,
+              204.63567999999998
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Bexiga: Repleta com conteúdo anecóico. Parede fina e regular. Ausência de litíase.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9f0da5ac-6dcf-4fb9-b695-f909715d1832",
+    "text": "Rins: Dimensões normais com contornos regulares. Córtex de ecogenicidade levemente aumentada e boa definição corticomedular. Ausência de dilatação de pelve renal.\n\nBaço: Dimensões normais, com ecotextura e ecogenicidade preservadas. Calibre dos vasos normais.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      310,
+      569
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              225.27567999999997
+            ],
+            [
+              85.08,
+              250.95567999999992
+            ],
+            [
+              513.0,
+              250.95567999999992
+            ],
+            [
+              513.0,
+              225.27567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Rins: Dimensões normais com contornos regulares. Córtex de ecogenicidade levemente aumentada e boa definição corticomedular. Ausência de dilatação de pelve renal.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              260.55568000000005
+            ],
+            [
+              85.08,
+              286.2356799999999
+            ],
+            [
+              513.0,
+              286.2356799999999
+            ],
+            [
+              513.0,
+              260.55568000000005
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Baço: Dimensões normais, com ecotextura e ecogenicidade preservadas. Calibre dos vasos normais.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "883f3d46-7fce-4cee-8461-ace205139e48",
+    "text": "Fígado: Dimensões normais, heterogêneo e de ecogenicidade aumentada. Calibre dos vasos normais. Espectro da veia hepática normal. Fluxo portal hepatopetal.\n\nVesícula Biliar: Repleta com conteúdo anecóico. Parede fina e regular.\n\nEstômago: Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      571,
+      885
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              295.83568
+            ],
+            [
+              85.08,
+              321.51567999999986
+            ],
+            [
+              513.0,
+              321.51567999999986
+            ],
+            [
+              513.0,
+              295.83568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Fígado: Dimensões normais, heterogêneo e de ecogenicidade aumentada. Calibre dos vasos normais. Espectro da veia hepática normal. Fluxo portal hepatopetal.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              331.11567999999994
+            ],
+            [
+              85.08,
+              342.15567999999996
+            ],
+            [
+              401.82528,
+              342.15567999999996
+            ],
+            [
+              401.82528,
+              331.11567999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Vesícula Biliar: Repleta com conteúdo anecóico. Parede fina e regular.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              351.75568
+            ],
+            [
+              85.08,
+              362.79568
+            ],
+            [
+              492.90912,
+              362.79568
+            ],
+            [
+              492.90912,
+              351.75568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Estômago: Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "9c4b309e-b782-4dd0-a61e-c28700130ca7",
+    "text": "Próstata: Dimensões diminuídas, homogêneo e de ecogenicidade preservada. Aspecto bilobulado preservado e simétrico. Contornos regulares.\n\nAlças Intestinais:Ausência de dilatação de alças. Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+    "category": "NarrativeText",
+    "page_number": 1,
+    "source_elements_count": 2,
+    "chunk_position": [
+      887,
+      1150
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              372.39567999999997
+            ],
+            [
+              85.08,
+              398.07568
+            ],
+            [
+              513.0,
+              398.07568
+            ],
+            [
+              513.0,
+              372.39567999999997
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Próstata: Dimensões diminuídas, homogêneo e de ecogenicidade preservada. Aspecto bilobulado preservado e simétrico. Contornos regulares.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              407.67567999999994
+            ],
+            [
+              85.08,
+              433.35568
+            ],
+            [
+              513.0,
+              433.35568
+            ],
+            [
+              513.0,
+              407.67567999999994
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Alças Intestinais:Ausência de dilatação de alças. Parede de espessura normal com camadas bem definidas e adequada motilidade.",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "e51d1c46-11dc-4cca-933e-e87b3f9e1d27",
+    "text": "Pâncreas:Dimensões normais, homogêneo e de ecogenicidade preservada.\n\nAdrenais:Dimensões normais Adrenal E e Adrenal D , homogênea, ecogenicidade preservada e contornos regulares e bem definidos.\n\nLinfonodos: Ausência de linfoadenomegalia.\n\nOutros: Ausência de líquido livre cavitário.\n\nCONCLUSÃO:",
+    "category": "Title",
+    "page_number": 1,
+    "source_elements_count": 5,
+    "chunk_position": [
+      1152,
+      1449
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              442.95568
+            ],
+            [
+              85.08,
+              453.99568
+            ],
+            [
+              416.33423999999997,
+              453.99568
+            ],
+            [
+              416.33423999999997,
+              442.95568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Pâncreas:Dimensões normais, homogêneo e de ecogenicidade preservada.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              463.59567999999996
+            ],
+            [
+              85.08,
+              489.27567999999997
+            ],
+            [
+              513.0,
+              489.27567999999997
+            ],
+            [
+              513.0,
+              463.59567999999996
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Adrenais:Dimensões normais Adrenal E e Adrenal D , homogênea, ecogenicidade preservada e contornos regulares e bem definidos.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              498.87568
+            ],
+            [
+              85.08,
+              509.91568
+            ],
+            [
+              286.89072,
+              509.91568
+            ],
+            [
+              286.89072,
+              498.87568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Linfonodos: Ausência de linfoadenomegalia.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              519.51568
+            ],
+            [
+              85.08,
+              530.5556799999999
+            ],
+            [
+              280.18895999999995,
+              530.5556799999999
+            ],
+            [
+              280.18895999999995,
+              519.51568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "Title",
+        "content": "Outros: Ausência de líquido livre cavitário.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              540.15568
+            ],
+            [
+              85.08,
+              551.19568
+            ],
+            [
+              158.39999999999998,
+              551.19568
+            ],
+            [
+              158.39999999999998,
+              540.15568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "UncategorizedText",
+        "content": "CONCLUSÃO:",
+        "overlap_percentage": 1.0
+      }
+    ]
+  },
+  {
+    "chunk_id": "b8acd152-83d8-46b0-a81f-e52a03d61d77",
+    "text": "Hepatopatia crônica.\n\nSenilidade renal.\n\nEste laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: cdvetdiagnostico.com.br Seu usuário: 36321 e Senha: 18775",
+    "category": "ListItem",
+    "page_number": 1,
+    "source_elements_count": 3,
+    "chunk_position": [
+      1451,
+      1632
+    ],
+    "contributing_elements": [
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              560.79568
+            ],
+            [
+              85.08,
+              571.8356799999999
+            ],
+            [
+              182.97072,
+              571.8356799999999
+            ],
+            [
+              182.97072,
+              560.79568
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "ListItem",
+        "content": "Hepatopatia crônica.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              85.08,
+              581.4356799999999
+            ],
+            [
+              85.08,
+              592.4756799999999
+            ],
+            [
+              165.82896,
+              592.4756799999999
+            ],
+            [
+              165.82896,
+              581.4356799999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "ListItem",
+        "content": "Senilidade renal.",
+        "overlap_percentage": 1.0
+      },
+      {
+        "coordinates": {
+          "points": [
+            [
+              122.03999999999999,
+              731.2629999999999
+            ],
+            [
+              122.03999999999999,
+              750.5829999999999
+            ],
+            [
+              466.14000000000004,
+              750.5829999999999
+            ],
+            [
+              466.14000000000004,
+              731.2629999999999
+            ]
+          ],
+          "system": "PixelSpace",
+          "layout_width": 595.56,
+          "layout_height": 842.28
+        },
+        "category": "NarrativeText",
+        "content": "Este laudo/imagens ficarão disponíveis em nosso sistema 24 meses Resultado ONLINE: cdvetdiagnostico.com.br Seu usuário: 36321 e Senha: 18775",
+        "overlap_percentage": 1.0
+      }
+    ]
+  }
+]
